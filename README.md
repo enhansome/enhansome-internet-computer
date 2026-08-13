@@ -1,1 +1,657 @@
-# enhansome-internet-computer
+<!-- omit in toc -->
+
+# Awesome Internet Computer with stars
+
+<a align="center" href="https://internetcomputer.org/">
+  <img src="assets/awesome-cover.png">
+</a>
+
+The [Internet Computer](https://internetcomputer.org/) is a public blockchain that hosts smart contracts that run at web speed, can serve web from cyberspace, run efficiently, and can scale within an environment that has unbounded capacity. Smart contracts are a profoundly new and superior form of tamperproof and unstoppable software. They can imbue systems and services with new properties, enabling the reimagination of websites, systems, internet services and finance.
+
+***
+
+<!-- omit in toc -->
+
+## Contents
+
+* [Courses, Tutorials, and Samples](#courses-tutorials-and-samples)
+* [Starters](#starters)
+* [Client Libraries (Agents)](#client-libraries-agents)
+* [Canister Development Kits (CDKs)](#canister-development-kits-cdks)
+* [Dapp Development Platforms and Frameworks](#dapp-development-platforms-and-frameworks)
+* [Developer Tooling](#developer-tooling)
+* [Motoko](#motoko-1)
+* [Candid](#candid)
+* [Storage and Databases](#storage-and-databases)
+* [Infrastructure](#infrastructure)
+* [Fungible and Non-fungible Tokens (NFTs)](#fungible-and-non-fungible-tokens-nfts)
+* [Messaging](#messaging)
+* [Decentralized Finance (DeFi)](#decentralized-finance-defi)
+* [DAO Frameworks](#dao-frameworks)
+* [Game Development](#game-development)
+* [Wallets and Authentication](#wallets-and-authentication)
+* [Dashboards, Explorers and Registries](#dashboards-explorers-and-registries)
+* [Chain Fusion](#chain-fusion)
+* [Internet of Things](#internet-of-things)
+* [Decentralized AI](#decentralized-ai)
+* [Model Context Protocol](#mcp---model-context-protocol)
+* [ZK](#zk)
+* [How it works / Deep dives](#how-it-works--deep-dives)
+* [Blogs](#blogs)
+* [Communities and Communication](#communities-and-communication)
+* [Bounties and Grants](#bounties-and-grants)
+
+## Courses, Tutorials, and Samples
+
+### Courses
+
+* [Web3 with TypeScript Bootcamp](https://github.com/Code-and-State/typescript-bootcamp) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2023-08-31 - Learn to build a DAO in 7 days, with TypeScript, on the Internet Computer.
+* [Motoko Bootcamp - The DAO Adventure](https://github.com/motoko-bootcamp/dao-adventure) - Discover the Motoko language in this 7 day adventure and learn to build a DAO , on the Internet Computer.
+* [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Udemy course with a complete section on web3 development using the Internet Computer.
+* [Web3, Blockchain, and the Internet Computer](https://www.youtube.com/playlist?list=PLSzsOkUDsvdubXF5XGGPffyQJ5CVU_9_c) - Youtube series (excerpt from The Complete Web Development Bootcamp).
+* [AgorApp Motoko Course](https://agorapp.dev/editor/courses/motoko/learn-motoko/01-variables) - Interactive course for Motoko beginners.
+* [Dacade TypeScript Smart Contract 101](https://dacade.org/communities/icp/) - Learn to build Dapps on the IC using TypeScript.
+* [Master Deployments of Static Websites on the Internet Computer](https://vspc.veriable.at/6513c18b1f66192cab8beb29.html) - Learn to host a static website on the Internet Computer using Astro.
+
+### Tutorials and Samples
+
+* [DFINITY Examples Repo](https://github.com/dfinity/examples) ⭐ 613 | 🐛 23 | 🌐 Rust | 📅 2026-08-12 - Code samples from DFINITY.
+* [Internet Computer Developer Hub](https://internetcomputer.org/docs/current/home) - The main entry point to documentation, guides and references.
+
+#### Simple / Getting started
+
+* [Rust Modular Canister Template](https://github.com/SaorsaLabs/Template_Canister) ⭐ 7 | 🐛 0 | 🌐 Rust | 📅 2024-02-26 - An example canister with stable storage, HTTP outcalls, timers and more.
+* [EmberJS Frontend for the Internet Computer](https://github.com/onehilltech/ember-cli-dfinity/blob/main/docs/getting-started.md) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2024-04-07 - Getting started tutorial using the hello example.
+* [Considerations for NFT Developers](https://internetcomputer.org/docs/current/developer-docs/best-practices/considerations-for-nft-devs) - Discussion of best practices for NFT developers.
+* [Deploy Your First dApp on the IC in 10 Minutes!](https://www.youtube.com/watch?v=r5s7nD_XO0M) - Getting started video tutorial.
+* [Frontends on the Internet Computer](https://www.youtube.com/watch?v=rjSDvTaEj3s) - Video tutorial on hosting frontends using the asset canister.
+* [Intro to Building on the Internet Computer](https://www.youtube.com/watch?v=fSO___x3e3I) - Video introduction to building on the IC with Motoko and Rust.
+* [Languages on the IC](https://medium.com/code-state/which-language-should-you-choose-to-build-on-the-internet-computer-%EF%B8%8F-851c31e9c28) - Guide on how to select the programming language for the IC.
+* [Make Oracles Obsolete in under 5 Minutes](https://www.youtube.com/watch?v=3e12N9mcWhw) - Short video tutorial on HTTPS Outcalls in Motoko.
+* [Rust + React (Typescript) + Internet Identity](https://medium.com/@ilbert/rust-react-typescript-internet-identity-on-the-internet-computer-35331ae2a4be) - Tutorial on setting up a project with Rust, React and Internet Identity.
+* [C++](https://docs.icpp.world/getting-started.html) - Introduction to developing canisters in C++.
+* [WebSockets on the Internet Computer: Getting Started](https://medium.com/@ilbert/websockets-on-the-ic-getting-started-5f8bcdfaabdc) - Tutorial on setting up a WebSocket connection from a frontend client to a canister.
+
+#### Advanced
+
+* [Cross-Chain ETH Payment and E-Commerce](https://github.com/b3hr4d/eth_payment_tutorial) ⭐ 17 | 🐛 1 | 🌐 JavaScript | 📅 2024-08-03 - A step-by-step guide to building a cross-chain payment and e-commerce platform on the Internet Computer using Ethereum.
+* [Access control](https://github.com/domwoe/access_control) ⭐ 15 | 🐛 0 | 🌐 Rust | 📅 2023-01-27 - Demonstrator for access control patterns on the IC.
+* [React Native + JWT Authentication + Rust Canister demo](https://github.com/ilbertt/ic-react-native-jwt-auth) ⭐ 10 | 🐛 1 | 🌐 Rust | 📅 2024-08-24 - React Native (Expo) mobile app that uses the JWT minted from an authentication provider (Auth0 in this case) to authenticate on a Rust canister.
+* [Hosting ERC 721 metadata](https://github.com/domwoe/erc-721-ic-assets) ⭐ 9 | 🐛 1 | 🌐 Motoko | 📅 2023-07-13 - Tutorial on hosting metadata and assets for ERC-721 NFTs on the IC.
+* [Backup and Restore](https://github.com/Factland/ic-factland/blob/main/backup/backup_restore.md) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-25 - Tutorial with code on backup and restore of canister state.
+* [Canister guard in Rust](https://medium.com/@daviddalbusco/canister-guard-in-rust-on-the-internet-computer-c896f75e0cef) - Tutorial on the guard pattern for access control.
+* [Code native Bitcoin](https://www.youtube.com/watch?v=LGegOFqP5x0) [(2nd part)](https://www.youtube.com/watch?v=H6Wu9n9Qwa8) - Video tutorials on how to use the native Bitcoin integration.
+* [Environments](https://medium.com/@Catalyze.One/working-with-environments-on-the-internet-computer-59ed3d2a5763) - How to work with different environments (dev/staging/prod).
+* [Migration from Motoko to Rust](https://medium.com/dfinity/how-to-migrate-canister-smart-contracts-from-motoko-to-rust-3446a4b0c2ff) - How to Migrate Canister Smart Contracts from Motoko to Rust.
+* [Converting ICP into Cycles](https://medium.com/dfinity/converting-icp-into-cycles-javascript-9b0dba8d8e00) - How to programmatically convert ICP into Cycles in NodeJS.
+* [Social Platform Previews and SEO](https://medium.com/dfinity/how-to-configure-dapps-for-social-platform-previews-and-seo-62a55ee63d33) - Tutorial on how to configure dapps for social platform previews and SEO.
+
+## Starters
+
+* [create-ic-app](https://github.com/MioQuispe/create-ic-app) ⭐ 180 | 🐛 12 | 🌐 JavaScript | 📅 2022-07-13 - Modern, unopinionated templates for React, Vue & Svelte powered by [Vite](https://vitejs.dev/).
+* [nextjs-ic-starter](https://github.com/dappblock/nextjs-ic-starter) ⭐ 67 | 🐛 2 | 🌐 JavaScript | 📅 2025-03-01 - Next.js Internet Computer Starter Template.
+* [vite-react-motoko](https://github.com/rvanasa/vite-react-motoko) ⭐ 58 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-15 - Full-Stack React/Motoko starter with live reload.
+* [ic-eth-starter](https://github.com/dfinity/ic-eth-starter) ⭐ 41 | 🐛 6 | 🌐 TypeScript | 📅 2026-04-09 - An advanced starter project for interacting with Ethereum on the Internet Computer (Beta).
+* [create-ic](https://github.com/peterpeterparker/create-ic) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2024-04-14 - A simple command line tool to quickly create projects for the IC.
+* [icp-dev-env](https://github.com/dfinity/icp-dev-env/tree/main) ⭐ 13 | 🐛 1 | 🌐 Dockerfile | 📅 2026-08-12 – A Docker image for a canister smart contract developer environment for ICP.
+* [IC Rust NextJS Starter](https://github.com/b3hr4d/ic-rust-nextjs) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-10 - A starter kit for building applications with Rust and Next.js on the Internet Computer.
+* [IC in Dev Container](https://github.com/infu/internet-computer-start) ⭐ 8 | 🐛 0 | 🌐 Dockerfile | 📅 2023-07-01 - Run a local replica inside a Docker container with NNS in VS Code or GitHub Codespaces.
+* [Azle + NextJS Starter](https://github.com/mzurs/ic_template-Azle-NextJS) ⭐ 8 | 🐛 1 | 🌐 Shell | 📅 2023-11-24 - Build Full-stack Dapp on IC with Typescript CDK and NextJS.
+* [ic-alloy-basic-eth](https://github.com/kristoferlund/ic-alloy-basic-eth-frontend) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-13 - A multiuser Ethereum wallet starter/template using the Alloy EVM support libraries.
+* [ic-rust-starter](https://github.com/ocluf/ic-rust-starter) ⭐ 6 | 🐛 1 | 🌐 Rust | 📅 2023-01-25 - Starter for a Rust backend-only canister project.
+* [vite-sveltekit-motoko-ii](https://github.com/letmejustputthishere/vite-sveltekit-motoko-ii) ⭐ 6 | 🐛 5 | 🌐 Svelte | 📅 2024-09-30 – Full-Stack SvelteKit/Motoko start with Internet Identity Integration and live reload.
+
+## Client Libraries (Agents)
+
+Agents facilitate the interaction from clients with canisters on the Internet Computer. If you want to contribute an agent implementation check out this [Grant RFP](https://github.com/dfinity/grant-rfps/issues/4) ⭐ 87 | 🐛 1 | 📅 2025-08-28.
+
+* [Interactive Tutorial on Agents](https://5n2bt-lqaaa-aaaae-aajfa-cai.raw.icp0.io/) - A low-level interactive tutorial on the inner workings of an Internet Computer agent.
+
+### JavaScript/TypeScript
+
+* [agent-js](https://github.com/dfinity/agent-js) ⭐ 171 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-11 - Collection of libraries to interact with the IC using JavaScript.
+* [ic-js](https://github.com/dfinity/ic-js) ⭐ 81 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-10 - Collection of libraries for interfacing with the Internet Computer.
+* [ic-use-siwe-identity](https://github.com/kristoferlund/ic-siwe/tree/main/packages/ic-use-siwe-identity) ⭐ 32 | 🐛 2 | 🌐 Rust | 📅 2025-09-12 - React hook for easy frontend integration with SIWE (Sign in with Ethereum) enabled canisters.
+* [node-ic0](https://github.com/dfinity/node-ic0) ⭐ 19 | 🐛 5 | 🌐 TypeScript | 📅 2026-04-09 - The ic0 package is a simple, straightforward way to interact with canisters running on the IC.
+* [icblast](https://github.com/infu/icblast) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-31 - Communicate with IC directly using NodeJS. Automatic service discovery.
+* [ic-use-internet-identity](https://github.com/kristoferlund/ic-use-internet-identity) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2025-12-26 - React hook that makes it easy to integrate IC Internet Identity into React applications.
+* [ic-websocket-sdk](https://github.com/omnia-network/ic-websocket-sdk-js) ⭐ 11 | 🐛 9 | 🌐 TypeScript | 📅 2025-03-13 - Library for interfacing with the IC via WebSocket using JavaScript.
+* [ic-use-actor](https://github.com/kristoferlund/ic-use-actor) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-26 - React hook to make interacting with Internet Computer canisters more fun!
+* [ic-reactor/core](https://b3pay.github.io/ic-reactor/modules/core.html) - Streamline agent and actor management, ensuring type-safe communication with canisters, and simplifies the interaction through a user-friendly API. Ideal for building efficient, scalable decentralized applications (dApps) with minimized boilerplate code.
+* [ic-reactor/react](https://b3pay.github.io/ic-reactor/modules/react.html) - Tailored specifically for React developers working on Internet Computer projects, this library integrates seamlessly with React's ecosystem to provide custom hooks and utilities for state management, authentication, and type-safe interactions with IC actors.
+
+### Rust
+
+* [dfx](https://github.com/dfinity/sdk) ⭐ 204 | 🐛 70 | 🌐 Rust | 📅 2026-07-28 - Commandline tool to interact with the IC written in Rust.
+* [agent-rs](https://github.com/dfinity/agent-rs) ⭐ 144 | 🐛 4 | 🌐 Rust | 📅 2026-08-05 - Collection of libraries and tools for interfacing with the IC using Rust.
+
+### Python
+
+* [icp-py-core](https://github.com/eliezhao/icp-py-core) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-06-02 - Library for interfacing with the IC using Python.
+
+### Dart/Flutter
+
+* [agent\_dart](https://github.com/AstroxNetwork/agent_dart) ⭐ 111 | 🐛 53 | 🌐 Dart | 📅 2025-09-02 - Framework to build mobile applications.
+
+### Go
+
+* [agent-go](https://github.com/aviate-labs/agent-go) ⭐ 57 | 🐛 0 | 🌐 Go | 📅 2026-07-16 - Libraries for interfacing with the IC using Go.
+* ⚠️ UNMAINTAINED ⚠️ [ic-go](https://github.com/mix-labs/IC-Go) ⚠️ Archived - Libraries for interfacing with the IC using Go.
+
+### C
+
+* [ICP.NET](https://github.com/edjCase/ICP.NET) ⭐ 55 | 🐛 7 | 🌐 C# | 📅 2025-04-21 - Native Implementation in C# (Unity compatible).
+* [agent-unity](https://github.com/ShikuLabs/agent-unity) ⭐ 8 | 🐛 3 | 🌐 Rust | 📅 2023-02-04 - Wrapper of agent-rs to be used in unity projects.
+
+### C++
+
+* [icp-client-cpp](https://github.com/Zondax/icp-client-cpp) ⭐ 9 | 🐛 0 | 🌐 C++ | 📅 2025-03-18 - C/C++ wrapper for agent-rs.
+
+### Java/Kotlin
+
+* [ic4j-agent](https://github.com/ic4j/ic4j-agent) ⭐ 21 | 🐛 5 | 🌐 Java | 📅 2026-03-13 - Libraries for interfacing with the IC using Java (Android compatible).
+* [Icp Kotlin Kit](https://github.com/ThomasConstantinBity/ICP-Kotlin-Kit) ⭐ 3 | 🐛 0 | 🌐 Kotlin | 📅 2025-12-25 - kotlin library to interact with IC. Provides a candid file parser to parse candid files to kotlin and interact with canisters.
+* [ic4j-websocket](https://github.com/ic4j/ic4j-websocket) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2024-06-03 - Library for interfacing with the IC via WebSocket using Java (Android compatible).
+
+### Ruby
+
+* ⚠️ UNMAINTAINED ⚠️ [ic\_agent](https://github.com/tuminfei/ic_agent) ⭐ 2 | 🐛 0 | 🌐 Ruby | 📅 2023-09-07 - Basic modules to interact with the IC using Ruby.
+
+### Elixir
+
+* [icp\_agent](https://github.com/diodechain/icp_agent) ⭐ 5 | 🐛 0 | 🌐 Elixir | 📅 2026-05-06 - Agent for making ICP queries and calls from elixir.
+
+### Swift
+
+* [IcpKit](https://github.com/kosta-bity/IcpKit) ⭐ 17 | 🐛 2 | 🌐 Swift | 📅 2026-01-14 - Native Swift library for interacting with IC on iOS/MacOS. Provides implementation for Ledger canister.
+
+## Canister Development Kits (CDKs)
+
+* [CDK Framework](https://github.com/demergent-labs/cdk_framework) ⭐ 11 | 🐛 15 | 🌐 Rust | 📅 2024-04-10 - Framework to build CDKs which has been used for Azle and Kybra.
+
+### Motoko
+
+* [Motoko](#motoko-1) - Simple high-level language for writing canisters.
+
+### Rust
+
+* [canister-sdk](https://github.com/infinity-swap/canister-sdk) ⭐ 39 | 🐛 0 | 🌐 Rust | 📅 2025-06-10 - SDK for writing and testing canisters for the Internet Computer in Rust.
+* [Rustic](https://github.com/internet-computer-protocol/rustic) ⭐ 21 | 🐛 1 | 🌐 Rust | 📅 2024-03-08 - Extension to ic-cdk, providing primitives familiar to Solidity developers.
+* [ic-cdk](https://crates.io/crates/ic-cdk) - Rust CDK maintained by DFINITY.
+* [ic-websocket-cdk](https://crates.io/crates/ic-websocket-cdk) - IC WebSocket CDK for canisters written in Rust.
+
+### JavaScript/TypeScript
+
+* [Azle](https://github.com/demergent-labs/azle) ⭐ 230 | 🐛 360 | 🌐 TypeScript | 📅 2026-08-12 - TypeScript CDK.
+
+### Python
+
+* [Kybra](https://github.com/demergent-labs/kybra) ⭐ 93 | 🐛 52 | 🌐 Rust | 📅 2025-05-31 - Python CDK.
+
+### Solidity
+
+* [bitfinity-evm](https://docs.bitfinity.network/) - Provides the ability to create EVM-based smart contracts.
+
+### C/C++
+
+* [Chico](https://github.com/ICPorts-labs/chico) ⭐ 9 | 🐛 0 | 🌐 C | 📅 2022-11-16 - C/C++ CDK.
+* [Lucid (cdk-c)](https://github.com/q2333gh/Lucid) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2026-02-10 - Pure C canister development kit for the Internet Computer (no C++ runtime).
+* [icpp-pro](https://docs.icpp.world/) - C++ CDK.
+
+### AssemblyScript
+
+* [cdk-as](https://github.com/rckprtr/cdk-as) ⭐ 19 | 🐛 1 | 🌐 WebAssembly | 📅 2021-01-21 - AssemblyScript CDK.
+
+### Moonbit
+
+* [moonbit-ic-cdk](https://github.com/eliezhao/moonbit-ic-cdk) ⭐ 21 | 🐛 0 | 🌐 MoonBit | 📅 2025-12-09 - A lightweight, WebAssembly-native Canister Development Kit (CDK) for building smart contracts on the Internet Computer (ICP) with the MoonBit language.
+
+## Dapp Development Platforms and Frameworks
+
+* [Ego](https://github.com/EgoDevs/ego) ⭐ 16 | 🐛 2 | 🌐 Rust | 📅 2024-10-06 - Framework to build wallet apps, i.e. user-controlled canisters.
+* [Juno](https://juno.build/) - Build Web3 at Lightning Speed.
+
+## Developer Tooling
+
+* [ic-nix](https://github.com/ninegua/ic-nix) ⭐ 41 | 🐛 6 | 🌐 Nix | 📅 2026-08-10 - Build IC projects with Nix.
+* [wasi2ic](https://github.com/wasm-forge/wasi2ic) ⭐ 33 | 🐛 1 | 🌐 Rust | 📅 2025-11-28 - Convert WASI binaries into binaries runnable on the IC.
+* [pluto](https://github.com/Forge-3/pluto) ⚠️ Archived – Rust framework for serving HTTP from a canister
+* [liminal](https://github.com/edjCase/liminal) ⭐ 10 | 🐛 10 | 🌐 Motoko | 📅 2025-10-31 – A Motoko, middleware-based framework for serving HTTP from a canister.
+* [setup-dfx](https://github.com/dfinity/setup-dfx) ⭐ 9 | 🐛 5 | 📅 2026-04-09 – GitHub Action to set up dfx
+* [dfxvm](https://github.com/dfinity/dfxvm) ⭐ 8 | 🐛 5 | 🌐 Rust | 📅 2026-07-28 - The dfx version manager that lets you easily switch between dfx versions.
+* [Ice.ts](https://github.com/MioQuispe/ice.ts) ⭐ 5 | 🐛 57 | 🌐 TypeScript | 📅 2025-12-10 - Typescript-native tooling & deployments for the Internet Computer. A task runner like hardhat.
+* [Developer Tooling Landing page](https://internetcomputer.org/tooling) - Overview of tooling in the Internet Computer ecosystem.
+* [IC Inspector](https://chrome.google.com/webstore/detail/ic-inspector/meaadkenfkhjakkkdapaallimhbdofck) - Chrome extension to decode IC requests and responses.
+* [Internet Base](https://marketplace.visualstudio.com/items?itemName=InternetBase.internet-base) - VSCode extension to run Blast notebooks.
+* [canister-tools](https://github.com/levifeldman/canister-tools) - Take snapshots of the canister-data and download/upload snapshots. Simple upgrades. Common tools for Rust canisters.
+* [ICP Support](https://marketplace.visualstudio.com/items?itemName=blockydevs.vscode-motoko-helper) - VS Code extension for deploying and interacting with canisters directly from within the editor.
+* [Canister DNS](https://canisterdns.stevekimoi.me) - A tool to easily connect your custom domain to your canister URL, supporting both main domains and subdomains.
+
+### IDEs
+
+* [ICP Ninja](https://icp.ninja) - A browser IDE for creating Internet Computer (ICP) smart contracts. Write and deploy entire applications directly onchain from the browser.
+
+### Testing
+
+* [pocket-ic](https://github.com/dfinity/ic/tree/master/packages/pocket-ic) ⭐ 1,783 | 🐛 267 | 🌐 Rust | 📅 2026-08-13 - A canister testing library that supports deterministic, programmatic canister testing in Rust.
+* [ic-repl](https://github.com/chenyan2002/ic-repl) ⭐ 72 | 🐛 3 | 🌐 Rust | 📅 2026-07-15 - A REPL environment to communicate with canisters. Allows to write E2E integration tests.
+* [canister-profiling](https://github.com/dfinity/canister-profiling) ⭐ 21 | 🐛 20 | 🌐 Rust | 📅 2026-04-08 - Code & scripts for collecting performance data for canisters.
+* [pocketic-py](https://github.com/dfinity/pocketic-py) ⭐ 14 | 🐛 9 | 🌐 Python | 📅 2026-05-12 - A canister testing library that supports deterministic, programmatic canister testing in Python.
+* [lightic](https://github.com/icopen/lightic) ⭐ 14 | 🐛 2 | 🌐 Rust | 📅 2023-08-15 - Write & Run tests for any canister in JS/TS. Canisters will be run inside nodejs environment, no DFX.
+* [pic-js](https://github.com/dfinity/pic-js) ⭐ 10 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-03 - A TypeScript/JavaScript library for testing canisters with support for PocketIC.
+* [ic-test](https://github.com/wasm-forge/ic-test) ⭐ 5 | 🐛 3 | 🌐 Rust | 📅 2025-11-28 - Command-line tool that makes it easier to create a test project and includes the basic files and setup needed for both IC canisters and optionally EVM (Ethereum Virtual Machine) smart contracts.
+* [ic-mockery](https://github.com/ic-mockery/ic-mockery) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2026-03-20 - IC-Mockery is a procedural macro framework that transforms async Result methods into HTTP outcalls, enabling seamless Internet Computer canister testing with PocketIC without changing production code.
+
+### Benchmarking
+
+* [canbench](https://github.com/dfinity/canbench/) ⭐ 21 | 🐛 14 | 🌐 Rust | 📅 2026-08-06 - A benchmarking framework for canisters, allowing you to analyze your code's use of instructions and memory.
+
+### CI/CD
+
+* [ICPipeline](https://www.icpipeline.com/) - CI/CD framework to simply IC release management.
+* [Launchtrail](https://github.com/spinner-cash/launchtrail) ⭐ 45 | 🐛 2 | 🌐 Rust | 📅 2022-06-20 - Simple and Secure Release Management for Internet Computer Projects.
+
+### Monitoring
+
+* [ic-blackhole](https://github.com/ninegua/ic-blackhole) ⭐ 53 | 🐛 3 | 🌐 Nix | 📅 2025-01-05 - Canister to publicly expose canister status information.
+* [Cycles Manager](https://github.com/CycleOperators/cycles-manager) ⭐ 19 | 🐛 2 | 🌐 Motoko | 📅 2023-07-24 - A library for index canisters that want to manage the cycles of their child canisters.
+* [Canister monitoring](https://github.com/domwoe/canister-monitoring) ⭐ 7 | 🐛 2 | 🌐 Motoko | 📅 2022-06-02 - Example of using Prometheus to collect metrics from a canister.
+* [Canistergeek](https://cusyh-iyaaa-aaaah-qcpba-cai.raw.ic0.app/) - Open-source tool to track your project canisters cycles and memory status.
+* [CycleOps](https://cycleops.dev) - Proactive, automated, canister cycles management with email notifications and a no-code integration.
+* [Cycle.Express](https://cycle.express) - Buy cycles at a steep discount by paying fiat money (credit cards, etc).
+* [Cycles.watch](https://cycles.watch) - Dashboard for canister cycles consumption overview with local notifications
+* [Metrics encoder](https://lib.rs/crates/ic-metrics-encoder) - Library to encode metrics in Prometheus text exposition format.
+
+### Orchestrating
+
+* [Canic](https://github.com/dragginzgame/canic) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2026-08-12 - A Rust toolkit for orchestrating Internet Computer (IC) canisters at scale.
+
+## Motoko
+
+Motoko is a safe, simple, actor-based programming language for authoring Internet Computer (IC) canister smart contracts.
+
+* [Motoko GitHub Repository](https://github.com/dfinity/motoko) ⭐ 588 | 🐛 256 | 🌐 OCaml | 📅 2026-08-12 - The home of the Motoko language.
+* [Blocks](https://github.com/Blocks-Editor/blocks) ⭐ 164 | 🐛 28 | 🌐 JavaScript | 📅 2023-09-13 - Online low-code editor for Motoko.
+* [Awesome Motoko](https://github.com/ic123-xyz/awesome-motoko) ⭐ 118 | 🐛 0 | 📅 2025-11-25 - Awesome list focused on Motoko.
+* [Motoko Formatter](https://github.com/dfinity/prettier-plugin-motoko) ⭐ 28 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-10 - A configurable Prettier plugin for Motoko.
+* [Motoko Dev Server](https://github.com/dfinity/motoko-dev-server) ⚠️ Archived - A live reload development server for Motoko smart contracts.
+* [Embed Motoko](https://embed.smartcontracts.org/) - Embed an interactive Motoko code snippet on your website.
+* [Motoko VS Code extension](https://marketplace.visualstudio.com/items?itemName=dfinity-foundation.vscode-motoko) - Motoko language support for Visual Studio Code.
+* [Motoko Zed extension](https://zed.dev/extensions/motoko) - Motoko language support for Zed.
+* [Motoko.js](https://www.npmjs.com/package/motoko) - Compile and run Motoko in Node.js and the browser.
+
+### Package Managers
+
+* [MOPS](https://mops.one/) - Package manager for Motoko with fully on-chain package registry.
+* [Vessel](https://github.com/dfinity/vessel) ⚠️ Archived - Package manager for the Motoko programming language.
+
+### Libraries / Frameworks
+
+* [Server](https://github.com/krpeacock/server) ⭐ 33 | 🐛 2 | 🌐 Motoko | 📅 2025-06-06 - An Express-style http framework for serving certified http responses from canisters.
+* [IC Certification](https://github.com/nomeata/ic-certification) ⭐ 21 | 🐛 4 | 🌐 Nix | 📅 2025-08-18 - Merkle Tree and support for certified variables and assets.
+* [IC-TEE](https://github.com/ldclabs/ic-tee) ⭐ 18 | 🐛 0 | 🌐 Rust | 📅 2026-08-06 - A framework to make Trusted Execution Environments (TEEs) work with the Internet Computer.
+* [motoko\_regex](https://github.com/demali-876/motoko_regex_engine) ⭐ 1 | 🐛 1 | 🌐 Motoko | 📅 2025-05-07 Library for native pattern matching on the Internet Computer.
+* [ic-websocket-cdk](https://mops.one/ic-websocket-cdk) - IC WebSocket CDK for canisters written in Motoko.
+
+## Candid
+
+Candid is an interface description language (IDL) for interacting with canisters (also known as services or actors) running on the Internet Computer. It provides a language-independent description of canister interfaces and the data they exchange, with type safety and extensibility.
+
+* [Candid GitHub Repo](https://github.com/dfinity/candid) ⭐ 301 | 🐛 64 | 🌐 Rust | 📅 2026-08-11 - The home of Candid.
+* [Candid UI](https://github.com/dfinity/candid/blob/master/tools/ui) ⭐ 301 | 🐛 64 | 🌐 Rust | 📅 2026-08-11 - Generates a front-end UI for any canister.
+* [didc](https://github.com/dfinity/candid/tree/master/tools/didc) ⭐ 301 | 🐛 64 | 🌐 Rust | 📅 2026-08-11 - A multi-purpose tool for Candid.
+* [idl2json](https://github.com/dfinity/idl2json) ⭐ 9 | 🐛 6 | 🌐 Rust | 📅 2026-04-08 - Command line tool for converting Candid to JSON.
+* [Intellij Candid Plugin](https://github.com/Alaanor/candid-intellij-plugin) ⭐ 7 | 🐛 9 | 🌐 Kotlin | 📅 2023-09-15 - A Candid language plugin for editing .did files.
+* [Candid UI Web Component](https://github.com/dfinity/dfn-components/tree/main/packages/candid-ui) ⭐ 5 | 🐛 6 | 🌐 TypeScript | 📅 2026-04-08 - Web component to easily embed Candid UI.
+* [generate-did](https://crates.io/crates/generate-did) - A tool to generate Candid (.did) files for Internet Computer Rust canisters.
+
+### Candid implementations
+
+#### AssemblyScript
+
+* [cdk-as candid](https://github.com/rckprtr/cdk-as/tree/master/packages/cdk/assembly/candid) ⭐ 19 | 🐛 1 | 🌐 WebAssembly | 📅 2021-01-21 - AssemblyScript library of Candid.
+
+#### C
+
+* [ICP.NET candid](https://github.com/edjCase/ICP.NET/tree/main/src/Candid) ⭐ 55 | 🐛 7 | 🌐 C# | 📅 2025-04-21 - C# library of Candid.
+
+#### C++
+
+* [icpp-candid](https://github.com/icppWorld/icpp-candid) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-08-05 - C++ Candid Library.
+
+#### Dart
+
+* [candid\_dart](https://github.com/AstroxNetwork/candid_dart) ⭐ 17 | 🐛 0 | 🌐 Dart | 📅 2025-07-15 - Dart library of Candid.
+
+#### Elm
+
+* [ic-elm](https://github.com/chenyan2002/ic-elm/) ⭐ 6 | 🐛 10 | 🌐 JavaScript | 📅 2023-01-07 - A template for using Elm to develop frontend user interface for the Internet Computer.
+
+#### Elixir
+
+* [candid](https://github.com/diodechain/candid) ⭐ 0 | 🐛 0 | 🌐 Elixir | 📅 2026-01-07 - Elixir library for encoding/decoding Candid.
+
+#### Haskell
+
+* [haskell-candid](https://github.com/nomeata/haskell-candid) ⭐ 6 | 🐛 1 | 🌐 Haskell | 📅 2025-04-13 - Haskell library for Candid to Haskell.
+
+#### Java
+
+* [ic4j-candid](https://github.com/ic4j/ic4j-candid) ⭐ 3 | 🐛 2 | 🌐 Java | 📅 2026-06-13 - Java library for Candid.
+
+#### JavaScript/TypeScript
+
+* [@dfinity/candid](https://github.com/dfinity/agent-js/tree/main/packages/candid) ⭐ 171 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-11 - JavaScript and TypeScript library for Candid.
+* [candid-parser-wasm](https://github.com/justblender/candid-parser-wasm) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-02-13 - JavaScript/TypeScript bindings for "candid\_parser", compiled to WebAssembly.
+
+#### Kotlin
+
+* [candid-kt](https://github.com/seniorjoinu/candid-kt) ⭐ 17 | 🐛 12 | 🌐 Kotlin | 📅 2022-01-09 - Kotlin library for Candid.
+
+#### Motoko
+
+* [motoko\_candid](https://github.com/edjcase/motoko_candid) ⭐ 9 | 🐛 0 | 🌐 Motoko | 📅 2025-12-09 - Library that enables encoding/decoding of bytes to candid values.
+
+## Storage and Databases
+
+* [Sudograph](https://github.com/sudograph/sudograph) ⭐ 221 | 🐛 49 | 🌐 HTML | 📅 2021-12-07 - A GraphQL database for the IC.
+* [stable-structures](https://github.com/dfinity/stable-structures) ⭐ 111 | 🐛 34 | 🌐 Rust | 📅 2026-05-12 - A collection of scalable and upgrade-safe data structures for Rust maintained by DFINITY.
+* [ic-stable-memory](https://github.com/seniorjoinu/ic-stable-memory) ⭐ 43 | 🐛 4 | 🌐 Rust | 📅 2023-05-10 - Stable memory collections for Rust.
+* [ic-sqlite](https://github.com/froghub-io/ic-sqlite) ⭐ 34 | 🐛 0 | 🌐 Rust | 📅 2023-03-14 - SQLite on the IC.
+* [CanDB](https://github.com/ORIGYN-SA/CanDB) ⭐ 32 | 🐛 20 | 🌐 Motoko | 📅 2024-03-20 - Flexible, performant, and horizontally scalable non-relational multi-canister database built in Motoko.
+* [ic-oss](https://github.com/ldclabs/ic-oss) ⭐ 32 | 🐛 0 | 🌐 Rust | 📅 2026-08-06 - A decentralized Object Storage Service on the IC.
+* [IcyDB](https://github.com/dragginzgame/icydb) ⭐ 15 | 🐛 3 | 🌐 Rust | 📅 2026-08-12 - Scalable DB/ORM written in Rust, battle tested and constantly updated.
+* [ic-dbms](https://github.com/veeso/ic-dbms) ⭐ 10 | 🐛 3 | 🌐 Rust | 📅 2026-07-29 - An Internet Computer framework which provides an easy way to implement a database canister by just providing the database schema
+* [ZenDB](https://github.com/NatLabs/ZenDB) ⚠️ Archived - Embedded Document DB with MongoDB style queries for large datasets for Motoko.
+* [ic-cose](https://github.com/ldclabs/ic-cose) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2026-08-06 - A decentralized COnfiguration service with Signing and Encryption on the IC.
+* [ic-oxigraph](https://github.com/omnia-network/ic-oxigraph) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2023-05-14 - An RDF database for the IC, that enables on-chain knowledge graphs.
+* [rusqlite](https://github.com/wasm-forge/examples/tree/main/ic-rusqlite) ⭐ 7 | 🐛 0 | 🌐 Rust | 📅 2026-04-25 – SQLite database implementation in Rust using `wasi2ic`
+* [Memory-Collection](https://github.com/NatLabs/memory-collection) ⚠️ Archived - Stable Memory collections for Motoko, includes a B+Tree, Buffer and Queue.
+* [Certified Blockchain](https://github.com/Factland/ic-certified-blockchain) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2023-04-18 - Certified blockchain log on on the IC. This can be validated using only the NNS public key: [Validation](https://github.com/Factland/certified-blockchain-verification) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-24.
+
+## Infrastructure
+
+* [IC WebSocket Gateway](https://github.com/omnia-network/ic-websocket-gateway) ⭐ 34 | 🐛 4 | 🌐 Rust | 📅 2025-06-17 - Gateway that enables clients to open WebSocket connections with canisters. This is the [HTTP Gateway](https://internetcomputer.org/docs/current/references/http-gateway-protocol-spec/) counterpart for WebSockets.
+* [Idempotent Proxy](https://github.com/ldclabs/idempotent-proxy) ⭐ 16 | 🐛 1 | 🌐 Rust | 📅 2024-10-21 - Reverse proxy server with build-in idempotency support written in Rust.
+* [Join Proxy](https://github.com/vporton/join-proxy) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2025-10-22 - Reverse proxy server with built-in idempotency support written in Rust.
+
+## Fungible and Non-fungible Tokens (NFTs)
+
+### Interface Standards
+
+#### ICRC
+
+* [ICRC-1](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-1/README.md) ⭐ 89 | 🐛 32 | 🌐 Rust | 📅 2026-05-11 - Base fungible token standard.
+* [ICRC-2](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-2/README.md) ⭐ 89 | 🐛 32 | 🌐 Rust | 📅 2026-05-11 - Extension to support `approve` and `transfer_from`.
+* [ICRC-7](https://github.com/dfinity/ICRC/blob/main/ICRCs/ICRC-7/ICRC-7.md) ⭐ 38 | 🐛 109 | 📅 2026-05-06 - Base NFT Standard.
+
+#### Other Interface Standards
+
+* [EXT](https://github.com/Toniq-Labs/extendable-token) ⭐ 82 | 🐛 15 | 🌐 Motoko | 📅 2023-03-23 - The extendable token standard inspired by ERC1155.
+* [DIP20](https://github.com/Psychedelic/DIP20) ⭐ 67 | 🐛 8 | 🌐 Motoko | 📅 2022-07-24 - Fungible token standard inspired by the ERC20 standard.
+* [DIP721](https://github.com/Psychedelic/DIP721) ⭐ 62 | 🐛 12 | 🌐 TypeScript | 📅 2022-09-23 - NFT standard inspired the ERC721 standard.
+* [Origyn NFT](https://github.com/origyn-sa/origyn_nft) ⭐ 28 | 🐛 3 | 🌐 Motoko | 📅 2025-01-27 - Origyn NFT standard.
+
+### Implementations
+
+* [ICRC-1/2/3 Rust](https://github.com/dfinity/ic/tree/master/rs/ledger_suite/icrc1) ⭐ 1,783 | 🐛 267 | 🌐 Rust | 📅 2026-08-13 - Fungible token reference implementation by DFINITY.
+* [ICRC-7 Rust](https://github.com/ORIGYN-SA/nft) ⭐ 18 | 🐛 3 | 🌐 Rust | 📅 2026-08-04 - NFT reference implementation by ORIGYN.
+* ⚠️ UNMAINTAINED ⚠️ [ICRC-7 Rust Launchpad](https://github.com/tuminfei/icrc7_launchpad) ⭐ 12 | 🐛 1 | 🌐 Rust | 📅 2025-01-11 - NFT launchpad example implementation by `tuminfei`.
+* ⚠️ UNMAINTAINED ⚠️ [ICRC-7 Rust](https://github.com/pramitgaha21/icrc7) ⭐ 10 | 🐛 8 | 🌐 Rust | 📅 2024-04-30 - NFT launchpad example implementation by `pramitgaha21`.
+* [EXT Motoko](https://github.com/flowerpowerdao/power-equalizer) ⭐ 8 | 🐛 26 | 🌐 Motoko | 📅 2023-09-01 - NFT implementation for the EXT standard by `flowerpowerdao`.
+* [ICRC-7 Motoko Launchpad](https://github.com/letmejustputthishere/icrc7_launchpad) ⭐ 5 | 🐛 4 | 🌐 Motoko | 📅 2024-09-25 - NFT launchpad example implementation by `letmejustputthishere`.
+* ⚠️ UNMAINTAINED ⚠️ [ICRC-7 Rust](https://github.com/tuminfei/yuku_icrc7) ⭐ 4 | 🐛 1 | 🌐 Rust | 📅 2024-07-03 - NFT launchpad example implementation by `tuminfei`.
+* ⚠️ UNMAINTAINED ⚠️ [ICRC-7 Rust](https://github.com/UncensoredGreats/NFT/) ⚠️ Archived - NFT launchpad example implementation by `UncensoredGreats`.
+* [ICRC-1/2/3 Motoko](https://github.com/PanIndustrial-Org/ICRC_fungible) - Fungible token reference implementation by Pan Industrial.
+* [ICRC-7 Motoko](https://github.com/PanIndustrial-Org/icrc7.mo) - NFT reference implementation by Pan Industrial.
+
+### Faucets
+
+* [ledger-faucet](https://github.com/dfinity/ledger-faucet) ⭐ 2 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-06 - Minter implementation of the [official faucet](https://faucet.internetcomputer.org) for testing purposes on ICP mainnet. It enables devs and users to claim tokens on the [TESTICP](https://dashboard.internetcomputer.org/canister/xafvr-biaaa-aaaai-aql5q-cai) and [TESTICRC1](https://dashboard.internetcomputer.org/canister/3jkp5-oyaaa-aaaaj-azwqa-cai) ledgers.
+
+### Analytical Methodologies
+
+* [OutRank-Rarity](https://github.com/OutRankNFT/OutRank-Rarity) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-01 - Implementation of mathematical code to calculate rarity within NFT collections in Python and Rust
+
+## Messaging
+
+* [OpenChat](https://github.com/open-ic/open-chat) ⭐ 206 | 🐛 296 | 🌐 Rust | 📅 2026-08-12 - An open chat app.
+* [ic-telegram-bot](https://github.com/nomeata/ic-telegram-bot) ⭐ 28 | 🐛 1 | 🌐 Rust | 📅 2022-03-29 - A telegram bot on the Internet Computer
+* [W3NS](https://github.com/miguelToscano/w3ns) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2023-08-10 - An Internet Computer service for notifications.
+* [Messity](https://www.messity.com/) - An open and nonproprietary decentralized messaging protocol.
+* [dMsg](https://dmsg.net/) - A decentralized end-to-end encrypted messaging app.
+* [Diode](https://diode.io/) - Decentralized team collaboration app for mobile & desktop
+
+## Decentralized Finance (DeFi)
+
+### Exchanges
+
+* [Spinner](https://github.com/spinner-cash/spinner) ⭐ 30 | 🐛 0 | 🌐 Rust | 📅 2022-06-22 - Private transactions using zkSNARKs.
+* [ICPEx Adapter](https://github.com/ICPExchange/adapters-doc) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-09 - Used for quick access to the ICPEx, enabling fast execution of swap, create token, create pool, and other functions.
+* [DeSwap Orderbook](https://github.com/iclighthouse/DeSwap-Orderbook) ⭐ 6 | 🐛 0 | 🌐 Motoko | 📅 2023-09-24 - An Order Matching Engine Module for Dex in Motoko.
+* [BrownFi](https://github.com/BrownFi/BrownFi-AMM-ICP) ⭐ 0 | 🐛 2 | 🌐 Motoko | 📅 2026-06-04 - Simple AMM with high Capital Effifiency
+* [Sonic LBP](https://lbp.sonic.ooo) - Fair launch token sales and raise funds using Liquidity Bootstraping Pool.
+* [Fomowell](https://github.com/fomowell) - FomoWell is an innovative fair launch platform tailored for Web3 projects.
+* [SSS DeFi](https://www.sssdefi.ai/) - A fully on-chain trading system on ICP with orderbook-style trading, limit orders, visual liquidity management, and unified balances.
+
+### Frameworks and Tools
+
+* [ICTC](https://github.com/iclighthouse/ICTC) ⭐ 25 | 🐛 0 | 🌐 Motoko | 📅 2024-08-04 - Distributed transaction framework for DeFi applications.
+* [ICSI](https://github.com/garudaidr/icp-subaccount-indexer) ⚠️ Archived - Simplify ICRC token tracking and management within sub-accounts using the ICP Sub-Account Indexer.
+* [ICSpore DCA](https://github.com/ICSpore/dca-v1) ⭐ 2 | 🐛 0 | 🌐 Motoko | 📅 2024-11-24 - Payment solution for automated DCA purchases
+* [ic-ledger-types](https://crates.io/crates/ic-ledger-types) – A library of types to communicate with the ICP ledger canister.
+* [icrc-ledger-types](https://crates.io/crates/icrc-ledger-types) – This package defines types for interacting with a ledger that is compliant with the ICRC-1 fungible token standard.
+* [icrc-ledger-agent](https://crates.io/crates/icrc-ledger-agent) – This package provides functions for interacting with a ledger that is compliant with the ICRC-1 fungible token standard.
+* [icrc-ledger-client](https://crates.io/crates/icrc-ledger-client) – This package defines functions for interacting from canister code with a ledger that is compliant with the ICRC-1 fungible token standard.
+* [icrc-ledger-client-cdk](https://crates.io/crates/icrc-ledger-client-cdk) – This package defines runtime meant to be used together with the icrc-ledger-client library.
+
+### Oracles
+
+* [Exchange Rate Canister](https://github.com/dfinity/exchange-rate-canister) ⭐ 40 | 🐛 18 | 🌐 Rust | 📅 2026-07-29 - Oracle service for cryptocurrency and fiat currency exchange rates.
+
+### Protocols
+
+* [BeamFi](https://developer.beamfi.app) - Autonomous Money Streaming Protocol for Micro Payments DeFi applications.
+* [Elliptic](https://github.com/Elliptic-DAO/elliptic-v0) - Bitcoin-backed Stablecoin inspired by Liquity protocol.
+
+## Social Applications
+
+* [Proton DApp](https://github.com/NeutronStarDAO/Proton) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2024-12-17 - A social DApp totally based on the Actor model.
+* [Formyfi](https://github.com/Talentum-id/formify) ⭐ 4 | 🐛 0 | 🌐 Vue | 📅 2025-07-24 - Decentralized & fully on-chain Q\&A Forms.
+* [AT Protocol PDS](https://github.com/edjCase/motoko_atproto_pds) ⭐ 2 | 🐛 0 | 🌐 Motoko | 📅 2026-01-09 - Personal Data Server implementation for the AT Protocol (Bluesky) network written in Motoko.
+* [RatersApp](https://ratersapp.com) - A blockchain-powered SocialFi platform for movie lovers enhanced with ICP for transparent and secure movie reviews. Developed with React.js, Next.js, TypeScript, PHP (Laravel), Node.js, and Azle for canister building.
+
+## DAO Frameworks
+
+* [Axon](https://github.com/icdevs/axon) ⭐ 12 | 🐛 8 | 🌐 TypeScript | 📅 2023-06-15 - A multi-user, multi-neuron management canister.
+* [Threshold Canister](https://github.com/dfinity/threshold) ⭐ 11 | 🐛 6 | 🌐 Motoko | 📅 2026-04-09 - Threshold voting and execution for the IC.
+* [ICP Governance Canister](https://github.com/redsteep/dfinity-icp-governor) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2024-03-14 - A fully-fledged single DAO governance solution inspired by the Compound smart contracts.
+* [Service Nervous System](https://internetcomputer.org/sns) - Framework inspired by the Network Nervous System.
+
+## Game Development
+
+For Unity-compatible client libraries, see [C# agents](#C#).
+For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
+
+* [Internet Computer GameKit](https://github.com/dfinity/ic-gamekit) ⭐ 7 | 🐛 2 | 🌐 C# | 📅 2023-08-09 - Toolkit for building games on the IC.
+* [Unity Play To Earn Sample](https://github.com/therealbryanho/IC-Code-Sample-Unity-Play-to-Earn-Game) ⭐ 7 | 🐛 0 | 🌐 Motoko | 📅 2023-04-18 - Example of how to deploy a Unity play to earn game on the IC.
+* [ICPGameKit by Morgan Page](https://github.com/morganpage/ic-gamekit) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2024-09-10 - A drop-in solution for adding achievements, and game and user data saves on-chain using ICP.
+* [Wheel of Fortune](https://github.com/temokoki/IC_Wheel_of_Fortune) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-23 - Example of II authentication, self-controlling canister (waits for players and chooses winner randomly) and ICP coin transferring (sub-account creation for participants and withdrawal functionality)
+* [BoomDAO World Protocol](https://github.com/BoomDAO/world-protocol) - An on-chain game server protocol weaving together ICP games into one universally accessible database.
+* [BoomDAO Unity template](https://github.com/BoomDAO/unity-template) - Unity template with wallet integration and NFT fetching.
+* [WebGL Sample](https://internetcomputer.org/docs/current/samples/host-a-webgame) - Example of how to host a WebGL game on the IC.
+
+## Wallets and Authentication
+
+* [Internet Identity](https://github.com/dfinity/internet-identity) ⭐ 532 | 🐛 50 | 🌐 Rust | 📅 2026-08-12 - Pseudoymous authentication system for the Internet Computer.
+* [ICRC-1 Wallet](https://github.com/research-ag/wallet) ⭐ 14 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-19 - Canister-based wallet for ICRC-1 compliant tokens.
+* [AstroX Me](https://astrox.me/#/) - Canister-based mobile/web multi-chain wallet.
+* [Bitfinity](https://wallet.infinityswap.one/) - Chrome extension.
+* [NFID](https://nfid.one/) - Digital identity for signing in to applications privately and securely.
+* [NNS Dapp](https://nns.ic0.app/) - Stake ICP in neurons, participate in governance and decentralization sales.
+* [Payments Wallet](https://docs.package-manager.com/payments-wallet-the-wallet-of-ic-pack-ecosystem/) - A Wallet installed into user's canister for maximum security. Supports payment thresholds. Will support in-app payments.
+* [Plug](https://plugwallet.ooo/) - Chrome extension and mobile wallet.
+* [Stoic](https://www.stoicwallet.com/) - Web wallet.
+
+### Libraries
+
+* [ic-siwe](https://github.com/kristoferlund/ic-siwe) ⭐ 32 | 🐛 2 | 🌐 Rust | 📅 2025-09-12 - Authentication library to enable SIWE (Sign in with Ethereum) functionality for ICP applications.
+* [ic-siwb](https://github.com/AstroxNetwork/ic-siwb) ⭐ 20 | 🐛 0 | 🌐 Rust | 📅 2026-04-02 – Authentication library to enable SIWB (Sign in with Bitcoin) functionality for ICP applications.
+* [artemis](https://github.com/sonicdex/artemis) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-26 – Wallet adapter for connecting different wallets on the Internet Computer.
+* [ic-siws](https://github.com/kristoferlund/ic-siws) ⭐ 16 | 🐛 4 | 🌐 Rust | 📅 2025-10-13 – Authentication library to enable SIWS (Sign in with Solana) functionality for ICP applications.
+* [Plug-n-Play](https://github.com/microdao-corporation/plug-n-play) ⭐ 11 | 🐛 11 | 🌐 TypeScript | 📅 2026-01-01 – A lightweight, framework-agnostic, wallet adapter that implements ICRC auth standards.
+* [ic-sis](https://github.com/Talentum-id/ic_sis) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2025-06-20 – Authentication library to enable SIS (Sign in with SUI) functionality for ICP applications.
+* [connect2ic](https://connect2ic.github.io/docs/) - A frontend auth library & toolkit for the Internet Computer.
+
+## Dashboards, Explorers and Registries
+
+* [Canlista](https://k7gat-daaaa-aaaae-qaahq-cai.ic0.app/) - Canister registry.
+* [Cyql](https://n7ib3-4qaaa-aaaai-qagnq-cai.raw.ic0.app/) - Curated project registry.
+* [ICLighthouse Explorer](https://637g5-siaaa-aaaaj-aasja-cai.raw.ic0.app/) - Explorer.
+* [Bitcorn Explorer](https://suemn-5aaaa-aaaap-qb62q-cai.icp0.io/) - Explorer.
+* [IC Explorer](https://www.icexplorer.io/) – Explorer.
+* [Internet Computer Dashboard](https://dashboard.internetcomputer.org/) - Live stats and explorer.
+* [Internet Computer Ecosystem Showcase](https://internetcomputer.org/ecosystem) - Curated project registry.
+* [Kinic](https://74iy7-xqaaa-aaaaf-qagra-cai.ic0.app/) - Front-end search engine.
+* [ICP Explorer](https://icp.footprint.network/) - Explorer.
+
+## Chain Fusion
+
+### General
+
+* [B3Wallet](https://github.com/B3Pay/b3-wallet) ⭐ 32 | 🐛 0 | 🌐 Rust | 📅 2024-03-30 - A decentralized wallet supporting multiple blockchains, including Ethereum, Bitcoin, and ICP.
+* [Chain Fusion Starter](https://github.com/letmejustputthishere/chain-fusion-starter) ⭐ 27 | 🐛 8 | 🌐 Solidity | 📅 2025-06-11 – starter template leveraging chain fusion technology to build EVM coprocessors on the Internet Computer Protocol
+* [Chain Fusion Signer](https://github.com/dfinity/chain-fusion-signer) ⭐ 13 | 🐛 16 | 🌐 Rust | 📅 2026-08-13 - A canister that does nothing but sign transactions for use on other blockchains.
+* [Alloy Toolkit](https://github.com/kristoferlund/ic-alloy-toolkit) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-13 - Examples of interacting with Ethereum from a Rust canister using the Alloy EVM support libraries
+* [SIWE starter](https://github.com/kristoferlund/ic-siwe-react-demo-rust) ⭐ 10 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-13 - Login in to ICP using Metamask and other Ethereum wallets.
+* [ic-pub-key](https://github.com/dfinity/ic-pub-key) ⭐ 3 | 🐛 6 | 🌐 TypeScript | 📅 2026-05-21 - A TypeScript library for client-side key derivation on ICP.
+* [ic-evm-utils](https://crates.io/crates/ic-evm-utils) – Rust utils for interacting with Ethereum from ICP canisters.
+* [evm-rpc-canister-types](https://crates.io/crates/evm-rpc-canister-types) – Rust types for interacting with the EVM RPC canister.
+* [evm\_rpc\_client](https://crates.io/crates/evm_rpc_client) - A Rust client for interacting with the EVM RPC canister.
+* [Chain-key ECDSA](https://internetcomputer.org/how-it-works/threshold-ecdsa-signing/) - Tech that allows creating transactions targeting various chains from canisters on the Internet Computer.
+* [ic-pub-key](https://crates.io/crates/ic-pub-key) - A Rust library for client-side key derivation on ICP.
+
+### Bitcoin
+
+* [ckBTC](https://github.com/dfinity/ic/tree/master/rs/bitcoin/ckbtc) ⭐ 1,783 | 🐛 267 | 🌐 Rust | 📅 2026-08-13 - Canister-controlled BTC twin on ICP with 1:1 backing.
+* [Inscription Canister](https://github.com/domwoe/inscription_canister) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2024-08-19 - A canister to create Ordinal inscriptions.
+* [runes-indexer](https://github.com/octopus-network/runes-indexer) ⭐ 15 | 🐛 1 | 🌐 Rust | 📅 2025-07-11 – An onchain runes indexer on the Internet Computer.
+* [Ordinals Canister](https://github.com/sardariuss/ordinals_canister) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2024-02-07 - A canister that enables the retrieval of BTC ordinals and their corresponding inscriptions.
+* [Bitcoin Metaprotocols Canister](https://github.com/maestro-org/maestro-bitcoin-metaprotocols-canister) ⭐ 10 | 🐛 3 | 🌐 Rust | 📅 2026-04-30 – An onchain Bitcoin metaprotocol indexer on the Internet Computer.
+* [Internet Computer Bitcoin Library](https://github.com/Benjamin-Loison/Internet-Computer-Bitcoin-Library) ⭐ 9 | 🐛 16 | 🌐 Rust | 📅 2022-10-17 - Utility libraries for Motoko/Rust to simplify building on the Bitcoin Integration.
+* [Multi-Subnet Bitcoin Wallet](https://github.com/sardariuss/ic_btc_multisig) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2023-12-04 - Proof-of-Concept of multi-subnet Bitcoin custody for increased secruty.
+* [ordinals-indexer](https://github.com/octopus-network/ordinals-indexer) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2026-01-10 - An onchain ordinals indexer for querying stats and inscriptions.
+* [Loka](https://github.com/lokaverse/loka_canister) ⭐ 0 | 🐛 0 | 🌐 Motoko | 📅 2023-12-05 - Trustless Non-Custodial Bitcoin Mining Platform built on ICP.
+* [Bitcoin Integration](https://internetcomputer.org/bitcoin-integration) - Landing page of the direct integration with the Bitcoin network.
+
+### Ethereum
+
+* [ckETH](https://github.com/dfinity/ic/tree/master/rs/ethereum/cketh) ⭐ 1,783 | 🐛 267 | 🌐 Rust | 📅 2026-08-13 - Canister-controlled ETH twin on ICP with 1:1 backing.
+* [Oisy](https://github.com/dfinity/oisy-wallet) ⭐ 175 | 🐛 174 | 🌐 TypeScript | 📅 2026-08-12 - A novel Ethereum wallet that is hosted on the Internet Computer, is browser-based, fully on-chain, and secured by Chain-key cryptography and Internet Identity.
+* [EVM RPC Canister](https://github.com/internet-computer-protocol/evm-rpc-canister) ⭐ 83 | 🐛 15 | 🌐 Rust | 📅 2026-08-12 - Interact with EVM blockchains from the Internet Computer.
+* [ic-eth-starter](https://github.com/dfinity/ic-eth-starter) ⭐ 41 | 🐛 6 | 🌐 TypeScript | 📅 2026-04-09 - An advanced starter project for interacting with Ethereum on the Internet Computer (Beta).
+* [Ethereum Canister](https://github.com/eigerco/ethereum-canister) ⭐ 25 | 🐛 2 | 🌐 Rust | 📅 2024-08-12 - Ethereum Light Client (Helios) running inside a canister.
+* [Omnic](https://github.com/rocklabs-io/omnic) ⭐ 25 | 🐛 1 | 🌐 Rust | 📅 2023-05-26 - Cross-chain messaging protocol to connect EVM-compatible chains via the Internet Computer.
+* [ERC20-ICP](https://github.com/dfinity/erc20-icp) ⭐ 17 | 🐛 3 | 🌐 Rust | 📅 2025-11-22 - Contracts and canisters enabling ICP tokens as ERC20 on Ethereum.
+* [EVM Utility Canister](https://github.com/icopen/evm_utils_ic) ⭐ 13 | 🐛 1 | 🌐 Rust | 📅 2023-05-12 - Utility canister to create and parse EVM-compliant transactions.
+* [ic-web3-rs](https://github.com/horizonx-tech/ic-web3-rs) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2025-01-04 - Utility library to interact with EVM networks.
+* [ic-alloy-toolkit](https://github.com/kristoferlund/ic-alloy-toolkit) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-13 - Example code for using Alloy with the Internet Computer.
+* [CCAMP](https://github.com/usherlabs/ccamp) ⭐ 9 | 🐛 1 | 🌐 Rust | 📅 2026-03-31 - General-purpose, modular, and custom data-driven Cross-chain Asset Management Protocol.
+* [ic-alloy-basic-eth](https://github.com/kristoferlund/ic-alloy-basic-eth-frontend) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-13 - A multiuser Ethereum wallet starter/template using the Alloy EVM support libraries.
+* [Evm Rust Bridge](https://github.com/Stephen-Kimoi/icp-evm-rust-bridge) ⭐ 8 | 🐛 1 | 🌐 JavaScript | 📅 2025-01-21 - A seamless Rust-based starter template for integrating ICP canisters with EVM-based smart contracts.
+* [BOLD Autonomous Interest Rate Manager for Liquity v2 Troves](https://github.com/liquity/bold-ir-management) ⭐ 7 | 🐛 0 | 🌐 Rust | 📅 2025-05-30
+* [ckNFT](https://github.com/b3hr4d/cknft) ⭐ 6 | 🐛 1 | 🌐 JavaScript | 📅 2024-08-28 - A PoC to bridge ICRC-7 NFTs to ERC-1155 NFTs on EVMs.
+* [Orally](https://github.com/orally-network/oracle) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2025-01-14 - Cross-chain oracle factory built on HTTPS Outcalls and Chain-key ECDSA.
+* [ic-test](https://github.com/wasm-forge/ic-test) ⭐ 5 | 🐛 3 | 🌐 Rust | 📅 2025-11-28 - Command-line tool that makes it easier to create a test project and includes the basic files and setup needed for both IC canisters and optionally EVM (Ethereum Virtual Machine) smart contracts.
+* [ic-solidity-bindgen](https://github.com/horizonx-tech/ic-solidity-bindgen) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2025-04-27 - Generate Rust bindings for Solidity contracts from ABIs to use with the Internet Computer.
+* [Ethereum-lightclient-canister](https://github.com/octopus-network/ethereum-lightclient-canister) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2025-03-31 - An Ethereum light client canister that is compatible with newer versions of the Ethereum RPC protocol and adapted from the Helios project.
+* [Gitcoin Passport Client](https://github.com/vporton/passport-client-dfinity) ⭐ 1 | 🐛 8 | 🌐 Motoko | 📅 2026-01-24 - a sample app for securely retrieving Gitcoin Passport scores and store them into a DB.
+* [Bitfinity EVM](https://bitfinity.network) - An Ethereum Virtual Machine (EVM) on ICP.
+* [ChainSight](https://docs.chainsight.network/chainsight-overview/introduction) - Composable cross-chain data oracles built on HTTPS Outcalls and Chain-key ECDSA.
+
+### Solana
+
+* [Solana RPC Canister](https://github.com/mfactory-lab/ic-solana) ⭐ 25 | 🐛 11 | 🌐 Rust | 📅 2026-04-10 - Interact with Solana blockchain from the Internet Computer.
+* [Galactic Bridge](https://github.com/weichain/galactic-bridge-icp) ⭐ 8 | 🐛 3 | 🌐 Rust | 📅 2024-06-28 - Canister-controlled SOL bridge using Chain Fusion tech.
+
+### Cosmos
+
+* [ic-cosmos](https://github.com/poroburu/ic-cosmos) ⭐ 4 | 🐛 5 | 🌐 Rust | 📅 2025-08-25 – Interact with Cosmos from the Internet Computer.
+
+### TON
+
+* [TON transaction in the Telegram mini app](https://github.com/4iDPS/peymate_ii) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-11 - A Telegram mini app for TON transaction, Threshold Schnorr signatures verification, and RPC submission.
+
+## Internet of Things
+
+* [Omnia Network](https://github.com/omnia-network) - A platform that enables canisters to access any IoT device through a uniform HTTP interface.
+* [Staex VTS](https://github.com/staex-io/vts) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2024-07-04 - Staex Vehicle Tracking System (VTS) - infrastructure to track and invoice vehicles.
+
+## Decentralized AI
+
+* [anda](https://github.com/ldclabs/anda) ⭐ 437 | 🐛 0 | 🌐 Rust | 📅 2026-08-07 – An AI agent framework built with Rust, powered by ICP and TEEs.
+* [llama\_cpp\_canister](https://github.com/onicai/llama_cpp_canister) ⭐ 84 | 🐛 2 | 🌐 C++ | 📅 2026-08-07 - llama.cpp for the Internet Computer. (Note: used as a backend for [ICGPT](https://icgpt.icpp.world/))
+* [DeVinci](https://github.com/patnorris/DecentralizedAIonIC) ⭐ 30 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-08 - AI chatbot running in user's browser based on open-source LLM and served from the Internet Computer. [Try it here](https://x6occ-biaaa-aaaai-acqzq-cai.icp0.io/).
+* [DeAI Technical Working Group](https://github.com/DeAIWorkingGroupInternetComputer/DeAIWorkingGroupInternetComputer) ⭐ 26 | 🐛 1 | 📅 2025-12-04 - Repo of the ICP DeAI WG with weekly call summaries and additional resources.
+* [ArcMind AI](https://github.com/arcmindai/arcmindai) ⭐ 18 | 🐛 1 | 🌐 Rust | 📅 2025-09-03 - LLM-powered autonomous agent that uses Chain of thoughts for reasoning, taking actions, and completing goals. [Try the app here](https://arcmindai.app)
+* [ICGPT](https://github.com/icppWorld/icgpt) ⭐ 17 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-07 - dApp with React front-end & C/C++ back-ends running LLMs fully on chain. [Try it here](https://icgpt.icpp.world/).
+* [Vectune](https://github.com/ClankPan/Vectune) ⭐ 16 | 🐛 1 | 🌐 Rust | 📅 2026-04-14 - A lightweight vector database with incremental indexing based on FreshVamana for retrieval-augmented generation (RAG).
+* [MotokoLearn](https://github.com/ildefons/motokolearn) ⭐ 15 | 🐛 0 | 🌐 Motoko | 📅 2023-12-14 - A Motoko package meant to facilitate on-chain training and inference of machine learning models where having a large GPU is not a requirement.
+* [ArcMind Vector DB](https://github.com/arcmindai/arcmindvector) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2024-05-05 - A Vector DB with similarity search supporting text, image, and audio embeddings, based on k-d tree, useful for AI applications like recommendation and Retrieval-Augmented Generation.
+* [Rust-Connect-Py-AI-to-IC](https://github.com/modclub-app/rust-connect-py-ai-to-ic) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2024-11-08 - A streamlined open-source tool for deploying Python AI models on ICP.
+* [Cipher AI Vault](https://github.com/supaIC/Cipher-AI-Vault) ⭐ 9 | 🐛 8 | 🌐 TypeScript | 📅 2025-03-15 - Azle-based PoC with in-memory VectorDB & LLM, secure asset & data storage, cycles topup, and multi-wallet authentication, showcasing fully-sandboxed AI on the Internet Computer. [Try it here](https://qehbq-rqaaa-aaaan-ql2iq-cai.icp0.io/)
+* [Tensorflow on ICP](https://github.com/carlosarturoceron/decentAI) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2024-02-04 - An example that loads and uses a pre-trained model for predictions within a canister running on ICP using Azle.
+* [ic-mnist](https://github.com/smallstepman/ic-mnist) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2023-05-25 - MNIST (considered to be `hello world` of machine learning) running on IC using [burn](https://github.com/tracel-ai/burn) ⭐ 15,749 | 🐛 286 | 🌐 Rust | 📅 2026-08-12 crate. [Try it here](https://jsi2g-jyaaa-aaaam-abnia-cai.icp0.io/).
+* [yllama](https://github.com/gip/yllama.oc) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2024-07-11 - An on-chain Llama 3 inference engine optimized for real-world workloads using non-quantized 8b parameters Llama models.
+* [ICP Agent Kit](https://github.com/justmert/icp-agent-kit) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2025-07-25 - ICP Agent Kit is a comprehensive TypeScript SDK that brings natural language processing (via LangChain) to Internet Computer blockchain operations.
+* [Blueband](https://github.com/acgodson/blueband-db) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2025-06-12- An on-chain vector DB for semantic search and document retrieval, optimized for static datasets.
+* [DataPond.ai integration with ICP](https://github.com/ReCheck-io/icp-datapond-integration) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-14 - ICP-enabled Retrieval Augmented Generation (RAG) tool for transparent AI data feeding and data tracing on the ICP network [Try it here](https://icp-prod.datapond.ai).
+* [ICSoccerWorld Trainer](https://github.com/ktimam/SoccerTrainer) ⭐ 1 | 🐛 1 | 🌐 Assembly | 📅 2025-01-10 - Flashlight multilayer perceptron deep learning used for training soccer agents on ICP.
+* [ELNA AI](https://github.com/elna-ai) - Fully on-chain Al agent creation platform & marketplace, supporting on- and off-chain LLMs, vector DB and tools. [Try it here](https://dapp.elna.ai/)
+* [Tract-IC-AI](https://github.com/jeshli/tract-ic-ai) - An ICP version of Tract, a tiny, no-nonsense, self-contained, Tensorflow and ONNX inference toolkit.
+
+## MCP - Model Context Protocol
+
+* [ic-rmcp](https://github.com/ByteSmithLabs/ic-rmcp) ⭐ 14 | 🐛 0 | 🌐 Rust | 📅 2025-10-31 - A lightweight Rust SDK for implementing MCP servers on the Internet Computer.
+* [prometheus-protocol](https://github.com/prometheus-protocol/prometheus-protocol) ⭐ 12 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-14 - A decentralized app store for community-verified MCP servers on the Internet Computer.
+* [motoko-sdk](https://github.com/prometheus-protocol/motoko-sdk) ⭐ 3 | 🐛 0 | 🌐 Motoko | 📅 2025-09-18 - A comprehensive, robust, and developer-friendly Motoko SDK for building MCP compliant servers on the Internet Computer.
+
+## ZK
+
+* [Jolt Verifier Canister](https://github.com/flyq/jolt_verifier_canister) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2024-04-19 - A Canister which can verify the proof generated by [Jolt](https://github.com/a16z/jolt) ⭐ 1,017 | 🐛 54 | 🌐 Rust | 📅 2026-08-13 zkVM.
+* [icp-zk-maze](https://github.com/zCloak-Network/icp-zk-maze) ⭐ 3 | 🐛 1 | 🌐 Rust | 📅 2024-04-09 - ZK Maze is a ZK coprocessor developed by zCloak. ZK coprocessor offloads intensive Zero-Knowledge (ZK) computations from traditional blockchains, enabling the creation and verification of Zero-Knowledge Proofs (ZKPs) without revealing private information.
+* [Gnark Plonk Verifer](https://github.com/lightec-xyz/plonk_verifier_on_icp) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2025-03-20 - A Canister that can verify proofs generated by [gnark](https://github.com/Consensys/gnark) ⭐ 1,730 | 🐛 82 | 🌐 Go | 📅 2026-08-11 on the BN254 curve.
+* [Pado zkAttestations](https://github.com/pado-labs/pado-icp) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2024-03-03 - A The main functionalities provided by zkAttestations are creating attestations from the PADO extension, and recording attestations on the IC network. In addition, the basic attestation framework created in this project supports developers in creating their attestation-based dApps.
+
+## How it works / Deep dives
+
+* [Internet Computer Learn Hub](https://learn.internetcomputer.org) - Learn how the IC realizes the vision of the World Computer.
+* [Internet Computer for Geeks](https://internetcomputer.org/whitepaper.pdf) - Whitepaper written by the DFINITY team.
+* [Internet Computer Wiki](https://wiki.internetcomputer.org/wiki/Internet_Computer_wiki) - General knowledge resource about the Internet Computer.
+* [Constellation Book](https://neutronstardao.github.io/constellation.github.io/about.html) - Explains the underlying principles of IC in a simple and easy-to-understand manner.
+
+## Blogs
+
+* [B.Lynnity](https://fxa77-fiaaa-aaaae-aaana-cai.raw.ic0.app/) - Ben Lynn's Blog about development on the IC using C.
+* [David dal Busco's blog](https://daviddalbusco.com/blog/) - Blog with many hands-on articles on IC development.
+* [ICP Analysis](https://kylelangham.substack.com/) - Kyle Langham's writings about data analysis on the IC ecosystem.
+* [Joachim Breitner's blog](https://www.joachim-breitner.de/blog/tag/Internet_Computer) - Articles on IC development and Candid.
+* [Kaia Peacocks's blog](https://kaipeacock.com/tags/dfinity/) - Notes on IC development and more.
+* [mmapped](https://mmapped.blog/) - Roman Kashitsyn's blog about IC internals and development.
+* [icAcademy](https://blog.icacademy.at/) - Roland Bole's blog on Mastering Your Transition from Web 2.0 to Web 3.0.
+
+## Communities and Communication
+
+* [DFINITY Developer Forum](https://forum.dfinity.org/) - Main forum about the Internet Computer.
+* [ICP Discord](https://discord.internetcomputer.org) - Developer-oriented community Discord where DFINITY hosts office hours for technical Q\&A.
+* [IC Dev PR Handbook](https://dfinityorg.notion.site/Let-s-get-you-some-attention-c7eaabbc87d142f5baa92096cadc181f?pvs=4) - PR support for devs and projects in the IC ecosystem.
+
+## Bounties and Grants
+
+* [DFINITY Developer Grants](http://dfinity.org/grants) - Developer Grant program provided by the DFINITY foundation.
+* [Requests for Startups](https://github.com/dfinity/grant-rfps/blob/main/requests-for-startups.md) ⭐ 87 | 🐛 1 | 📅 2025-08-28 - A list of ideas for startups to build on the Internet Computer.
+* [ICDevs Bounties](https://icdevs.org/bounties.html) - Code bounties by the ICDevs organization.
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
