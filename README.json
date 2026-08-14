@@ -772,7 +772,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T20:57:15Z",
+            "last_commit": "2026-08-14T17:55:38Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1783
@@ -938,10 +938,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-13T12:16:05Z",
+            "last_commit": "2026-08-14T00:30:17Z",
             "owner": "caffeinelabs",
             "repo": "motoko",
-            "stars": 588
+            "stars": 589
           }
         },
         {
@@ -1076,7 +1076,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T17:22:33Z",
+            "last_commit": "2026-08-14T13:32:21Z",
             "owner": "dfinity",
             "repo": "candid",
             "stars": 301
@@ -1090,7 +1090,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T17:22:33Z",
+            "last_commit": "2026-08-14T13:32:21Z",
             "owner": "dfinity",
             "repo": "candid",
             "stars": 301
@@ -1104,7 +1104,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T17:22:33Z",
+            "last_commit": "2026-08-14T13:32:21Z",
             "owner": "dfinity",
             "repo": "candid",
             "stars": 301
@@ -1289,10 +1289,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T16:58:03Z",
+            "last_commit": "2026-08-14T16:23:40Z",
             "owner": "dragginzgame",
             "repo": "icydb",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -1575,7 +1575,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T20:57:15Z",
+            "last_commit": "2026-08-14T17:55:38Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1783
@@ -1705,7 +1705,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T16:21:51Z",
+            "last_commit": "2026-08-14T10:31:42Z",
             "owner": "open-chat-labs",
             "repo": "open-chat",
             "stars": 206
@@ -2038,7 +2038,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T16:58:00Z",
+            "last_commit": "2026-08-14T17:32:07Z",
             "owner": "dfinity",
             "repo": "internet-identity",
             "stars": 532
@@ -2257,7 +2257,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T20:57:15Z",
+            "last_commit": "2026-08-14T17:55:38Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1783
@@ -2389,7 +2389,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T20:57:15Z",
+            "last_commit": "2026-08-14T17:55:38Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1783
@@ -2403,7 +2403,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T18:53:47Z",
+            "last_commit": "2026-08-14T15:27:48Z",
             "owner": "dfinity",
             "repo": "oisy-wallet",
             "stars": 175
@@ -3074,7 +3074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:07:43.935Z",
+    "last_updated": "2026-08-14T20:49:46.980Z",
     "original_repository": "dfinity/awesome-internet-computer",
     "original_repository_sha": "0d5e5b2e280711813fe197d54362251ce9332b20",
     "enhanced_repository": "enhansome/enhansome-internet-computer",
