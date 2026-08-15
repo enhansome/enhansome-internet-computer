@@ -772,7 +772,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:55:38Z",
+            "last_commit": "2026-08-15T09:13:17Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1783
@@ -938,10 +938,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-14T00:30:17Z",
+            "last_commit": "2026-08-15T00:17:06Z",
             "owner": "caffeinelabs",
             "repo": "motoko",
-            "stars": 589
+            "stars": 590
           }
         },
         {
@@ -1289,7 +1289,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T16:23:40Z",
+            "last_commit": "2026-08-15T16:40:30Z",
             "owner": "dragginzgame",
             "repo": "icydb",
             "stars": 16
@@ -1575,7 +1575,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:55:38Z",
+            "last_commit": "2026-08-15T09:13:17Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1783
@@ -2041,7 +2041,7 @@
             "last_commit": "2026-08-14T17:32:07Z",
             "owner": "dfinity",
             "repo": "internet-identity",
-            "stars": 532
+            "stars": 533
           }
         },
         {
@@ -2257,7 +2257,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:55:38Z",
+            "last_commit": "2026-08-15T09:13:17Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1783
@@ -2389,7 +2389,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:55:38Z",
+            "last_commit": "2026-08-15T09:13:17Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1783
@@ -2712,7 +2712,7 @@
             "last_commit": "2026-08-07T09:16:59Z",
             "owner": "ldclabs",
             "repo": "anda",
-            "stars": 437
+            "stars": 439
           }
         },
         {
@@ -3074,7 +3074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:49:46.980Z",
+    "last_updated": "2026-08-15T20:43:09.949Z",
     "original_repository": "dfinity/awesome-internet-computer",
     "original_repository_sha": "0d5e5b2e280711813fe197d54362251ce9332b20",
     "enhanced_repository": "enhansome/enhansome-internet-computer",
