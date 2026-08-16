@@ -478,7 +478,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-07-16T21:20:51Z",
+            "last_commit": "2026-08-16T14:50:24Z",
             "owner": "aviate-labs",
             "repo": "agent-go",
             "stars": 57
@@ -772,10 +772,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T09:13:17Z",
+            "last_commit": "2026-08-16T03:31:33Z",
             "owner": "dfinity",
             "repo": "ic",
-            "stars": 1783
+            "stars": 1784
           }
         },
         {
@@ -938,7 +938,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-15T00:17:06Z",
+            "last_commit": "2026-08-16T01:21:09Z",
             "owner": "caffeinelabs",
             "repo": "motoko",
             "stars": 590
@@ -1289,7 +1289,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T16:40:30Z",
+            "last_commit": "2026-08-16T14:13:56Z",
             "owner": "dragginzgame",
             "repo": "icydb",
             "stars": 16
@@ -1325,6 +1325,20 @@
         },
         {
           "node_type": "item",
+          "title": "ic-oxigraph",
+          "description": "An RDF database for the IC, that enables on-chain knowledge graphs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-05-14T16:02:58Z",
+            "owner": "omnia-network",
+            "repo": "ic-oxigraph",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
           "title": "ic-cose",
           "description": "A decentralized COnfiguration service with Signing and Encryption on the IC.",
           "children": [],
@@ -1335,20 +1349,6 @@
             "owner": "ldclabs",
             "repo": "ic-cose",
             "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-oxigraph",
-          "description": "An RDF database for the IC, that enables on-chain knowledge graphs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-05-14T16:02:58Z",
-            "owner": "omnia-network",
-            "repo": "ic-oxigraph",
-            "stars": 8
           }
         },
         {
@@ -1575,10 +1575,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T09:13:17Z",
+            "last_commit": "2026-08-16T03:31:33Z",
             "owner": "dfinity",
             "repo": "ic",
-            "stars": 1783
+            "stars": 1784
           }
         },
         {
@@ -1705,7 +1705,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T10:31:42Z",
+            "last_commit": "2026-08-16T19:53:41Z",
             "owner": "open-chat-labs",
             "repo": "open-chat",
             "stars": 206
@@ -2257,10 +2257,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T09:13:17Z",
+            "last_commit": "2026-08-16T03:31:33Z",
             "owner": "dfinity",
             "repo": "ic",
-            "stars": 1783
+            "stars": 1784
           }
         },
         {
@@ -2389,10 +2389,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T09:13:17Z",
+            "last_commit": "2026-08-16T03:31:33Z",
             "owner": "dfinity",
             "repo": "ic",
-            "stars": 1783
+            "stars": 1784
           }
         },
         {
@@ -3074,7 +3074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:43:09.949Z",
+    "last_updated": "2026-08-16T20:42:18.231Z",
     "original_repository": "dfinity/awesome-internet-computer",
     "original_repository_sha": "0d5e5b2e280711813fe197d54362251ce9332b20",
     "enhanced_repository": "enhansome/enhansome-internet-computer",
