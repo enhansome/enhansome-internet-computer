@@ -326,7 +326,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T16:16:07Z",
+            "last_commit": "2026-08-17T09:12:41Z",
             "owner": "dfinity",
             "repo": "icp-js-core",
             "stars": 171
@@ -340,7 +340,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T04:06:49Z",
+            "last_commit": "2026-08-17T03:45:18Z",
             "owner": "dfinity",
             "repo": "icp-js-canisters",
             "stars": 81
@@ -478,7 +478,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T14:50:24Z",
+            "last_commit": "2026-08-17T12:23:29Z",
             "owner": "aviate-labs",
             "repo": "agent-go",
             "stars": 57
@@ -662,7 +662,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nix",
-            "last_commit": "2026-08-10T05:24:56Z",
+            "last_commit": "2026-08-17T04:40:13Z",
             "owner": "ninegua",
             "repo": "ic-nix",
             "stars": 41
@@ -772,7 +772,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T03:31:33Z",
+            "last_commit": "2026-08-17T20:21:11Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1784
@@ -938,10 +938,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-16T01:21:09Z",
+            "last_commit": "2026-08-17T15:51:35Z",
             "owner": "caffeinelabs",
             "repo": "motoko",
-            "stars": 590
+            "stars": 589
           }
         },
         {
@@ -980,7 +980,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T06:41:09Z",
+            "last_commit": "2026-08-17T10:15:46Z",
             "owner": "caffeinelabs",
             "repo": "prettier-plugin-motoko",
             "stars": 28
@@ -1171,7 +1171,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T16:16:07Z",
+            "last_commit": "2026-08-17T09:12:41Z",
             "owner": "dfinity",
             "repo": "icp-js-core",
             "stars": 171
@@ -1289,7 +1289,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T14:13:56Z",
+            "last_commit": "2026-08-17T16:41:26Z",
             "owner": "dragginzgame",
             "repo": "icydb",
             "stars": 16
@@ -1575,7 +1575,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T03:31:33Z",
+            "last_commit": "2026-08-17T20:21:11Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1784
@@ -1705,10 +1705,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T19:53:41Z",
+            "last_commit": "2026-08-17T17:35:39Z",
             "owner": "open-chat-labs",
             "repo": "open-chat",
-            "stars": 206
+            "stars": 205
           }
         },
         {
@@ -2038,7 +2038,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:32:07Z",
+            "last_commit": "2026-08-17T19:18:36Z",
             "owner": "dfinity",
             "repo": "internet-identity",
             "stars": 533
@@ -2257,7 +2257,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T03:31:33Z",
+            "last_commit": "2026-08-17T20:21:11Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1784
@@ -2389,7 +2389,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T03:31:33Z",
+            "last_commit": "2026-08-17T20:21:11Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1784
@@ -2403,10 +2403,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T15:27:48Z",
+            "last_commit": "2026-08-17T20:13:59Z",
             "owner": "dfinity",
             "repo": "oisy-wallet",
-            "stars": 175
+            "stars": 176
           }
         },
         {
@@ -2417,7 +2417,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T07:31:37Z",
+            "last_commit": "2026-08-17T09:23:26Z",
             "owner": "dfinity",
             "repo": "evm-rpc-canister",
             "stars": 83
@@ -3074,7 +3074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:42:18.231Z",
+    "last_updated": "2026-08-17T20:47:42.536Z",
     "original_repository": "dfinity/awesome-internet-computer",
     "original_repository_sha": "0d5e5b2e280711813fe197d54362251ce9332b20",
     "enhanced_repository": "enhansome/enhansome-internet-computer",
