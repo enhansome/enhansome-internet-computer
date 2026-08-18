@@ -772,7 +772,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T20:21:11Z",
+            "last_commit": "2026-08-18T20:21:05Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1784
@@ -938,7 +938,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-17T15:51:35Z",
+            "last_commit": "2026-08-18T14:15:49Z",
             "owner": "caffeinelabs",
             "repo": "motoko",
             "stars": 589
@@ -1076,7 +1076,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T13:32:21Z",
+            "last_commit": "2026-08-18T13:07:34Z",
             "owner": "dfinity",
             "repo": "candid",
             "stars": 301
@@ -1090,7 +1090,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T13:32:21Z",
+            "last_commit": "2026-08-18T13:07:34Z",
             "owner": "dfinity",
             "repo": "candid",
             "stars": 301
@@ -1104,7 +1104,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T13:32:21Z",
+            "last_commit": "2026-08-18T13:07:34Z",
             "owner": "dfinity",
             "repo": "candid",
             "stars": 301
@@ -1289,7 +1289,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T16:41:26Z",
+            "last_commit": "2026-08-18T16:52:51Z",
             "owner": "dragginzgame",
             "repo": "icydb",
             "stars": 16
@@ -1575,7 +1575,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T20:21:11Z",
+            "last_commit": "2026-08-18T20:21:05Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1784
@@ -1705,7 +1705,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T17:35:39Z",
+            "last_commit": "2026-08-18T18:32:09Z",
             "owner": "open-chat-labs",
             "repo": "open-chat",
             "stars": 205
@@ -2038,7 +2038,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T19:18:36Z",
+            "last_commit": "2026-08-18T16:08:03Z",
             "owner": "dfinity",
             "repo": "internet-identity",
             "stars": 533
@@ -2257,7 +2257,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T20:21:11Z",
+            "last_commit": "2026-08-18T20:21:05Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1784
@@ -2389,7 +2389,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T20:21:11Z",
+            "last_commit": "2026-08-18T20:21:05Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1784
@@ -2403,7 +2403,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:13:59Z",
+            "last_commit": "2026-08-18T20:41:12Z",
             "owner": "dfinity",
             "repo": "oisy-wallet",
             "stars": 176
@@ -3074,7 +3074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:47:42.536Z",
+    "last_updated": "2026-08-18T20:43:21.289Z",
     "original_repository": "dfinity/awesome-internet-computer",
     "original_repository_sha": "0d5e5b2e280711813fe197d54362251ce9332b20",
     "enhanced_repository": "enhansome/enhansome-internet-computer",
