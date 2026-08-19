@@ -1,148 +1,161 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Web3 with TypeScript Bootcamp",
+              "description": "Learn to build a DAO in 7 days, with TypeScript, on the Internet Computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 672781902,
+                "language": "TypeScript",
+                "last_commit": "2023-08-31T08:10:45Z",
+                "owner": "code-and-state",
+                "repo": "typescript-bootcamp",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Courses"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Rust Modular Canister Template",
+                  "description": "An example canister with stable storage, HTTP outcalls, timers and more.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 755331272,
+                    "language": "Rust",
+                    "last_commit": "2024-02-26T19:46:04Z",
+                    "owner": "SaorsaLabs",
+                    "repo": "Template_Canister",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EmberJS Frontend for the Internet Computer",
+                  "description": "Getting started tutorial using the hello example.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 587590311,
+                    "language": "JavaScript",
+                    "last_commit": "2024-04-07T01:27:02Z",
+                    "owner": "onehilltech",
+                    "repo": "ember-cli-dfinity",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Simple / Getting started"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Cross-Chain ETH Payment and E-Commerce",
+                  "description": "A step-by-step guide to building a cross-chain payment and e-commerce platform on the Internet Computer using Ethereum.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 707842586,
+                    "language": "JavaScript",
+                    "last_commit": "2024-08-03T17:38:45Z",
+                    "owner": "b3hr4d",
+                    "repo": "eth_payment_tutorial",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Access control",
+                  "description": "Demonstrator for access control patterns on the IC.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 592015285,
+                    "language": "Rust",
+                    "last_commit": "2023-01-27T16:43:39Z",
+                    "owner": "domwoe",
+                    "repo": "access_control",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "React Native + JWT Authentication + Rust Canister demo",
+                  "description": "React Native (Expo) mobile app that uses the JWT minted from an authentication provider (Auth0 in this case) to authenticate on a Rust canister.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 777386729,
+                    "language": "Rust",
+                    "last_commit": "2024-08-24T16:54:05Z",
+                    "owner": "ilbertt",
+                    "repo": "ic-react-native-jwt-auth",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hosting ERC 721 metadata",
+                  "description": "Tutorial on hosting metadata and assets for ERC-721 NFTs on the IC.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 567773965,
+                    "language": "Motoko",
+                    "last_commit": "2023-07-13T12:14:12Z",
+                    "owner": "domwoe",
+                    "repo": "erc-721-ic-assets",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Backup and Restore",
+                  "description": "Tutorial with code on backup and restore of canister state.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 571791267,
+                    "language": "JavaScript",
+                    "last_commit": "2023-08-25T11:39:22Z",
+                    "owner": "Factland",
+                    "repo": "ic-factland",
+                    "stars": 8
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials and Samples"
+        }
+      ],
       "title": "Courses, Tutorials, and Samples"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Web3 with TypeScript Bootcamp",
-          "description": "Learn to build a DAO in 7 days, with TypeScript, on the Internet Computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-08-31T08:10:45Z",
-            "owner": "code-and-state",
-            "repo": "typescript-bootcamp",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Motoko Bootcamp - The DAO Adventure",
-          "description": "Discover the Motoko language in this 7 day adventure and learn to build a DAO , on the Internet Computer.",
-          "children": []
-        }
-      ],
-      "title": "Courses"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Rust Modular Canister Template",
-          "description": "An example canister with stable storage, HTTP outcalls, timers and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-02-26T19:46:04Z",
-            "owner": "SaorsaLabs",
-            "repo": "Template_Canister",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EmberJS Frontend for the Internet Computer",
-          "description": "Getting started tutorial using the hello example.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-04-07T01:27:02Z",
-            "owner": "onehilltech",
-            "repo": "ember-cli-dfinity",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Simple / Getting started"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Cross-Chain ETH Payment and E-Commerce",
-          "description": "A step-by-step guide to building a cross-chain payment and e-commerce platform on the Internet Computer using Ethereum.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-08-03T17:38:45Z",
-            "owner": "b3hr4d",
-            "repo": "eth_payment_tutorial",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Access control",
-          "description": "Demonstrator for access control patterns on the IC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-01-27T16:43:39Z",
-            "owner": "domwoe",
-            "repo": "access_control",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "React Native + JWT Authentication + Rust Canister demo",
-          "description": "React Native (Expo) mobile app that uses the JWT minted from an authentication provider (Auth0 in this case) to authenticate on a Rust canister.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-08-24T16:54:05Z",
-            "owner": "ilbertt",
-            "repo": "ic-react-native-jwt-auth",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hosting ERC 721 metadata",
-          "description": "Tutorial on hosting metadata and assets for ERC-721 NFTs on the IC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2023-07-13T12:14:12Z",
-            "owner": "domwoe",
-            "repo": "erc-721-ic-assets",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Backup and Restore",
-          "description": "Tutorial with code on backup and restore of canister state.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-08-25T11:39:22Z",
-            "owner": "Factland",
-            "repo": "ic-factland",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Advanced"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -151,6 +164,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 361044338,
             "language": "JavaScript",
             "last_commit": "2022-07-13T23:07:20Z",
             "owner": "MioQuispe",
@@ -165,6 +179,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 379596403,
             "language": "JavaScript",
             "last_commit": "2025-03-01T08:57:35Z",
             "owner": "dappblock",
@@ -179,6 +194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586359249,
             "language": "TypeScript",
             "last_commit": "2026-01-15T15:59:34Z",
             "owner": "rvanasa",
@@ -193,6 +209,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 672304861,
             "language": "TypeScript",
             "last_commit": "2026-04-09T15:03:58Z",
             "owner": "dfinity",
@@ -207,6 +224,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 492429582,
             "language": "TypeScript",
             "last_commit": "2024-04-14T11:17:13Z",
             "owner": "peterpeterparker",
@@ -221,6 +239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 745445283,
             "language": "Dockerfile",
             "last_commit": "2026-08-12T15:13:16Z",
             "owner": "dfinity",
@@ -235,6 +254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 631092931,
             "language": "JavaScript",
             "last_commit": "2026-02-10T15:17:45Z",
             "owner": "b3hr4d",
@@ -249,6 +269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 642336435,
             "language": "Dockerfile",
             "last_commit": "2023-07-01T11:27:18Z",
             "owner": "infu",
@@ -263,6 +284,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 652241406,
             "language": "Shell",
             "last_commit": "2023-11-24T17:21:46Z",
             "owner": "mzurs",
@@ -277,6 +299,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 872474382,
             "language": "JavaScript",
             "last_commit": "2025-10-13T17:01:43Z",
             "owner": "ic-alloy",
@@ -291,6 +314,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 591390029,
             "language": "Rust",
             "last_commit": "2023-01-25T12:49:59Z",
             "owner": "ocluf",
@@ -305,6 +329,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 738850971,
             "language": "Svelte",
             "last_commit": "2024-09-30T15:13:21Z",
             "owner": "letmejustputthishere",
@@ -316,343 +341,383 @@
       "title": "Starters"
     },
     {
-      "description": "",
+      "description": "Agents facilitate the interaction from clients with canisters on the Internet Computer. If you want to contribute an agent implementation check out this Grant RFP.",
       "items": [
         {
-          "node_type": "item",
-          "title": "agent-js",
-          "description": "Collection of libraries to interact with the IC using JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T09:12:41Z",
-            "owner": "dfinity",
-            "repo": "icp-js-core",
-            "stars": 171
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "agent-js",
+              "description": "Collection of libraries to interact with the IC using JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290373310,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T09:12:41Z",
+                "owner": "dfinity",
+                "repo": "icp-js-core",
+                "stars": 171
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-js",
+              "description": "Collection of libraries for interfacing with the Internet Computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 432102254,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T03:45:18Z",
+                "owner": "dfinity",
+                "repo": "icp-js-canisters",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-use-siwe-identity",
+              "description": "React hook for easy frontend integration with SIWE (Sign in with Ethereum) enabled canisters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 706711976,
+                "language": "Rust",
+                "last_commit": "2025-09-12T12:07:07Z",
+                "owner": "kristoferlund",
+                "repo": "ic-siwe",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "node-ic0",
+              "description": "The ic0 package is a simple, straightforward way to interact with canisters running on the IC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 587449226,
+                "language": "TypeScript",
+                "last_commit": "2026-04-09T12:41:23Z",
+                "owner": "dfinity",
+                "repo": "node-ic0",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "icblast",
+              "description": "Communicate with IC directly using NodeJS. Automatic service discovery.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 464900945,
+                "language": "JavaScript",
+                "last_commit": "2026-07-31T11:54:53Z",
+                "owner": "infu",
+                "repo": "icblast",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-use-internet-identity",
+              "description": "React hook that makes it easy to integrate IC Internet Identity into React applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 744727951,
+                "language": "TypeScript",
+                "last_commit": "2025-12-26T15:31:11Z",
+                "owner": "kristoferlund",
+                "repo": "ic-use-internet-identity",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-websocket-sdk",
+              "description": "Library for interfacing with the IC via WebSocket using JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 671589243,
+                "language": "TypeScript",
+                "last_commit": "2025-03-13T22:02:25Z",
+                "owner": "omnia-network",
+                "repo": "ic-websocket-sdk-js",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-use-actor",
+              "description": "React hook to make interacting with Internet Computer canisters more fun!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739417775,
+                "language": "TypeScript",
+                "last_commit": "2025-12-26T15:32:21Z",
+                "owner": "kristoferlund",
+                "repo": "ic-use-actor",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript/TypeScript"
         },
         {
-          "node_type": "item",
-          "title": "ic-js",
-          "description": "Collection of libraries for interfacing with the Internet Computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T03:45:18Z",
-            "owner": "dfinity",
-            "repo": "icp-js-canisters",
-            "stars": 81
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dfx",
+              "description": "Commandline tool to interact with the IC written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198344153,
+                "language": "Rust",
+                "last_commit": "2026-07-28T08:01:46Z",
+                "owner": "dfinity",
+                "repo": "sdk",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "agent-rs",
+              "description": "Collection of libraries and tools for interfacing with the IC using Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282042743,
+                "language": "Rust",
+                "last_commit": "2026-08-05T15:07:46Z",
+                "owner": "dfinity",
+                "repo": "agent-rs",
+                "stars": 144
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
         },
         {
-          "node_type": "item",
-          "title": "ic-use-siwe-identity",
-          "description": "React hook for easy frontend integration with SIWE (Sign in with Ethereum) enabled canisters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-09-12T12:07:07Z",
-            "owner": "kristoferlund",
-            "repo": "ic-siwe",
-            "stars": 32
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "agent-go",
+              "description": "Libraries for interfacing with the IC using Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375372066,
+                "language": "Go",
+                "last_commit": "2026-08-17T12:23:29Z",
+                "owner": "aviate-labs",
+                "repo": "agent-go",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "⚠️ UNMAINTAINED ⚠️ ic-go",
+              "description": "Libraries for interfacing with the IC using Go.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 445551119,
+                "language": "Go",
+                "last_commit": "2023-08-26T10:27:18Z",
+                "owner": "openos-labs",
+                "repo": "IC-Go",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
         },
         {
-          "node_type": "item",
-          "title": "node-ic0",
-          "description": "The ic0 package is a simple, straightforward way to interact with canisters running on the IC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-09T12:41:23Z",
-            "owner": "dfinity",
-            "repo": "node-ic0",
-            "stars": 19
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICP.NET",
+              "description": "Native Implementation in C# (Unity compatible).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 476344137,
+                "language": "C#",
+                "last_commit": "2025-04-21T16:51:51Z",
+                "owner": "edjCase",
+                "repo": "ICP.NET",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "agent-unity",
+              "description": "Wrapper of agent-rs to be used in unity projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 504046851,
+                "language": "Rust",
+                "last_commit": "2023-02-04T00:40:06Z",
+                "owner": "ShikuLabs",
+                "repo": "agent-unity",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C"
         },
         {
-          "node_type": "item",
-          "title": "icblast",
-          "description": "Communicate with IC directly using NodeJS. Automatic service discovery.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-31T11:54:53Z",
-            "owner": "infu",
-            "repo": "icblast",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-use-internet-identity",
-          "description": "React hook that makes it easy to integrate IC Internet Identity into React applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-26T15:31:11Z",
-            "owner": "kristoferlund",
-            "repo": "ic-use-internet-identity",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-websocket-sdk",
-          "description": "Library for interfacing with the IC via WebSocket using JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-03-13T22:02:25Z",
-            "owner": "omnia-network",
-            "repo": "ic-websocket-sdk-js",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-use-actor",
-          "description": "React hook to make interacting with Internet Computer canisters more fun!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-26T15:32:21Z",
-            "owner": "kristoferlund",
-            "repo": "ic-use-actor",
-            "stars": 6
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ic4j-agent",
+              "description": "Libraries for interfacing with the IC using Java (Android compatible).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 448150950,
+                "language": "Java",
+                "last_commit": "2026-03-13T17:14:31Z",
+                "owner": "ic4j",
+                "repo": "ic4j-agent",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Icp Kotlin Kit",
+              "description": "kotlin library to interact with IC. Provides a candid file parser to parse candid files to kotlin and interact with canisters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 824624205,
+                "language": "Kotlin",
+                "last_commit": "2025-12-25T13:43:39Z",
+                "owner": "0xTommy",
+                "repo": "ICP-Kotlin-Kit",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic4j-websocket",
+              "description": "Library for interfacing with the IC via WebSocket using Java (Android compatible).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 681150611,
+                "language": "Java",
+                "last_commit": "2024-06-03T11:32:14Z",
+                "owner": "ic4j",
+                "repo": "ic4j-websocket",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java/Kotlin"
         }
       ],
-      "title": "JavaScript/TypeScript"
+      "title": "Client Libraries (Agents)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "dfx",
-          "description": "Commandline tool to interact with the IC written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-28T08:01:46Z",
-            "owner": "dfinity",
-            "repo": "sdk",
-            "stars": 204
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "canister-sdk",
+              "description": "SDK for writing and testing canisters for the Internet Computer in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436962608,
+                "language": "Rust",
+                "last_commit": "2025-06-10T08:04:23Z",
+                "owner": "bitfinity-network",
+                "repo": "canister-sdk",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rustic",
+              "description": "Extension to ic-cdk, providing primitives familiar to Solidity developers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 671894114,
+                "language": "Rust",
+                "last_commit": "2024-03-08T03:27:59Z",
+                "owner": "internet-computer-protocol",
+                "repo": "rustic",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
         },
         {
-          "node_type": "item",
-          "title": "agent-rs",
-          "description": "Collection of libraries and tools for interfacing with the IC using Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-05T15:07:46Z",
-            "owner": "dfinity",
-            "repo": "agent-rs",
-            "stars": 144
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Chico",
+              "description": "C/C++ CDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 483447535,
+                "language": "C",
+                "last_commit": "2022-11-16T07:38:22Z",
+                "owner": "ICPorts-labs",
+                "repo": "chico",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lucid (cdk-c)",
+              "description": "Pure C canister development kit for the Internet Computer (no C++ runtime).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1028102383,
+                "language": "C",
+                "last_commit": "2026-02-10T12:57:14Z",
+                "owner": "q2333gh",
+                "repo": "Lucid",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C/C++"
         }
       ],
-      "title": "Rust"
+      "title": "Canister Development Kits (CDKs)"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "agent-go",
-          "description": "Libraries for interfacing with the IC using Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T12:23:29Z",
-            "owner": "aviate-labs",
-            "repo": "agent-go",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "⚠️ UNMAINTAINED ⚠️ ic-go",
-          "description": "Libraries for interfacing with the IC using Go.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-08-26T10:27:18Z",
-            "owner": "openos-labs",
-            "repo": "IC-Go",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "Go"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ICP.NET",
-          "description": "Native Implementation in C# (Unity compatible).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-04-21T16:51:51Z",
-            "owner": "edjCase",
-            "repo": "ICP.NET",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "agent-unity",
-          "description": "Wrapper of agent-rs to be used in unity projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-02-04T00:40:06Z",
-            "owner": "ShikuLabs",
-            "repo": "agent-unity",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "C"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ic4j-agent",
-          "description": "Libraries for interfacing with the IC using Java (Android compatible).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-03-13T17:14:31Z",
-            "owner": "ic4j",
-            "repo": "ic4j-agent",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Icp Kotlin Kit",
-          "description": "kotlin library to interact with IC. Provides a candid file parser to parse candid files to kotlin and interact with canisters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-12-25T13:43:39Z",
-            "owner": "0xTommy",
-            "repo": "ICP-Kotlin-Kit",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic4j-websocket",
-          "description": "Library for interfacing with the IC via WebSocket using Java (Android compatible).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-06-03T11:32:14Z",
-            "owner": "ic4j",
-            "repo": "ic4j-websocket",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Java/Kotlin"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "canister-sdk",
-          "description": "SDK for writing and testing canisters for the Internet Computer in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-06-10T08:04:23Z",
-            "owner": "bitfinity-network",
-            "repo": "canister-sdk",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rustic",
-          "description": "Extension to ic-cdk, providing primitives familiar to Solidity developers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-03-08T03:27:59Z",
-            "owner": "internet-computer-protocol",
-            "repo": "rustic",
-            "stars": 21
-          }
-        }
-      ],
-      "title": "Rust"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Chico",
-          "description": "C/C++ CDK.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-11-16T07:38:22Z",
-            "owner": "ICPorts-labs",
-            "repo": "chico",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lucid (cdk-c)",
-          "description": "Pure C canister development kit for the Internet Computer (no C++ runtime).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-10T12:57:14Z",
-            "owner": "q2333gh",
-            "repo": "Lucid",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "C/C++"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -661,6 +726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 492939280,
             "language": "Nix",
             "last_commit": "2026-08-17T04:40:13Z",
             "owner": "ninegua",
@@ -675,6 +741,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 597744597,
             "language": "Rust",
             "last_commit": "2025-11-28T18:25:40Z",
             "owner": "wasm-forge",
@@ -689,6 +756,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 633451715,
             "language": "Rust",
             "last_commit": "2025-08-28T11:42:32Z",
             "owner": "Forge-3",
@@ -703,6 +771,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 928688277,
             "language": "Motoko",
             "last_commit": "2025-10-31T20:28:34Z",
             "owner": "edjCase",
@@ -717,6 +786,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 707767885,
             "language": "Rust",
             "last_commit": "2026-07-28T02:16:41Z",
             "owner": "dfinity",
@@ -731,6 +801,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 662973217,
             "language": null,
             "last_commit": "2026-04-09T13:56:30Z",
             "owner": "dfinity",
@@ -745,6 +816,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 703619388,
             "language": "TypeScript",
             "last_commit": "2025-12-10T18:47:22Z",
             "owner": "MioQuispe",
@@ -753,179 +825,186 @@
           }
         },
         {
-          "node_type": "item",
-          "title": "canister-tools",
-          "description": "Take snapshots of the canister-data and download/upload snapshots. Simple upgrades. Common tools for Rust canisters.",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pocket-ic",
+              "description": "A canister testing library that supports deterministic, programmatic canister testing in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365701873,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:27:40Z",
+                "owner": "dfinity",
+                "repo": "ic",
+                "stars": 1783
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-repl",
+              "description": "A REPL environment to communicate with canisters. Allows to write E2E integration tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 361269559,
+                "language": "Rust",
+                "last_commit": "2026-07-15T23:11:17Z",
+                "owner": "dfinity",
+                "repo": "ic-repl",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "canister-profiling",
+              "description": "Code & scripts for collecting performance data for canisters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 533539851,
+                "language": "Rust",
+                "last_commit": "2026-04-08T15:33:12Z",
+                "owner": "dfinity",
+                "repo": "canister-profiling",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pocketic-py",
+              "description": "A canister testing library that supports deterministic, programmatic canister testing in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 681071607,
+                "language": "Python",
+                "last_commit": "2026-05-12T09:33:34Z",
+                "owner": "dfinity",
+                "repo": "pocketic-py",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lightic",
+              "description": "Write & Run tests for any canister in JS/TS. Canisters will be run inside nodejs environment, no DFX.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617902914,
+                "language": "Rust",
+                "last_commit": "2023-08-15T20:26:55Z",
+                "owner": "icopen",
+                "repo": "lightic",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pic-js",
+              "description": "A TypeScript/JavaScript library for testing canisters with support for PocketIC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 713096968,
+                "language": "TypeScript",
+                "last_commit": "2026-08-03T14:38:00Z",
+                "owner": "dfinity",
+                "repo": "pic-js",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-test",
+              "description": "Command-line tool that makes it easier to create a test project and includes the basic files and setup needed for both IC canisters and optionally EVM (Ethereum Virtual Machine) smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 949935421,
+                "language": "Rust",
+                "last_commit": "2025-11-28T13:49:27Z",
+                "owner": "wasm-forge",
+                "repo": "ic-test",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-mockery",
+              "description": "IC-Mockery is a procedural macro framework that transforms async Result methods into HTTP outcalls, enabling seamless Internet Computer canister testing with PocketIC without changing production code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 999570910,
+                "language": "Rust",
+                "last_commit": "2026-03-20T10:09:19Z",
+                "owner": "ic-mockery",
+                "repo": "ic-mockery",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ic-blackhole",
+              "description": "Canister to publicly expose canister status information.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383687083,
+                "language": "Nix",
+                "last_commit": "2025-01-05T11:48:16Z",
+                "owner": "ninegua",
+                "repo": "ic-blackhole",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cycles Manager",
+              "description": "A library for index canisters that want to manage the cycles of their child canisters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 657673747,
+                "language": "Motoko",
+                "last_commit": "2023-07-24T17:41:16Z",
+                "owner": "CycleOperators",
+                "repo": "cycles-manager",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Canister monitoring",
+              "description": "Example of using Prometheus to collect metrics from a canister.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 496990258,
+                "language": "Motoko",
+                "last_commit": "2022-06-02T17:40:00Z",
+                "owner": "domwoe",
+                "repo": "canister-monitoring",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring"
         }
       ],
       "title": "Developer Tooling"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pocket-ic",
-          "description": "A canister testing library that supports deterministic, programmatic canister testing in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T20:21:05Z",
-            "owner": "dfinity",
-            "repo": "ic",
-            "stars": 1784
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-repl",
-          "description": "A REPL environment to communicate with canisters. Allows to write E2E integration tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-15T23:11:17Z",
-            "owner": "dfinity",
-            "repo": "ic-repl",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "canister-profiling",
-          "description": "Code & scripts for collecting performance data for canisters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-08T15:33:12Z",
-            "owner": "dfinity",
-            "repo": "canister-profiling",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pocketic-py",
-          "description": "A canister testing library that supports deterministic, programmatic canister testing in Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-12T09:33:34Z",
-            "owner": "dfinity",
-            "repo": "pocketic-py",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lightic",
-          "description": "Write & Run tests for any canister in JS/TS. Canisters will be run inside nodejs environment, no DFX.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-08-15T20:26:55Z",
-            "owner": "icopen",
-            "repo": "lightic",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pic-js",
-          "description": "A TypeScript/JavaScript library for testing canisters with support for PocketIC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-03T14:38:00Z",
-            "owner": "dfinity",
-            "repo": "pic-js",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-test",
-          "description": "Command-line tool that makes it easier to create a test project and includes the basic files and setup needed for both IC canisters and optionally EVM (Ethereum Virtual Machine) smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-11-28T13:49:27Z",
-            "owner": "wasm-forge",
-            "repo": "ic-test",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-mockery",
-          "description": "IC-Mockery is a procedural macro framework that transforms async Result methods into HTTP outcalls, enabling seamless Internet Computer canister testing with PocketIC without changing production code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-20T10:09:19Z",
-            "owner": "ic-mockery",
-            "repo": "ic-mockery",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ic-blackhole",
-          "description": "Canister to publicly expose canister status information.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Nix",
-            "last_commit": "2025-01-05T11:48:16Z",
-            "owner": "ninegua",
-            "repo": "ic-blackhole",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cycles Manager",
-          "description": "A library for index canisters that want to manage the cycles of their child canisters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2023-07-24T17:41:16Z",
-            "owner": "CycleOperators",
-            "repo": "cycles-manager",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Canister monitoring",
-          "description": "Example of using Prometheus to collect metrics from a canister.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2022-06-02T17:40:00Z",
-            "owner": "domwoe",
-            "repo": "canister-monitoring",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Monitoring"
     },
     {
       "description": "Motoko is a safe, simple, actor-based programming language for authoring Internet Computer (IC) canister smart contracts.",
@@ -937,6 +1016,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133029963,
             "language": "OCaml",
             "last_commit": "2026-08-18T14:15:49Z",
             "owner": "caffeinelabs",
@@ -951,6 +1031,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 425048398,
             "language": "JavaScript",
             "last_commit": "2023-09-13T19:22:07Z",
             "owner": "Blocks-Editor",
@@ -965,6 +1046,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 417071701,
             "language": null,
             "last_commit": "2025-11-25T09:46:48Z",
             "owner": "ic123-xyz",
@@ -979,6 +1061,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523524925,
             "language": "TypeScript",
             "last_commit": "2026-08-17T10:15:46Z",
             "owner": "caffeinelabs",
@@ -993,77 +1076,83 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 551784825,
             "language": "TypeScript",
             "last_commit": "2026-06-15T19:09:25Z",
             "owner": "caffeinelabs",
             "repo": "motoko-dev-server",
             "stars": 24
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Server",
+              "description": "An Express-style http framework for serving certified http responses from canisters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 628365844,
+                "language": "Motoko",
+                "last_commit": "2025-06-06T23:20:25Z",
+                "owner": "krpeacock",
+                "repo": "server",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IC Certification",
+              "description": "Merkle Tree and support for certified variables and assets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 355925926,
+                "language": "Nix",
+                "last_commit": "2025-08-18T18:30:20Z",
+                "owner": "nomeata",
+                "repo": "ic-certification",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IC-TEE",
+              "description": "A framework to make Trusted Execution Environments (TEEs) work with the Internet Computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 881412655,
+                "language": "Rust",
+                "last_commit": "2026-08-06T12:30:33Z",
+                "owner": "ldclabs",
+                "repo": "ic-tee",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "motoko_regex",
+              "description": "Library for native pattern matching on the Internet Computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 851810762,
+                "language": "Motoko",
+                "last_commit": "2025-05-07T15:30:37Z",
+                "owner": "Demali-876",
+                "repo": "motoko_regex_engine",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries / Frameworks"
         }
       ],
       "title": "Motoko"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Server",
-          "description": "An Express-style http framework for serving certified http responses from canisters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2025-06-06T23:20:25Z",
-            "owner": "krpeacock",
-            "repo": "server",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IC Certification",
-          "description": "Merkle Tree and support for certified variables and assets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Nix",
-            "last_commit": "2025-08-18T18:30:20Z",
-            "owner": "nomeata",
-            "repo": "ic-certification",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IC-TEE",
-          "description": "A framework to make Trusted Execution Environments (TEEs) work with the Internet Computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-06T12:30:33Z",
-            "owner": "ldclabs",
-            "repo": "ic-tee",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "motoko_regex",
-          "description": "Library for native pattern matching on the Internet Computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2025-05-07T15:30:37Z",
-            "owner": "Demali-876",
-            "repo": "motoko_regex_engine",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Libraries / Frameworks"
     },
     {
       "description": "Candid is an interface description language (IDL) for interacting with canisters (also known as services or actors) running on the Internet Computer. It provides a language-independent description of canister interfaces and the data they exchange, with type safety and extensibility.",
@@ -1075,6 +1164,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261247499,
             "language": "Rust",
             "last_commit": "2026-08-18T13:07:34Z",
             "owner": "dfinity",
@@ -1089,6 +1179,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261247499,
             "language": "Rust",
             "last_commit": "2026-08-18T13:07:34Z",
             "owner": "dfinity",
@@ -1103,6 +1194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261247499,
             "language": "Rust",
             "last_commit": "2026-08-18T13:07:34Z",
             "owner": "dfinity",
@@ -1117,6 +1209,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 347088156,
             "language": "Rust",
             "last_commit": "2026-04-08T14:55:24Z",
             "owner": "dfinity",
@@ -1131,6 +1224,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 466536953,
             "language": "Kotlin",
             "last_commit": "2023-09-15T17:52:04Z",
             "owner": "Alaanor",
@@ -1145,57 +1239,63 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 449867109,
             "language": "TypeScript",
             "last_commit": "2026-04-08T15:22:40Z",
             "owner": "dfinity",
             "repo": "dfn-components",
             "stars": 5
           }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "@dfinity/candid",
+                  "description": "JavaScript and TypeScript library for Candid.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 290373310,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-17T09:12:41Z",
+                    "owner": "dfinity",
+                    "repo": "icp-js-core",
+                    "stars": 171
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "candid-parser-wasm",
+                  "description": "JavaScript/TypeScript bindings for \"candid_parser\", compiled to WebAssembly.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 755943049,
+                    "language": "Rust",
+                    "last_commit": "2024-02-13T17:25:31Z",
+                    "owner": "justblender",
+                    "repo": "candid-parser-wasm",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "JavaScript/TypeScript"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Candid implementations"
         }
       ],
       "title": "Candid"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Candid implementations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "@dfinity/candid",
-          "description": "JavaScript and TypeScript library for Candid.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T09:12:41Z",
-            "owner": "dfinity",
-            "repo": "icp-js-core",
-            "stars": 171
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "candid-parser-wasm",
-          "description": "JavaScript/TypeScript bindings for \"candid_parser\", compiled to WebAssembly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-02-13T17:25:31Z",
-            "owner": "justblender",
-            "repo": "candid-parser-wasm",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "JavaScript/TypeScript"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1204,6 +1304,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 341401395,
             "language": "HTML",
             "last_commit": "2021-12-07T12:19:46Z",
             "owner": "sudograph",
@@ -1218,6 +1319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 389440236,
             "language": "Rust",
             "last_commit": "2026-05-12T11:49:21Z",
             "owner": "dfinity",
@@ -1232,6 +1334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 432847356,
             "language": "Rust",
             "last_commit": "2023-05-10T15:18:22Z",
             "owner": "seniorjoinu",
@@ -1246,6 +1349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 522441037,
             "language": "Rust",
             "last_commit": "2023-03-14T12:23:09Z",
             "owner": "froghub-io",
@@ -1260,6 +1364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 468038183,
             "language": "Motoko",
             "last_commit": "2024-03-20T08:12:46Z",
             "owner": "ORIGYN-SA",
@@ -1274,6 +1379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798857572,
             "language": "Rust",
             "last_commit": "2026-08-06T12:07:32Z",
             "owner": "ldclabs",
@@ -1288,8 +1394,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1104724435,
             "language": "Rust",
-            "last_commit": "2026-08-18T16:52:51Z",
+            "last_commit": "2026-08-19T10:30:42Z",
             "owner": "dragginzgame",
             "repo": "icydb",
             "stars": 16
@@ -1302,6 +1409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1095275459,
             "language": "Rust",
             "last_commit": "2026-07-29T20:43:57Z",
             "owner": "veeso",
@@ -1316,6 +1424,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 901978071,
             "language": "Motoko",
             "last_commit": "2026-04-21T22:24:22Z",
             "owner": "NatLabs",
@@ -1330,6 +1439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 638218943,
             "language": "Rust",
             "last_commit": "2023-05-14T16:02:58Z",
             "owner": "omnia-network",
@@ -1344,6 +1454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 831362869,
             "language": "Rust",
             "last_commit": "2026-08-06T11:19:19Z",
             "owner": "ldclabs",
@@ -1358,6 +1469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 877560970,
             "language": "Rust",
             "last_commit": "2026-04-25T10:00:27Z",
             "owner": "wasm-forge",
@@ -1372,6 +1484,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 843994623,
             "language": "Motoko",
             "last_commit": "2026-04-04T21:19:56Z",
             "owner": "NatLabs",
@@ -1386,6 +1499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 577805505,
             "language": "Rust",
             "last_commit": "2023-04-18T00:21:43Z",
             "owner": "Factland",
@@ -1397,7 +1511,7 @@
       "title": "Storage and Databases"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1406,6 +1520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 673259759,
             "language": "Rust",
             "last_commit": "2025-06-17T20:38:13Z",
             "owner": "omnia-network",
@@ -1420,6 +1535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 783228915,
             "language": "Rust",
             "last_commit": "2024-10-21T02:58:50Z",
             "owner": "ldclabs",
@@ -1434,6 +1550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 799474003,
             "language": "Rust",
             "last_commit": "2025-10-22T09:33:10Z",
             "owner": "vporton",
@@ -1445,257 +1562,266 @@
       "title": "Infrastructure"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ICRC-1",
+                  "description": "Base fungible token standard.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 496339250,
+                    "language": "Rust",
+                    "last_commit": "2026-05-11T08:50:03Z",
+                    "owner": "dfinity",
+                    "repo": "ICRC-1",
+                    "stars": 89
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ICRC-2",
+                  "description": "Extension to support and .",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 496339250,
+                    "language": "Rust",
+                    "last_commit": "2026-05-11T08:50:03Z",
+                    "owner": "dfinity",
+                    "repo": "ICRC-1",
+                    "stars": 89
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ICRC-7",
+                  "description": "Base NFT Standard.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 566391058,
+                    "language": null,
+                    "last_commit": "2026-05-06T09:03:08Z",
+                    "owner": "dfinity",
+                    "repo": "ICRC",
+                    "stars": 38
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ICRC"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "EXT",
+                  "description": "The extendable token standard inspired by ERC1155.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 375907875,
+                    "language": "Motoko",
+                    "last_commit": "2023-03-23T14:37:15Z",
+                    "owner": "Toniq-Labs",
+                    "repo": "extendable-token",
+                    "stars": 82
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DIP20",
+                  "description": "Fungible token standard inspired by the ERC20 standard.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 415962742,
+                    "language": "Motoko",
+                    "last_commit": "2022-07-24T02:54:54Z",
+                    "owner": "Psychedelic",
+                    "repo": "DIP20",
+                    "stars": 67
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DIP721",
+                  "description": "NFT standard inspired the ERC721 standard.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 434382550,
+                    "language": "TypeScript",
+                    "last_commit": "2022-09-23T14:55:03Z",
+                    "owner": "Psychedelic",
+                    "repo": "DIP721",
+                    "stars": 62
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Origyn NFT",
+                  "description": "Origyn NFT standard.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 536338692,
+                    "language": "Motoko",
+                    "last_commit": "2025-01-27T10:05:52Z",
+                    "owner": "ORIGYN-SA",
+                    "repo": "origyn_nft",
+                    "stars": 28
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other Interface Standards"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interface Standards"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICRC-1/2/3 Rust",
+              "description": "Fungible token reference implementation by DFINITY.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365701873,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:27:40Z",
+                "owner": "dfinity",
+                "repo": "ic",
+                "stars": 1783
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICRC-7 Rust",
+              "description": "NFT reference implementation by ORIGYN.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 979443344,
+                "language": "Rust",
+                "last_commit": "2026-08-04T09:03:48Z",
+                "owner": "ORIGYN-SA",
+                "repo": "nft",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "⚠️ UNMAINTAINED ⚠️ ICRC-7 Rust Launchpad",
+              "description": "NFT launchpad example implementation by .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 788422026,
+                "language": "Rust",
+                "last_commit": "2025-01-11T03:07:06Z",
+                "owner": "tuminfei",
+                "repo": "icrc7_launchpad",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "⚠️ UNMAINTAINED ⚠️ ICRC-7 Rust",
+              "description": "NFT launchpad example implementation by .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 744288157,
+                "language": "Rust",
+                "last_commit": "2024-04-30T10:04:06Z",
+                "owner": "pramitgaha21",
+                "repo": "icrc7",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EXT Motoko",
+              "description": "NFT implementation for the EXT standard by .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 596975506,
+                "language": "Motoko",
+                "last_commit": "2023-09-01T08:56:12Z",
+                "owner": "flowerpowerdao",
+                "repo": "power-equalizer",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICRC-7 Motoko Launchpad",
+              "description": "NFT launchpad example implementation by .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 756778665,
+                "language": "Motoko",
+                "last_commit": "2024-09-25T15:11:54Z",
+                "owner": "letmejustputthishere",
+                "repo": "icrc7_launchpad",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "⚠️ UNMAINTAINED ⚠️ ICRC-7 Rust",
+              "description": "NFT launchpad example implementation by .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 772354169,
+                "language": "Rust",
+                "last_commit": "2024-07-03T01:08:18Z",
+                "owner": "tuminfei",
+                "repo": "yuku_icrc7",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "⚠️ UNMAINTAINED ⚠️ ICRC-7 Rust",
+              "description": "NFT launchpad example implementation by .",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 797833513,
+                "language": "Rust",
+                "last_commit": "2024-06-25T17:01:24Z",
+                "owner": "AlexandriaDAO",
+                "repo": "NFT",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Implementations"
+        }
+      ],
       "title": "Fungible and Non-fungible Tokens (NFTs)"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Interface Standards"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ICRC-1",
-          "description": "Base fungible token standard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-05-11T08:50:03Z",
-            "owner": "dfinity",
-            "repo": "ICRC-1",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ICRC-2",
-          "description": "Extension to support and .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-05-11T08:50:03Z",
-            "owner": "dfinity",
-            "repo": "ICRC-1",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ICRC-7",
-          "description": "Base NFT Standard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-06T09:03:08Z",
-            "owner": "dfinity",
-            "repo": "ICRC",
-            "stars": 38
-          }
-        }
-      ],
-      "title": "ICRC"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "EXT",
-          "description": "The extendable token standard inspired by ERC1155.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2023-03-23T14:37:15Z",
-            "owner": "Toniq-Labs",
-            "repo": "extendable-token",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DIP20",
-          "description": "Fungible token standard inspired by the ERC20 standard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2022-07-24T02:54:54Z",
-            "owner": "Psychedelic",
-            "repo": "DIP20",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DIP721",
-          "description": "NFT standard inspired the ERC721 standard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-09-23T14:55:03Z",
-            "owner": "Psychedelic",
-            "repo": "DIP721",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Origyn NFT",
-          "description": "Origyn NFT standard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2025-01-27T10:05:52Z",
-            "owner": "ORIGYN-SA",
-            "repo": "origyn_nft",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "Other Interface Standards"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ICRC-1/2/3 Rust",
-          "description": "Fungible token reference implementation by DFINITY.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T20:21:05Z",
-            "owner": "dfinity",
-            "repo": "ic",
-            "stars": 1784
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ICRC-7 Rust",
-          "description": "NFT reference implementation by ORIGYN.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-04T09:03:48Z",
-            "owner": "ORIGYN-SA",
-            "repo": "nft",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "⚠️ UNMAINTAINED ⚠️ ICRC-7 Rust Launchpad",
-          "description": "NFT launchpad example implementation by .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-01-11T03:07:06Z",
-            "owner": "tuminfei",
-            "repo": "icrc7_launchpad",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "⚠️ UNMAINTAINED ⚠️ ICRC-7 Rust",
-          "description": "NFT launchpad example implementation by .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-04-30T10:04:06Z",
-            "owner": "pramitgaha21",
-            "repo": "icrc7",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EXT Motoko",
-          "description": "NFT implementation for the EXT standard by .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2023-09-01T08:56:12Z",
-            "owner": "flowerpowerdao",
-            "repo": "power-equalizer",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ICRC-7 Motoko Launchpad",
-          "description": "NFT launchpad example implementation by .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2024-09-25T15:11:54Z",
-            "owner": "letmejustputthishere",
-            "repo": "icrc7_launchpad",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "⚠️ UNMAINTAINED ⚠️ ICRC-7 Rust",
-          "description": "NFT launchpad example implementation by .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-07-03T01:08:18Z",
-            "owner": "tuminfei",
-            "repo": "yuku_icrc7",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "⚠️ UNMAINTAINED ⚠️ ICRC-7 Rust",
-          "description": "NFT launchpad example implementation by .",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2024-06-25T17:01:24Z",
-            "owner": "AlexandriaDAO",
-            "repo": "NFT",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ICRC-1/2/3 Motoko",
-          "description": "Fungible token reference implementation by Pan Industrial.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "ICRC-7 Motoko",
-          "description": "NFT reference implementation by Pan Industrial.",
-          "children": []
-        }
-      ],
-      "title": "Implementations"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1704,8 +1830,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322613245,
             "language": "Rust",
-            "last_commit": "2026-08-18T18:32:09Z",
+            "last_commit": "2026-08-19T12:11:44Z",
             "owner": "open-chat-labs",
             "repo": "open-chat",
             "stars": 205
@@ -1718,6 +1845,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320386581,
             "language": "Rust",
             "last_commit": "2022-03-29T18:08:13Z",
             "owner": "nomeata",
@@ -1732,6 +1860,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 649634871,
             "language": "Rust",
             "last_commit": "2023-08-10T00:12:34Z",
             "owner": "miguelToscano",
@@ -1743,122 +1872,132 @@
       "title": "Messaging"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Spinner",
+              "description": "Private transactions using zkSNARKs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 506145576,
+                "language": "Rust",
+                "last_commit": "2022-06-22T07:39:42Z",
+                "owner": "spinner-cash",
+                "repo": "spinner",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICPEx Adapter",
+              "description": "Used for quick access to the ICPEx, enabling fast execution of swap, create token, create pool, and other functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 818481160,
+                "language": "JavaScript",
+                "last_commit": "2024-10-09T07:07:28Z",
+                "owner": "ICPExchange",
+                "repo": "adapters-doc",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeSwap Orderbook",
+              "description": "An Order Matching Engine Module for Dex in Motoko.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 495315647,
+                "language": "Motoko",
+                "last_commit": "2023-09-24T07:41:49Z",
+                "owner": "iclighthouse",
+                "repo": "DeSwap-Orderbook",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BrownFi",
+              "description": "Simple AMM with high Capital Effifiency",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 768423913,
+                "language": "Motoko",
+                "last_commit": "2026-06-04T19:45:29Z",
+                "owner": "BrownFi",
+                "repo": "BrownFi-AMM-ICP",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Exchanges"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICTC",
+              "description": "Distributed transaction framework for DeFi applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 447094195,
+                "language": "Motoko",
+                "last_commit": "2024-08-04T13:29:13Z",
+                "owner": "iclighthouse",
+                "repo": "ICTC",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICSI",
+              "description": "Simplify ICRC token tracking and management within sub-accounts using the ICP Sub-Account Indexer.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 774286374,
+                "language": "Rust",
+                "last_commit": "2026-05-16T11:58:57Z",
+                "owner": "garudaidr",
+                "repo": "icp-subaccount-indexer",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICSpore DCA",
+              "description": "Payment solution for automated DCA purchases",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 848976894,
+                "language": "Motoko",
+                "last_commit": "2024-11-24T15:43:43Z",
+                "owner": "ICSpore",
+                "repo": "dca-v1",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frameworks and Tools"
+        }
+      ],
       "title": "Decentralized Finance (DeFi)"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Spinner",
-          "description": "Private transactions using zkSNARKs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-06-22T07:39:42Z",
-            "owner": "spinner-cash",
-            "repo": "spinner",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ICPEx Adapter",
-          "description": "Used for quick access to the ICPEx, enabling fast execution of swap, create token, create pool, and other functions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-09T07:07:28Z",
-            "owner": "ICPExchange",
-            "repo": "adapters-doc",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeSwap Orderbook",
-          "description": "An Order Matching Engine Module for Dex in Motoko.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2023-09-24T07:41:49Z",
-            "owner": "iclighthouse",
-            "repo": "DeSwap-Orderbook",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BrownFi",
-          "description": "Simple AMM with high Capital Effifiency",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2026-06-04T19:45:29Z",
-            "owner": "BrownFi",
-            "repo": "BrownFi-AMM-ICP",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Exchanges"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ICTC",
-          "description": "Distributed transaction framework for DeFi applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2024-08-04T13:29:13Z",
-            "owner": "iclighthouse",
-            "repo": "ICTC",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ICSI",
-          "description": "Simplify ICRC token tracking and management within sub-accounts using the ICP Sub-Account Indexer.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2026-05-16T11:58:57Z",
-            "owner": "garudaidr",
-            "repo": "icp-subaccount-indexer",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ICSpore DCA",
-          "description": "Payment solution for automated DCA purchases",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2024-11-24T15:43:43Z",
-            "owner": "ICSpore",
-            "repo": "dca-v1",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Frameworks and Tools"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1867,6 +2006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 631530426,
             "language": "Rust",
             "last_commit": "2024-12-17T13:50:56Z",
             "owner": "NeutronStarDAO",
@@ -1881,6 +2021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 730322252,
             "language": "Vue",
             "last_commit": "2025-07-24T12:51:07Z",
             "owner": "Talentum-id",
@@ -1895,6 +2036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1096069334,
             "language": "Motoko",
             "last_commit": "2026-01-09T18:06:42Z",
             "owner": "edjCase",
@@ -1906,7 +2048,7 @@
       "title": "Social Applications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1915,6 +2057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 423894619,
             "language": "TypeScript",
             "last_commit": "2023-06-15T14:19:51Z",
             "owner": "icdevsorg",
@@ -1929,6 +2072,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 528047509,
             "language": "Motoko",
             "last_commit": "2026-04-09T12:33:00Z",
             "owner": "dfinity",
@@ -1943,6 +2087,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 699390364,
             "language": "TypeScript",
             "last_commit": "2024-03-14T11:39:50Z",
             "owner": "redsteep",
@@ -1963,6 +2108,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 526827589,
             "language": "C#",
             "last_commit": "2023-08-09T14:49:18Z",
             "owner": "dfinity",
@@ -1977,6 +2123,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 621777270,
             "language": "Motoko",
             "last_commit": "2023-04-18T00:59:07Z",
             "owner": "therealbryanho",
@@ -1991,6 +2138,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 824642939,
             "language": "JavaScript",
             "last_commit": "2024-09-10T17:07:48Z",
             "owner": "morganpage",
@@ -2005,30 +2153,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 760954693,
             "language": "JavaScript",
             "last_commit": "2024-02-23T01:03:30Z",
             "owner": "temokoki",
             "repo": "IC_Wheel_of_Fortune",
             "stars": 4
           }
-        },
-        {
-          "node_type": "item",
-          "title": "BoomDAO World Protocol",
-          "description": "An on-chain game server protocol weaving together ICP games into one universally accessible database.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "BoomDAO Unity template",
-          "description": "Unity template with wallet integration and NFT fetching.",
-          "children": []
         }
       ],
       "title": "Game Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2037,8 +2174,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 356347737,
             "language": "Rust",
-            "last_commit": "2026-08-18T16:08:03Z",
+            "last_commit": "2026-08-19T12:24:41Z",
             "owner": "dfinity",
             "repo": "internet-identity",
             "stars": 533
@@ -2051,655 +2189,705 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 693324085,
             "language": "TypeScript",
             "last_commit": "2025-11-19T08:42:02Z",
             "owner": "research-ag",
             "repo": "wallet",
             "stars": 14
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ic-siwe",
+              "description": "Authentication library to enable SIWE (Sign in with Ethereum) functionality for ICP applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 706711976,
+                "language": "Rust",
+                "last_commit": "2025-09-12T12:07:07Z",
+                "owner": "kristoferlund",
+                "repo": "ic-siwe",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-siwb",
+              "description": "Authentication library to enable SIWB (Sign in with Bitcoin) functionality for ICP applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 823155206,
+                "language": "Rust",
+                "last_commit": "2026-04-02T05:47:51Z",
+                "owner": "AstroxNetwork",
+                "repo": "ic-siwb",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "artemis",
+              "description": "Wallet adapter for connecting different wallets on the Internet Computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 589665800,
+                "language": "JavaScript",
+                "last_commit": "2025-03-26T05:09:51Z",
+                "owner": "sonicdex",
+                "repo": "artemis",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-siws",
+              "description": "Authentication library to enable SIWS (Sign in with Solana) functionality for ICP applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 777919615,
+                "language": "Rust",
+                "last_commit": "2025-10-13T16:58:14Z",
+                "owner": "kristoferlund",
+                "repo": "ic-siws",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Plug-n-Play",
+              "description": "A lightweight, framework-agnostic, wallet adapter that implements ICRC auth standards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 848140663,
+                "language": "TypeScript",
+                "last_commit": "2026-01-01T19:40:15Z",
+                "owner": "microdao-corporation",
+                "repo": "plug-n-play",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-sis",
+              "description": "Authentication library to enable SIS (Sign in with SUI) functionality for ICP applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 928167630,
+                "language": "Rust",
+                "last_commit": "2025-06-20T00:02:22Z",
+                "owner": "Talentum-id",
+                "repo": "ic_sis",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
         }
       ],
       "title": "Wallets and Authentication"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "ic-siwe",
-          "description": "Authentication library to enable SIWE (Sign in with Ethereum) functionality for ICP applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-09-12T12:07:07Z",
-            "owner": "kristoferlund",
-            "repo": "ic-siwe",
-            "stars": 32
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "B3Wallet",
+              "description": "A decentralized wallet supporting multiple blockchains, including Ethereum, Bitcoin, and ICP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 631325466,
+                "language": "Rust",
+                "last_commit": "2024-03-30T14:24:01Z",
+                "owner": "B3Pay",
+                "repo": "B3Wallet",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chain Fusion Starter",
+              "description": "starter template leveraging chain fusion technology to build EVM coprocessors on the Internet Computer Protocol",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 788637433,
+                "language": "Solidity",
+                "last_commit": "2025-06-11T07:44:11Z",
+                "owner": "letmejustputthishere",
+                "repo": "icp-evm-coprocessor-starter",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chain Fusion Signer",
+              "description": "A canister that does nothing but sign transactions for use on other blockchains.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 827360447,
+                "language": "Rust",
+                "last_commit": "2026-08-19T08:17:07Z",
+                "owner": "dfinity",
+                "repo": "chain-fusion-signer",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alloy Toolkit",
+              "description": "Examples of interacting with Ethereum from a Rust canister using the Alloy EVM support libraries",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 856257227,
+                "language": "TypeScript",
+                "last_commit": "2025-10-13T17:02:44Z",
+                "owner": "ic-alloy",
+                "repo": "ic-alloy-toolkit",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SIWE starter",
+              "description": "Login in to ICP using Metamask and other Ethereum wallets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 724538116,
+                "language": "TypeScript",
+                "last_commit": "2025-10-13T17:10:26Z",
+                "owner": "kristoferlund",
+                "repo": "ic-siwe-react-demo-rust",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-pub-key",
+              "description": "A TypeScript library for client-side key derivation on ICP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991928044,
+                "language": "TypeScript",
+                "last_commit": "2026-05-21T09:19:00Z",
+                "owner": "dfinity",
+                "repo": "ic-pub-key",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General"
         },
         {
-          "node_type": "item",
-          "title": "ic-siwb",
-          "description": "Authentication library to enable SIWB (Sign in with Bitcoin) functionality for ICP applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-02T05:47:51Z",
-            "owner": "AstroxNetwork",
-            "repo": "ic-siwb",
-            "stars": 20
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ckBTC",
+              "description": "Canister-controlled BTC twin on ICP with 1:1 backing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365701873,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:27:40Z",
+                "owner": "dfinity",
+                "repo": "ic",
+                "stars": 1783
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inscription Canister",
+              "description": "A canister to create Ordinal inscriptions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 746597121,
+                "language": "Rust",
+                "last_commit": "2024-08-19T08:26:31Z",
+                "owner": "domwoe",
+                "repo": "inscription_canister",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "runes-indexer",
+              "description": "An onchain runes indexer on the Internet Computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811241466,
+                "language": "Rust",
+                "last_commit": "2025-07-11T07:00:03Z",
+                "owner": "octopus-network",
+                "repo": "runes-indexer",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ordinals Canister",
+              "description": "A canister that enables the retrieval of BTC ordinals and their corresponding inscriptions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 731331917,
+                "language": "Rust",
+                "last_commit": "2024-02-07T15:38:34Z",
+                "owner": "sardariuss",
+                "repo": "ordinals_canister",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bitcoin Metaprotocols Canister",
+              "description": "An onchain Bitcoin metaprotocol indexer on the Internet Computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 988635494,
+                "language": "Rust",
+                "last_commit": "2026-04-30T15:55:27Z",
+                "owner": "maestro-org",
+                "repo": "maestro-bitcoin-metaprotocols-canister",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Internet Computer Bitcoin Library",
+              "description": "Utility libraries for Motoko/Rust to simplify building on the Bitcoin Integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 550737084,
+                "language": "Rust",
+                "last_commit": "2022-10-17T14:03:12Z",
+                "owner": "Benjamin-Loison",
+                "repo": "Internet-Computer-Bitcoin-Library",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multi-Subnet Bitcoin Wallet",
+              "description": "Proof-of-Concept of multi-subnet Bitcoin custody for increased secruty.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 717098058,
+                "language": "TypeScript",
+                "last_commit": "2023-12-04T15:21:01Z",
+                "owner": "sardariuss",
+                "repo": "ic_btc_multisig",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ordinals-indexer",
+              "description": "An onchain ordinals indexer for querying stats and inscriptions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 998407129,
+                "language": "Rust",
+                "last_commit": "2026-01-10T10:32:10Z",
+                "owner": "octopus-network",
+                "repo": "ordinals-indexer",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Loka",
+              "description": "Trustless Non-Custodial Bitcoin Mining Platform built on ICP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 719538283,
+                "language": "Motoko",
+                "last_commit": "2023-12-05T12:59:54Z",
+                "owner": "lokaverse",
+                "repo": "loka_canister",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bitcoin"
         },
         {
-          "node_type": "item",
-          "title": "artemis",
-          "description": "Wallet adapter for connecting different wallets on the Internet Computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-03-26T05:09:51Z",
-            "owner": "sonicdex",
-            "repo": "artemis",
-            "stars": 19
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ckETH",
+              "description": "Canister-controlled ETH twin on ICP with 1:1 backing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365701873,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:27:40Z",
+                "owner": "dfinity",
+                "repo": "ic",
+                "stars": 1783
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Oisy",
+              "description": "A novel Ethereum wallet that is hosted on the Internet Computer, is browser-based, fully on-chain, and secured by Chain-key cryptography and Internet Identity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675647111,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:32:40Z",
+                "owner": "dfinity",
+                "repo": "oisy-wallet",
+                "stars": 177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EVM RPC Canister",
+              "description": "Interact with EVM blockchains from the Internet Computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 623380778,
+                "language": "Rust",
+                "last_commit": "2026-08-17T09:23:26Z",
+                "owner": "dfinity",
+                "repo": "evm-rpc-canister",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-eth-starter",
+              "description": "An advanced starter project for interacting with Ethereum on the Internet Computer (Beta).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 672304861,
+                "language": "TypeScript",
+                "last_commit": "2026-04-09T15:03:58Z",
+                "owner": "dfinity",
+                "repo": "icp-eth-starter",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ethereum Canister",
+              "description": "Ethereum Light Client (Helios) running inside a canister.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 669077948,
+                "language": "Rust",
+                "last_commit": "2024-08-12T07:03:36Z",
+                "owner": "equilibriumco",
+                "repo": "ethereum-canister",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Omnic",
+              "description": "Cross-chain messaging protocol to connect EVM-compatible chains via the Internet Computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 520454747,
+                "language": "Rust",
+                "last_commit": "2023-05-26T09:01:39Z",
+                "owner": "rklb7",
+                "repo": "omnic",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ERC20-ICP",
+              "description": "Contracts and canisters enabling ICP tokens as ERC20 on Ethereum.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 696201809,
+                "language": "Rust",
+                "last_commit": "2025-11-22T08:12:43Z",
+                "owner": "dfinity",
+                "repo": "erc20-icp",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EVM Utility Canister",
+              "description": "Utility canister to create and parse EVM-compliant transactions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591311153,
+                "language": "Rust",
+                "last_commit": "2023-05-12T13:01:43Z",
+                "owner": "icopen",
+                "repo": "evm_utils_ic",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-web3-rs",
+              "description": "Utility library to interact with EVM networks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 640825794,
+                "language": "Rust",
+                "last_commit": "2025-01-04T16:30:45Z",
+                "owner": "horizonx-tech",
+                "repo": "ic-web3-rs",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-alloy-toolkit",
+              "description": "Example code for using Alloy with the Internet Computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 856257227,
+                "language": "TypeScript",
+                "last_commit": "2025-10-13T17:02:44Z",
+                "owner": "ic-alloy",
+                "repo": "ic-alloy-toolkit",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CCAMP",
+              "description": "General-purpose, modular, and custom data-driven Cross-chain Asset Management Protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654654062,
+                "language": "Rust",
+                "last_commit": "2026-03-31T04:06:44Z",
+                "owner": "usherlabs",
+                "repo": "verity-dp",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-alloy-basic-eth",
+              "description": "A multiuser Ethereum wallet starter/template using the Alloy EVM support libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 872474382,
+                "language": "JavaScript",
+                "last_commit": "2025-10-13T17:01:43Z",
+                "owner": "ic-alloy",
+                "repo": "ic-alloy-basic-wallet",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Evm Rust Bridge",
+              "description": "A seamless Rust-based starter template for integrating ICP canisters with EVM-based smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 819748242,
+                "language": "JavaScript",
+                "last_commit": "2025-01-21T12:36:21Z",
+                "owner": "Stephen-Kimoi",
+                "repo": "icp-evm-rust-bridge",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BOLD Autonomous Interest Rate Manager for Liquity v2 Troves",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 810681125,
+                "language": "Rust",
+                "last_commit": "2025-05-30T07:38:50Z",
+                "owner": "liquity",
+                "repo": "bold-ir-management",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ckNFT",
+              "description": "A PoC to bridge ICRC-7 NFTs to ERC-1155 NFTs on EVMs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 719020753,
+                "language": "JavaScript",
+                "last_commit": "2024-08-28T12:04:48Z",
+                "owner": "b3hr4d",
+                "repo": "cknft",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Orally",
+              "description": "Cross-chain oracle factory built on HTTPS Outcalls and Chain-key ECDSA.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577367242,
+                "language": "TypeScript",
+                "last_commit": "2025-01-14T13:51:49Z",
+                "owner": "orally-network",
+                "repo": "oracle",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-test",
+              "description": "Command-line tool that makes it easier to create a test project and includes the basic files and setup needed for both IC canisters and optionally EVM (Ethereum Virtual Machine) smart contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 949935421,
+                "language": "Rust",
+                "last_commit": "2025-11-28T13:49:27Z",
+                "owner": "wasm-forge",
+                "repo": "ic-test",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ic-solidity-bindgen",
+              "description": "Generate Rust bindings for Solidity contracts from ABIs to use with the Internet Computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 640815341,
+                "language": "Rust",
+                "last_commit": "2025-04-27T14:01:10Z",
+                "owner": "horizonx-tech",
+                "repo": "ic-solidity-bindgen",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ethereum-lightclient-canister",
+              "description": "An Ethereum light client canister that is compatible with newer versions of the Ethereum RPC protocol and adapted from the Helios project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 932144694,
+                "language": "Rust",
+                "last_commit": "2025-03-31T10:13:20Z",
+                "owner": "octopus-network",
+                "repo": "ethereum-lightclient-canister",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gitcoin Passport Client",
+              "description": "a sample app for securely retrieving Gitcoin Passport scores and store them into a DB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 743278610,
+                "language": "Motoko",
+                "last_commit": "2026-01-24T10:58:34Z",
+                "owner": "vporton",
+                "repo": "passport-client-dfinity",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ethereum"
         },
         {
-          "node_type": "item",
-          "title": "ic-siws",
-          "description": "Authentication library to enable SIWS (Sign in with Solana) functionality for ICP applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-10-13T16:58:14Z",
-            "owner": "kristoferlund",
-            "repo": "ic-siws",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Plug-n-Play",
-          "description": "A lightweight, framework-agnostic, wallet adapter that implements ICRC auth standards.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-01T19:40:15Z",
-            "owner": "microdao-corporation",
-            "repo": "plug-n-play",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-sis",
-          "description": "Authentication library to enable SIS (Sign in with SUI) functionality for ICP applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-06-20T00:02:22Z",
-            "owner": "Talentum-id",
-            "repo": "ic_sis",
-            "stars": 2
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Solana RPC Canister",
+              "description": "Interact with Solana blockchain from the Internet Computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 721610873,
+                "language": "Rust",
+                "last_commit": "2026-04-10T12:06:56Z",
+                "owner": "pointgroup-labs",
+                "repo": "ic-solana",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Galactic Bridge",
+              "description": "Canister-controlled SOL bridge using Chain Fusion tech.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 758064690,
+                "language": "Rust",
+                "last_commit": "2024-06-28T11:13:54Z",
+                "owner": "weichain",
+                "repo": "galactic-bridge-icp",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Solana"
         }
       ],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Chain Fusion"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "B3Wallet",
-          "description": "A decentralized wallet supporting multiple blockchains, including Ethereum, Bitcoin, and ICP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-03-30T14:24:01Z",
-            "owner": "B3Pay",
-            "repo": "B3Wallet",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chain Fusion Starter",
-          "description": "starter template leveraging chain fusion technology to build EVM coprocessors on the Internet Computer Protocol",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2025-06-11T07:44:11Z",
-            "owner": "letmejustputthishere",
-            "repo": "icp-evm-coprocessor-starter",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chain Fusion Signer",
-          "description": "A canister that does nothing but sign transactions for use on other blockchains.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-13T00:04:15Z",
-            "owner": "dfinity",
-            "repo": "chain-fusion-signer",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alloy Toolkit",
-          "description": "Examples of interacting with Ethereum from a Rust canister using the Alloy EVM support libraries",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-10-13T17:02:44Z",
-            "owner": "ic-alloy",
-            "repo": "ic-alloy-toolkit",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SIWE starter",
-          "description": "Login in to ICP using Metamask and other Ethereum wallets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-10-13T17:10:26Z",
-            "owner": "kristoferlund",
-            "repo": "ic-siwe-react-demo-rust",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-pub-key",
-          "description": "A TypeScript library for client-side key derivation on ICP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-21T09:19:00Z",
-            "owner": "dfinity",
-            "repo": "ic-pub-key",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "General"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ckBTC",
-          "description": "Canister-controlled BTC twin on ICP with 1:1 backing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T20:21:05Z",
-            "owner": "dfinity",
-            "repo": "ic",
-            "stars": 1784
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inscription Canister",
-          "description": "A canister to create Ordinal inscriptions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-08-19T08:26:31Z",
-            "owner": "domwoe",
-            "repo": "inscription_canister",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "runes-indexer",
-          "description": "An onchain runes indexer on the Internet Computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-07-11T07:00:03Z",
-            "owner": "octopus-network",
-            "repo": "runes-indexer",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ordinals Canister",
-          "description": "A canister that enables the retrieval of BTC ordinals and their corresponding inscriptions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-02-07T15:38:34Z",
-            "owner": "sardariuss",
-            "repo": "ordinals_canister",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bitcoin Metaprotocols Canister",
-          "description": "An onchain Bitcoin metaprotocol indexer on the Internet Computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-30T15:55:27Z",
-            "owner": "maestro-org",
-            "repo": "maestro-bitcoin-metaprotocols-canister",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Internet Computer Bitcoin Library",
-          "description": "Utility libraries for Motoko/Rust to simplify building on the Bitcoin Integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-10-17T14:03:12Z",
-            "owner": "Benjamin-Loison",
-            "repo": "Internet-Computer-Bitcoin-Library",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Multi-Subnet Bitcoin Wallet",
-          "description": "Proof-of-Concept of multi-subnet Bitcoin custody for increased secruty.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-12-04T15:21:01Z",
-            "owner": "sardariuss",
-            "repo": "ic_btc_multisig",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ordinals-indexer",
-          "description": "An onchain ordinals indexer for querying stats and inscriptions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-01-10T10:32:10Z",
-            "owner": "octopus-network",
-            "repo": "ordinals-indexer",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Loka",
-          "description": "Trustless Non-Custodial Bitcoin Mining Platform built on ICP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2023-12-05T12:59:54Z",
-            "owner": "lokaverse",
-            "repo": "loka_canister",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Bitcoin"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ckETH",
-          "description": "Canister-controlled ETH twin on ICP with 1:1 backing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T20:21:05Z",
-            "owner": "dfinity",
-            "repo": "ic",
-            "stars": 1784
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Oisy",
-          "description": "A novel Ethereum wallet that is hosted on the Internet Computer, is browser-based, fully on-chain, and secured by Chain-key cryptography and Internet Identity.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T20:41:12Z",
-            "owner": "dfinity",
-            "repo": "oisy-wallet",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EVM RPC Canister",
-          "description": "Interact with EVM blockchains from the Internet Computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T09:23:26Z",
-            "owner": "dfinity",
-            "repo": "evm-rpc-canister",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-eth-starter",
-          "description": "An advanced starter project for interacting with Ethereum on the Internet Computer (Beta).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-09T15:03:58Z",
-            "owner": "dfinity",
-            "repo": "icp-eth-starter",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ethereum Canister",
-          "description": "Ethereum Light Client (Helios) running inside a canister.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-08-12T07:03:36Z",
-            "owner": "equilibriumco",
-            "repo": "ethereum-canister",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Omnic",
-          "description": "Cross-chain messaging protocol to connect EVM-compatible chains via the Internet Computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-05-26T09:01:39Z",
-            "owner": "rklb7",
-            "repo": "omnic",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ERC20-ICP",
-          "description": "Contracts and canisters enabling ICP tokens as ERC20 on Ethereum.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-11-22T08:12:43Z",
-            "owner": "dfinity",
-            "repo": "erc20-icp",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EVM Utility Canister",
-          "description": "Utility canister to create and parse EVM-compliant transactions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-05-12T13:01:43Z",
-            "owner": "icopen",
-            "repo": "evm_utils_ic",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-web3-rs",
-          "description": "Utility library to interact with EVM networks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-01-04T16:30:45Z",
-            "owner": "horizonx-tech",
-            "repo": "ic-web3-rs",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-alloy-toolkit",
-          "description": "Example code for using Alloy with the Internet Computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-10-13T17:02:44Z",
-            "owner": "ic-alloy",
-            "repo": "ic-alloy-toolkit",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CCAMP",
-          "description": "General-purpose, modular, and custom data-driven Cross-chain Asset Management Protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-31T04:06:44Z",
-            "owner": "usherlabs",
-            "repo": "verity-dp",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-alloy-basic-eth",
-          "description": "A multiuser Ethereum wallet starter/template using the Alloy EVM support libraries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-13T17:01:43Z",
-            "owner": "ic-alloy",
-            "repo": "ic-alloy-basic-wallet",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Evm Rust Bridge",
-          "description": "A seamless Rust-based starter template for integrating ICP canisters with EVM-based smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-01-21T12:36:21Z",
-            "owner": "Stephen-Kimoi",
-            "repo": "icp-evm-rust-bridge",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BOLD Autonomous Interest Rate Manager for Liquity v2 Troves",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-05-30T07:38:50Z",
-            "owner": "liquity",
-            "repo": "bold-ir-management",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ckNFT",
-          "description": "A PoC to bridge ICRC-7 NFTs to ERC-1155 NFTs on EVMs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-08-28T12:04:48Z",
-            "owner": "b3hr4d",
-            "repo": "cknft",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Orally",
-          "description": "Cross-chain oracle factory built on HTTPS Outcalls and Chain-key ECDSA.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-01-14T13:51:49Z",
-            "owner": "orally-network",
-            "repo": "oracle",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-test",
-          "description": "Command-line tool that makes it easier to create a test project and includes the basic files and setup needed for both IC canisters and optionally EVM (Ethereum Virtual Machine) smart contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-11-28T13:49:27Z",
-            "owner": "wasm-forge",
-            "repo": "ic-test",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ic-solidity-bindgen",
-          "description": "Generate Rust bindings for Solidity contracts from ABIs to use with the Internet Computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-27T14:01:10Z",
-            "owner": "horizonx-tech",
-            "repo": "ic-solidity-bindgen",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ethereum-lightclient-canister",
-          "description": "An Ethereum light client canister that is compatible with newer versions of the Ethereum RPC protocol and adapted from the Helios project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-03-31T10:13:20Z",
-            "owner": "octopus-network",
-            "repo": "ethereum-lightclient-canister",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gitcoin Passport Client",
-          "description": "a sample app for securely retrieving Gitcoin Passport scores and store them into a DB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Motoko",
-            "last_commit": "2026-01-24T10:58:34Z",
-            "owner": "vporton",
-            "repo": "passport-client-dfinity",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Ethereum"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Solana RPC Canister",
-          "description": "Interact with Solana blockchain from the Internet Computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-10T12:06:56Z",
-            "owner": "pointgroup-labs",
-            "repo": "ic-solana",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Galactic Bridge",
-          "description": "Canister-controlled SOL bridge using Chain Fusion tech.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-06-28T11:13:54Z",
-            "owner": "weichain",
-            "repo": "galactic-bridge-icp",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Solana"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2708,6 +2896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 911466387,
             "language": "Rust",
             "last_commit": "2026-08-07T09:16:59Z",
             "owner": "ldclabs",
@@ -2722,6 +2911,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 770576576,
             "language": "C++",
             "last_commit": "2026-08-07T17:01:03Z",
             "owner": "onicai",
@@ -2736,6 +2926,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666577592,
             "language": "JavaScript",
             "last_commit": "2025-02-08T12:27:45Z",
             "owner": "patnorris",
@@ -2750,6 +2941,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 761865427,
             "language": null,
             "last_commit": "2025-12-04T20:10:57Z",
             "owner": "DeAIWorkingGroupInternetComputer",
@@ -2764,6 +2956,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 672105955,
             "language": "Rust",
             "last_commit": "2025-09-03T22:59:27Z",
             "owner": "arcmindai",
@@ -2778,6 +2971,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 690481887,
             "language": "JavaScript",
             "last_commit": "2026-08-07T22:01:52Z",
             "owner": "icppWorld",
@@ -2792,6 +2986,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 776112095,
             "language": "Rust",
             "last_commit": "2026-04-14T02:14:58Z",
             "owner": "ICME-Lab",
@@ -2806,6 +3001,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 705622247,
             "language": "Motoko",
             "last_commit": "2023-12-14T14:44:49Z",
             "owner": "ildefons",
@@ -2820,6 +3016,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 717296488,
             "language": "Rust",
             "last_commit": "2024-05-05T06:30:14Z",
             "owner": "arcmindai",
@@ -2834,6 +3031,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 746120786,
             "language": "Rust",
             "last_commit": "2024-11-08T20:13:59Z",
             "owner": "decide-ai",
@@ -2848,6 +3046,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 765113834,
             "language": "TypeScript",
             "last_commit": "2025-03-15T00:33:12Z",
             "owner": "supaIC",
@@ -2862,6 +3061,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 752036912,
             "language": "TypeScript",
             "last_commit": "2024-02-04T13:56:07Z",
             "owner": "SoyCarlosIA",
@@ -2876,6 +3076,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 645334750,
             "language": "Rust",
             "last_commit": "2023-05-25T15:40:11Z",
             "owner": "smallstepman",
@@ -2890,6 +3091,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 817452036,
             "language": "Rust",
             "last_commit": "2024-07-11T22:10:02Z",
             "owner": "gip",
@@ -2904,6 +3106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1026233904,
             "language": "TypeScript",
             "last_commit": "2025-07-25T15:01:08Z",
             "owner": "justmert",
@@ -2918,6 +3121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 836859988,
             "language": "Rust",
             "last_commit": "2025-06-12T14:19:20Z",
             "owner": "acgodson",
@@ -2932,6 +3136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 744403687,
             "language": "JavaScript",
             "last_commit": "2025-01-14T08:24:02Z",
             "owner": "ReCheck-io",
@@ -2946,24 +3151,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 796927021,
             "language": "Assembly",
             "last_commit": "2025-01-10T19:13:17Z",
             "owner": "ktimam",
             "repo": "SoccerTrainer",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Tract-IC-AI",
-          "description": "An ICP version of Tract, a tiny, no-nonsense, self-contained, Tensorflow and ONNX inference toolkit.",
-          "children": []
         }
       ],
       "title": "Decentralized AI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2972,6 +3172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 969859598,
             "language": "Rust",
             "last_commit": "2025-10-31T15:57:04Z",
             "owner": "ByteSmithLabs",
@@ -2986,6 +3187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1017460394,
             "language": "TypeScript",
             "last_commit": "2026-07-14T23:12:01Z",
             "owner": "prometheus-protocol",
@@ -3000,6 +3202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1020410615,
             "language": "Motoko",
             "last_commit": "2025-09-18T22:00:55Z",
             "owner": "prometheus-protocol",
@@ -3011,7 +3214,7 @@
       "title": "MCP - Model Context Protocol"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3020,6 +3223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 785554276,
             "language": "Rust",
             "last_commit": "2024-04-19T23:45:47Z",
             "owner": "flyq",
@@ -3034,6 +3238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 783999922,
             "language": "Rust",
             "last_commit": "2024-04-09T06:34:37Z",
             "owner": "zCloak-Network",
@@ -3048,6 +3253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 838123772,
             "language": "Rust",
             "last_commit": "2025-03-20T14:04:59Z",
             "owner": "lightec-xyz",
@@ -3062,6 +3268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 712711878,
             "language": "JavaScript",
             "last_commit": "2024-03-03T11:24:59Z",
             "owner": "primus-labs",
@@ -3074,8 +3281,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:43:21.289Z",
+    "last_updated": "2026-08-19T12:36:32.078Z",
     "original_repository": "dfinity/awesome-internet-computer",
+    "original_repository_id": 275056494,
     "original_repository_sha": "0d5e5b2e280711813fe197d54362251ce9332b20",
     "enhanced_repository": "enhansome/enhansome-internet-computer",
     "enhanced_repository_description": null,
