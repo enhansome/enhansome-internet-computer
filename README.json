@@ -28,6 +28,21 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "DFINITY Examples Repo",
+              "description": "Code samples from DFINITY.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237499139,
+                "language": "Rust",
+                "last_commit": "2026-08-12T11:49:45Z",
+                "owner": "dfinity",
+                "repo": "examples",
+                "stars": 612
+              }
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -354,7 +369,7 @@
                 "archived": false,
                 "id": 290373310,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T09:12:41Z",
+                "last_commit": "2026-08-24T13:24:38Z",
                 "owner": "dfinity",
                 "repo": "icp-js-core",
                 "stars": 171
@@ -369,7 +384,7 @@
                 "archived": false,
                 "id": 432102254,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T13:05:53Z",
+                "last_commit": "2026-08-24T03:45:48Z",
                 "owner": "dfinity",
                 "repo": "icp-js-canisters",
                 "stars": 81
@@ -511,6 +526,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "icp-py-core",
+              "description": "Library for interfacing with the IC using Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1058532541,
+                "language": "Python",
+                "last_commit": "2026-06-02T15:10:53Z",
+                "owner": "eliezhao",
+                "repo": "icp-py-core",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "agent_dart",
+              "description": "Framework to build mobile applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372405055,
+                "language": "Dart",
+                "last_commit": "2025-09-02T14:25:14Z",
+                "owner": "AstroxNetwork",
+                "repo": "agent_dart",
+                "stars": 111
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dart/Flutter"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "agent-go",
               "description": "Libraries for interfacing with the IC using Go.",
               "children": [],
@@ -585,6 +644,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "icp-client-cpp",
+              "description": "C/C++ wrapper for agent-rs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 610371997,
+                "language": "C++",
+                "last_commit": "2025-03-18T15:46:11Z",
+                "owner": "Zondax",
+                "repo": "icp-client-cpp",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ic4j-agent",
               "description": "Libraries for interfacing with the IC using Java (Android compatible).",
               "children": [],
@@ -632,6 +713,72 @@
           "description": null,
           "node_type": "group",
           "title": "Java/Kotlin"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "⚠️ UNMAINTAINED ⚠️ ic_agent",
+              "description": "Basic modules to interact with the IC using Ruby.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626259666,
+                "language": "Ruby",
+                "last_commit": "2023-09-07T01:42:45Z",
+                "owner": "tuminfei",
+                "repo": "ic_agent",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "icp_agent",
+              "description": "Agent for making ICP queries and calls from elixir.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 917260789,
+                "language": "Elixir",
+                "last_commit": "2026-08-24T10:01:54Z",
+                "owner": "diodechain",
+                "repo": "icp_agent",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Elixir"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IcpKit",
+              "description": "Native Swift library for interacting with IC on iOS/MacOS. Provides implementation for Ledger canister.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 721561569,
+                "language": "Swift",
+                "last_commit": "2026-08-24T11:02:04Z",
+                "owner": "kgaitanis",
+                "repo": "IcpKit",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift"
         }
       ],
       "title": "Client Libraries (Agents)"
@@ -639,6 +786,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "CDK Framework",
+          "description": "Framework to build CDKs which has been used for Azle and Kybra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 560558376,
+            "language": "Rust",
+            "last_commit": "2024-04-10T17:59:08Z",
+            "owner": "demergent-labs",
+            "repo": "cdk_framework",
+            "stars": 11
+          }
+        },
         {
           "children": [
             {
@@ -680,6 +842,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Azle",
+              "description": "TypeScript CDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 460125865,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T10:40:50Z",
+                "owner": "demergent-labs",
+                "repo": "azle",
+                "stars": 230
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript/TypeScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kybra",
+              "description": "Python CDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 434075293,
+                "language": "Rust",
+                "last_commit": "2025-05-31T00:33:35Z",
+                "owner": "demergent-labs",
+                "repo": "kybra",
+                "stars": 93
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Chico",
               "description": "C/C++ CDK.",
               "children": [],
@@ -712,6 +918,50 @@
           "description": null,
           "node_type": "group",
           "title": "C/C++"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cdk-as",
+              "description": "AssemblyScript CDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 317051203,
+                "language": "WebAssembly",
+                "last_commit": "2021-01-21T18:27:07Z",
+                "owner": "rckprtr",
+                "repo": "cdk-as",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AssemblyScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "moonbit-ic-cdk",
+              "description": "A lightweight, WebAssembly-native Canister Development Kit (CDK) for building smart contracts on the Internet Computer (ICP) with the MoonBit language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 939255390,
+                "language": "MoonBit",
+                "last_commit": "2025-12-09T13:59:44Z",
+                "owner": "eliezhao",
+                "repo": "moonbit-ic-cdk",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Moonbit"
         }
       ],
       "title": "Canister Development Kits (CDKs)"
@@ -728,7 +978,7 @@
             "archived": false,
             "id": 492939280,
             "language": "Nix",
-            "last_commit": "2026-08-17T04:40:13Z",
+            "last_commit": "2026-08-24T04:42:19Z",
             "owner": "ninegua",
             "repo": "ic-nix",
             "stars": 41
@@ -835,7 +1085,7 @@
                 "archived": false,
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-23T03:33:02Z",
+                "last_commit": "2026-08-24T14:13:46Z",
                 "owner": "dfinity",
                 "repo": "ic",
                 "stars": 1785
@@ -955,6 +1205,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "canbench",
+              "description": "A benchmarking framework for canisters, allowing you to analyze your code's use of instructions and memory.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 746651802,
+                "language": "Rust",
+                "last_commit": "2026-08-06T12:20:22Z",
+                "owner": "dfinity",
+                "repo": "canbench",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Benchmarking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Launchtrail",
+              "description": "Simple and Secure Release Management for Internet Computer Projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 483351828,
+                "language": "Rust",
+                "last_commit": "2022-06-20T17:24:10Z",
+                "owner": "spinner-cash",
+                "repo": "launchtrail",
+                "stars": 45
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CI/CD"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ic-blackhole",
               "description": "Canister to publicly expose canister status information.",
               "children": [],
@@ -1002,6 +1296,28 @@
           "description": null,
           "node_type": "group",
           "title": "Monitoring"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Canic",
+              "description": "A Rust toolkit for orchestrating Internet Computer (IC) canisters at scale.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 979974002,
+                "language": "Rust",
+                "last_commit": "2026-08-24T13:57:09Z",
+                "owner": "dragginzgame",
+                "repo": "canic",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Orchestrating"
         }
       ],
       "title": "Developer Tooling"
@@ -1018,7 +1334,7 @@
             "archived": false,
             "id": 133029963,
             "language": "OCaml",
-            "last_commit": "2026-08-23T01:27:34Z",
+            "last_commit": "2026-08-24T13:57:30Z",
             "owner": "caffeinelabs",
             "repo": "motoko",
             "stars": 589
@@ -1063,7 +1379,7 @@
             "archived": false,
             "id": 523524925,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T10:15:46Z",
+            "last_commit": "2026-08-24T06:23:58Z",
             "owner": "caffeinelabs",
             "repo": "prettier-plugin-motoko",
             "stars": 28
@@ -1083,6 +1399,28 @@
             "repo": "motoko-dev-server",
             "stars": 24
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vessel",
+              "description": "Package manager for the Motoko programming language.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 248089583,
+                "language": "Rust",
+                "last_commit": "2026-04-26T12:06:45Z",
+                "owner": "caffeinelabs",
+                "repo": "vessel",
+                "stars": 109
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Package Managers"
         },
         {
           "children": [
@@ -1253,6 +1591,182 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "cdk-as candid",
+                  "description": "AssemblyScript library of Candid.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 317051203,
+                    "language": "WebAssembly",
+                    "last_commit": "2021-01-21T18:27:07Z",
+                    "owner": "rckprtr",
+                    "repo": "cdk-as",
+                    "stars": 19
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "AssemblyScript"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ICP.NET candid",
+                  "description": "C# library of Candid.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 476344137,
+                    "language": "C#",
+                    "last_commit": "2025-04-21T16:51:51Z",
+                    "owner": "edjCase",
+                    "repo": "ICP.NET",
+                    "stars": 55
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "icpp-candid",
+                  "description": "C++ Candid Library.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 663754908,
+                    "language": "C++",
+                    "last_commit": "2026-08-05T19:40:36Z",
+                    "owner": "icppWorld",
+                    "repo": "icpp-candid",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C++"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "candid_dart",
+                  "description": "Dart library of Candid.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 485694246,
+                    "language": "Dart",
+                    "last_commit": "2025-07-15T09:38:10Z",
+                    "owner": "AstroxNetwork",
+                    "repo": "candid_dart",
+                    "stars": 17
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Dart"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ic-elm",
+                  "description": "A template for using Elm to develop frontend user interface for the Internet Computer.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 281456761,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-07T20:20:02Z",
+                    "owner": "chenyan2002",
+                    "repo": "ic-elm",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Elm"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "candid",
+                  "description": "Elixir library for encoding/decoding Candid.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 873788472,
+                    "language": "Elixir",
+                    "last_commit": "2026-01-07T12:58:00Z",
+                    "owner": "diodechain",
+                    "repo": "candid",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Elixir"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "haskell-candid",
+                  "description": "Haskell library for Candid to Haskell.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 258153258,
+                    "language": "Haskell",
+                    "last_commit": "2025-04-13T15:01:56Z",
+                    "owner": "nomeata",
+                    "repo": "haskell-candid",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Haskell"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ic4j-candid",
+                  "description": "Java library for Candid.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 448140724,
+                    "language": "Java",
+                    "last_commit": "2026-06-13T11:13:37Z",
+                    "owner": "ic4j",
+                    "repo": "ic4j-candid",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Java"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "@dfinity/candid",
                   "description": "JavaScript and TypeScript library for Candid.",
                   "children": [],
@@ -1260,7 +1774,7 @@
                     "archived": false,
                     "id": 290373310,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-17T09:12:41Z",
+                    "last_commit": "2026-08-24T13:24:38Z",
                     "owner": "dfinity",
                     "repo": "icp-js-core",
                     "stars": 171
@@ -1285,6 +1799,50 @@
               "description": null,
               "node_type": "group",
               "title": "JavaScript/TypeScript"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "candid-kt",
+                  "description": "Kotlin library for Candid.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 266164614,
+                    "language": "Kotlin",
+                    "last_commit": "2022-01-09T00:56:49Z",
+                    "owner": "seniorjoinu",
+                    "repo": "candid-kt",
+                    "stars": 17
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Kotlin"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "motoko_candid",
+                  "description": "Library that enables encoding/decoding of bytes to candid values.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 524309518,
+                    "language": "Motoko",
+                    "last_commit": "2025-12-09T00:13:03Z",
+                    "owner": "edjCase",
+                    "repo": "motoko_candid",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Motoko"
             }
           ],
           "description": null,
@@ -1396,7 +1954,7 @@
             "archived": false,
             "id": 1104724435,
             "language": "Rust",
-            "last_commit": "2026-08-23T13:30:22Z",
+            "last_commit": "2026-08-24T12:11:32Z",
             "owner": "dragginzgame",
             "repo": "icydb",
             "stars": 17
@@ -1456,7 +2014,7 @@
             "archived": false,
             "id": 831362869,
             "language": "Rust",
-            "last_commit": "2026-08-06T11:19:19Z",
+            "last_commit": "2026-08-24T11:14:53Z",
             "owner": "ldclabs",
             "repo": "ic-cose",
             "stars": 9
@@ -1701,7 +2259,7 @@
                 "archived": false,
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-23T03:33:02Z",
+                "last_commit": "2026-08-24T14:13:46Z",
                 "owner": "dfinity",
                 "repo": "ic",
                 "stars": 1785
@@ -1816,6 +2374,50 @@
           "description": null,
           "node_type": "group",
           "title": "Implementations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ledger-faucet",
+              "description": "Minter implementation of the official faucet for testing purposes on ICP mainnet. It enables devs and users to claim tokens on the TESTICP and TESTICRC1 ledgers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1021715892,
+                "language": "JavaScript",
+                "last_commit": "2026-08-20T13:14:30Z",
+                "owner": "dfinity",
+                "repo": "ledger-faucet",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Faucets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OutRank-Rarity",
+              "description": "Implementation of mathematical code to calculate rarity within NFT collections in Python and Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 695165971,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-11-01T08:10:14Z",
+                "owner": "OutRankNFT",
+                "repo": "OutRank-Rarity",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Analytical Methodologies"
         }
       ],
       "title": "Fungible and Non-fungible Tokens (NFTs)"
@@ -1832,7 +2434,7 @@
             "archived": false,
             "id": 322613245,
             "language": "Rust",
-            "last_commit": "2026-08-22T21:25:09Z",
+            "last_commit": "2026-08-24T13:55:14Z",
             "owner": "open-chat-labs",
             "repo": "open-chat",
             "stars": 205
@@ -1992,6 +2594,28 @@
           "description": null,
           "node_type": "group",
           "title": "Frameworks and Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Exchange Rate Canister",
+              "description": "Oracle service for cryptocurrency and fiat currency exchange rates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 525525941,
+                "language": "Rust",
+                "last_commit": "2026-07-29T13:18:03Z",
+                "owner": "dfinity",
+                "repo": "exchange-rate-canister",
+                "stars": 40
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Oracles"
         }
       ],
       "title": "Decentralized Finance (DeFi)"
@@ -2176,7 +2800,7 @@
             "archived": false,
             "id": 356347737,
             "language": "Rust",
-            "last_commit": "2026-08-23T18:59:44Z",
+            "last_commit": "2026-08-24T14:08:17Z",
             "owner": "dfinity",
             "repo": "internet-identity",
             "stars": 532
@@ -2408,7 +3032,7 @@
                 "archived": false,
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-23T03:33:02Z",
+                "last_commit": "2026-08-24T14:13:46Z",
                 "owner": "dfinity",
                 "repo": "ic",
                 "stars": 1785
@@ -2550,7 +3174,7 @@
                 "archived": false,
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-23T03:33:02Z",
+                "last_commit": "2026-08-24T14:13:46Z",
                 "owner": "dfinity",
                 "repo": "ic",
                 "stars": 1785
@@ -2565,7 +3189,7 @@
                 "archived": false,
                 "id": 675647111,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:43:27Z",
+                "last_commit": "2026-08-24T13:50:19Z",
                 "owner": "dfinity",
                 "repo": "oisy-wallet",
                 "stars": 177
@@ -2882,6 +3506,50 @@
           "description": null,
           "node_type": "group",
           "title": "Solana"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ic-cosmos",
+              "description": "Interact with Cosmos from the Internet Computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 899109481,
+                "language": "Rust",
+                "last_commit": "2025-08-25T14:07:47Z",
+                "owner": "poroburu",
+                "repo": "ic-cosmos",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cosmos"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TON transaction in the Telegram mini app",
+              "description": "A Telegram mini app for TON transaction, Threshold Schnorr signatures verification, and RPC submission.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 912617715,
+                "language": "TypeScript",
+                "last_commit": "2025-09-11T07:41:16Z",
+                "owner": "4iDPS",
+                "repo": "peymate_ii",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TON"
         }
       ],
       "title": "Chain Fusion"
@@ -3281,7 +3949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:43:26.728Z",
+    "last_updated": "2026-08-24T14:14:53.820Z",
     "original_repository": "dfinity/awesome-internet-computer",
     "original_repository_id": 275056494,
     "original_repository_sha": "0d5e5b2e280711813fe197d54362251ce9332b20",
