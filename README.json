@@ -36,10 +36,10 @@
                 "archived": false,
                 "id": 237499139,
                 "language": "Rust",
-                "last_commit": "2026-08-12T11:49:45Z",
+                "last_commit": "2026-08-24T16:18:55Z",
                 "owner": "dfinity",
                 "repo": "examples",
-                "stars": 612
+                "stars": 613
               }
             },
             {
@@ -256,7 +256,7 @@
             "archived": false,
             "id": 745445283,
             "language": "Dockerfile",
-            "last_commit": "2026-08-12T15:13:16Z",
+            "last_commit": "2026-08-24T15:27:44Z",
             "owner": "dfinity",
             "repo": "icp-dev-env",
             "stars": 13
@@ -1085,7 +1085,7 @@
                 "archived": false,
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-24T14:13:46Z",
+                "last_commit": "2026-08-24T20:51:02Z",
                 "owner": "dfinity",
                 "repo": "ic",
                 "stars": 1785
@@ -1308,7 +1308,7 @@
                 "archived": false,
                 "id": 979974002,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:57:09Z",
+                "last_commit": "2026-08-24T20:17:37Z",
                 "owner": "dragginzgame",
                 "repo": "canic",
                 "stars": 10
@@ -1334,7 +1334,7 @@
             "archived": false,
             "id": 133029963,
             "language": "OCaml",
-            "last_commit": "2026-08-24T13:57:30Z",
+            "last_commit": "2026-08-24T18:19:39Z",
             "owner": "caffeinelabs",
             "repo": "motoko",
             "stars": 589
@@ -1954,7 +1954,7 @@
             "archived": false,
             "id": 1104724435,
             "language": "Rust",
-            "last_commit": "2026-08-24T12:11:32Z",
+            "last_commit": "2026-08-24T17:15:43Z",
             "owner": "dragginzgame",
             "repo": "icydb",
             "stars": 17
@@ -2259,7 +2259,7 @@
                 "archived": false,
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-24T14:13:46Z",
+                "last_commit": "2026-08-24T20:51:02Z",
                 "owner": "dfinity",
                 "repo": "ic",
                 "stars": 1785
@@ -2434,7 +2434,7 @@
             "archived": false,
             "id": 322613245,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:55:14Z",
+            "last_commit": "2026-08-24T16:47:04Z",
             "owner": "open-chat-labs",
             "repo": "open-chat",
             "stars": 205
@@ -2800,7 +2800,7 @@
             "archived": false,
             "id": 356347737,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:08:17Z",
+            "last_commit": "2026-08-24T14:18:01Z",
             "owner": "dfinity",
             "repo": "internet-identity",
             "stars": 532
@@ -3032,7 +3032,7 @@
                 "archived": false,
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-24T14:13:46Z",
+                "last_commit": "2026-08-24T20:51:02Z",
                 "owner": "dfinity",
                 "repo": "ic",
                 "stars": 1785
@@ -3174,7 +3174,7 @@
                 "archived": false,
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-24T14:13:46Z",
+                "last_commit": "2026-08-24T20:51:02Z",
                 "owner": "dfinity",
                 "repo": "ic",
                 "stars": 1785
@@ -3189,7 +3189,7 @@
                 "archived": false,
                 "id": 675647111,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:50:19Z",
+                "last_commit": "2026-08-24T17:30:04Z",
                 "owner": "dfinity",
                 "repo": "oisy-wallet",
                 "stars": 177
@@ -3949,7 +3949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:53.820Z",
+    "last_updated": "2026-08-24T20:52:23.621Z",
     "original_repository": "dfinity/awesome-internet-computer",
     "original_repository_id": 275056494,
     "original_repository_sha": "0d5e5b2e280711813fe197d54362251ce9332b20",
