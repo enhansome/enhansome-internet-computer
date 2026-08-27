@@ -36,7 +36,7 @@
                 "archived": false,
                 "id": 237499139,
                 "language": "Rust",
-                "last_commit": "2026-08-25T15:57:48Z",
+                "last_commit": "2026-08-27T11:21:13Z",
                 "owner": "dfinity",
                 "repo": "examples",
                 "stars": 613
@@ -1085,10 +1085,10 @@
                 "archived": false,
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-26T23:18:45Z",
+                "last_commit": "2026-08-27T11:43:12Z",
                 "owner": "dfinity",
                 "repo": "ic",
-                "stars": 1785
+                "stars": 1786
               }
             },
             {
@@ -1334,7 +1334,7 @@
             "archived": false,
             "id": 133029963,
             "language": "OCaml",
-            "last_commit": "2026-08-26T19:16:05Z",
+            "last_commit": "2026-08-27T11:28:30Z",
             "owner": "caffeinelabs",
             "repo": "motoko",
             "stars": 589
@@ -1942,7 +1942,7 @@
             "last_commit": "2026-08-06T12:07:32Z",
             "owner": "ldclabs",
             "repo": "ic-oss",
-            "stars": 32
+            "stars": 31
           }
         },
         {
@@ -1954,7 +1954,7 @@
             "archived": false,
             "id": 1104724435,
             "language": "Rust",
-            "last_commit": "2026-08-26T18:28:04Z",
+            "last_commit": "2026-08-27T11:38:31Z",
             "owner": "dragginzgame",
             "repo": "icydb",
             "stars": 17
@@ -2259,10 +2259,10 @@
                 "archived": false,
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-26T23:18:45Z",
+                "last_commit": "2026-08-27T11:43:12Z",
                 "owner": "dfinity",
                 "repo": "ic",
-                "stars": 1785
+                "stars": 1786
               }
             },
             {
@@ -2292,7 +2292,7 @@
                 "last_commit": "2025-01-11T03:07:06Z",
                 "owner": "tuminfei",
                 "repo": "icrc7_launchpad",
-                "stars": 12
+                "stars": 11
               }
             },
             {
@@ -2434,7 +2434,7 @@
             "archived": false,
             "id": 322613245,
             "language": "Rust",
-            "last_commit": "2026-08-26T14:38:26Z",
+            "last_commit": "2026-08-27T10:51:43Z",
             "owner": "open-chat-labs",
             "repo": "open-chat",
             "stars": 205
@@ -2800,7 +2800,7 @@
             "archived": false,
             "id": 356347737,
             "language": "Rust",
-            "last_commit": "2026-08-26T23:38:51Z",
+            "last_commit": "2026-08-27T11:05:27Z",
             "owner": "dfinity",
             "repo": "internet-identity",
             "stars": 532
@@ -2965,7 +2965,7 @@
                 "archived": false,
                 "id": 827360447,
                 "language": "Rust",
-                "last_commit": "2026-08-20T08:20:24Z",
+                "last_commit": "2026-08-27T00:04:49Z",
                 "owner": "dfinity",
                 "repo": "chain-fusion-signer",
                 "stars": 13
@@ -3032,10 +3032,10 @@
                 "archived": false,
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-26T23:18:45Z",
+                "last_commit": "2026-08-27T11:43:12Z",
                 "owner": "dfinity",
                 "repo": "ic",
-                "stars": 1785
+                "stars": 1786
               }
             },
             {
@@ -3174,10 +3174,10 @@
                 "archived": false,
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-26T23:18:45Z",
+                "last_commit": "2026-08-27T11:43:12Z",
                 "owner": "dfinity",
                 "repo": "ic",
-                "stars": 1785
+                "stars": 1786
               }
             },
             {
@@ -3189,7 +3189,7 @@
                 "archived": false,
                 "id": 675647111,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T18:06:46Z",
+                "last_commit": "2026-08-27T11:40:20Z",
                 "owner": "dfinity",
                 "repo": "oisy-wallet",
                 "stars": 177
@@ -3949,9 +3949,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:44:02.424Z",
-    "original_repository": "dfinity/awesome-internet-computer",
-    "original_repository_id": 275056494,
+    "last_updated": "2026-08-27T11:43:24.531Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 275056494,
+      "language": null,
+      "last_commit": "2026-04-09T08:34:25Z",
+      "owner": "dfinity",
+      "repo": "awesome-internet-computer",
+      "stars": 895
+    },
     "original_repository_sha": "0d5e5b2e280711813fe197d54362251ce9332b20",
     "enhanced_repository": "enhansome/enhansome-internet-computer",
     "enhanced_repository_description": null,
