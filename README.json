@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn how to build a DAO with TypeScript.",
+                "homepage": null,
                 "id": 672781902,
                 "language": "TypeScript",
+                "license": "CC-BY-4.0",
                 "last_commit": "2023-08-31T08:10:45Z",
+                "open_issues": 2,
                 "owner": "code-and-state",
                 "repo": "typescript-bootcamp",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "azle",
+                  "bootcamp",
+                  "education",
+                  "internet-computer",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -35,12 +46,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example applications, microservices, and code samples for the Internet Computer",
+                "homepage": "https://dfinity.org",
                 "id": 237499139,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T14:52:44Z",
+                "open_issues": 23,
                 "owner": "dfinity",
                 "repo": "examples",
-                "stars": 613
+                "stars": 613,
+                "topics": [
+                  "blockchain",
+                  "dfx",
+                  "examples",
+                  "icp",
+                  "internet-computer",
+                  "microservices"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -53,12 +76,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 755331272,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2024-02-26T19:46:04Z",
+                    "open_issues": 0,
                     "owner": "SaorsaLabs",
                     "repo": "Template_Canister",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 },
@@ -69,12 +97,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An add-on for using the Internet Computer in your EmberJS app",
+                    "homepage": null,
                     "id": 587590311,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-04-07T01:27:02Z",
+                    "open_issues": 1,
                     "owner": "onehilltech",
                     "repo": "ember-cli-dfinity",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "dfinity",
+                      "ember-addon",
+                      "emberjs",
+                      "internet-computer"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -92,12 +130,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Step-by-step tutorial for building a decentralized ETH payment system on the Internet Computer.",
+                    "homepage": "https://uu4vt-kqaaa-aaaap-abmia-cai.icp0.io/",
                     "id": 707842586,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-08-03T17:38:45Z",
+                    "open_issues": 1,
                     "owner": "b3hr4d",
                     "repo": "eth_payment_tutorial",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "dapp",
+                      "ethereum",
+                      "icp",
+                      "internet-computer",
+                      "web3"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 },
@@ -108,12 +157,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Demonstration of access control patterns on the Internet Computer",
+                    "homepage": null,
                     "id": 592015285,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2023-01-27T16:43:39Z",
+                    "open_issues": 0,
                     "owner": "domwoe",
                     "repo": "access_control",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": [
+                      "access-control",
+                      "certified-variables",
+                      "demo-app",
+                      "internet-computer",
+                      "permission-management",
+                      "proof-of-concept"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 },
@@ -124,12 +185,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "React Native (Expo) + JWT Authentication + Rust ICP canister",
+                    "homepage": null,
                     "id": 777386729,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2024-08-24T16:54:05Z",
+                    "open_issues": 1,
                     "owner": "ilbertt",
                     "repo": "ic-react-native-jwt-auth",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "icp",
+                      "internet-computer",
+                      "jwt-authentication",
+                      "react-native",
+                      "rust",
+                      "web3"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 },
@@ -140,12 +213,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tutorial on hosting metadata for ERC-721 NFTs on the Internet Computer",
+                    "homepage": null,
                     "id": 567773965,
                     "language": "Motoko",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-07-13T12:14:12Z",
+                    "open_issues": 1,
                     "owner": "domwoe",
                     "repo": "erc-721-ic-assets",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "erc-721",
+                      "ethereum",
+                      "internet-computer",
+                      "nfts"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 },
@@ -156,12 +239,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Internet Computer Factland Canister Smart Contract",
+                    "homepage": "https://factland.org",
                     "id": 571791267,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-08-25T11:39:22Z",
+                    "open_issues": 0,
                     "owner": "Factland",
                     "repo": "ic-factland",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "internet-computer"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -188,12 +278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use your favourite frontend framework with the Internet Computer",
+            "homepage": null,
             "id": 361044338,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-07-13T23:07:20Z",
+            "open_issues": 12,
             "owner": "MioQuispe",
             "repo": "create-ic-app",
-            "stars": 180
+            "stars": 180,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -204,12 +299,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next.js Internet Computer Starter Template",
+            "homepage": null,
             "id": 379596403,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-01T08:57:35Z",
+            "open_issues": 2,
             "owner": "dappblock",
             "repo": "nextjs-ic-starter",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "canister",
+              "dfinity",
+              "dfx",
+              "ic",
+              "internet-computer",
+              "javascript",
+              "motoko",
+              "nextjs",
+              "nextjs-starter",
+              "nextjs-template",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -220,12 +332,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter project for Vite + React + TypeScript + Motoko",
+            "homepage": "https://gitpod.io/#https://github.com/rvanasa/vite-react-motoko",
             "id": 586359249,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-01-15T15:59:34Z",
+            "open_issues": 0,
             "owner": "rvanasa",
             "repo": "vite-react-motoko",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "backend",
+              "browser",
+              "dapp",
+              "dfinity",
+              "dfx",
+              "frontend",
+              "full-stack",
+              "hot-reload",
+              "icp",
+              "internet-computer",
+              "javascript",
+              "live-reload",
+              "motoko",
+              "nft",
+              "react",
+              "smart-contract",
+              "starter",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -236,12 +373,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An advanced starter project for interacting with Ethereum on the Internet Computer (Beta)",
+            "homepage": "https://xm3ir-rqaaa-aaaap-abhqq-cai.icp0.io/",
             "id": 672304861,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-09T15:03:58Z",
+            "open_issues": 6,
             "owner": "dfinity",
             "repo": "icp-eth-starter",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "cross-chain",
+              "dfinity",
+              "ethereum",
+              "example",
+              "internet-computer",
+              "motoko",
+              "nft",
+              "react",
+              "rust",
+              "starter-project",
+              "tailwind",
+              "template",
+              "twin-macro",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -252,12 +409,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI for initializing projects with Juno or directing devs to the Internet Computer docs",
+            "homepage": null,
             "id": 492429582,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-14T11:17:13Z",
+            "open_issues": 0,
             "owner": "peterpeterparker",
             "repo": "create-ic",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "build-tools",
+              "cli",
+              "internet-computer",
+              "internetcomputer",
+              "zero-configuration"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -268,12 +436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker images for canister development on ICP.",
+            "homepage": null,
             "id": 745445283,
             "language": "Dockerfile",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T15:27:44Z",
+            "open_issues": 1,
             "owner": "dfinity",
             "repo": "icp-dev-env",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -284,12 +457,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A starter template for building decentralized applications on the Internet Computer using Next.js and Rust. Features a Rust backend for canister logic and a Next.js frontend for user interaction. Comes with comprehensive documentation for easy setup and deployment.",
+            "homepage": null,
             "id": 631092931,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-10T15:17:45Z",
+            "open_issues": 0,
             "owner": "b3hr4d",
             "repo": "ic-rust-nextjs",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "dfinity",
+              "dfinity-nextjs",
+              "icp",
+              "internet-computer",
+              "nextjs",
+              "rust",
+              "starter-template",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -300,12 +487,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 642336435,
             "language": "Dockerfile",
+            "license": null,
             "last_commit": "2023-07-01T11:27:18Z",
+            "open_issues": 0,
             "owner": "infu",
             "repo": "internet-computer-start",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -316,12 +508,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The full-stack template for IC development",
+            "homepage": null,
             "id": 652241406,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-11-24T17:21:46Z",
+            "open_issues": 1,
             "owner": "mzurs",
             "repo": "ic_template-Azle-NextJS",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -332,12 +529,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multiuser Ethereum wallet built on ICP, using Alloy for RPC interactions.",
+            "homepage": "https://7vics-6yaaa-aaaai-ap7lq-cai.icp0.io",
             "id": 872474382,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-13T17:01:43Z",
+            "open_issues": 0,
             "owner": "ic-alloy",
             "repo": "ic-alloy-basic-wallet",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "ethereum",
+              "internet-computer",
+              "react",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -348,12 +555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 591390029,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-01-25T12:49:59Z",
+            "open_issues": 1,
             "owner": "ocluf",
             "repo": "ic-rust-starter",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -364,12 +576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter project for Vite + SvelteKit + TypeScript + Motoko + Internet Identity + PocketIC",
+            "homepage": null,
             "id": 738850971,
             "language": "Svelte",
+            "license": null,
             "last_commit": "2024-09-30T15:13:21Z",
+            "open_issues": 5,
             "owner": "letmejustputthishere",
             "repo": "vite-sveltekit-motoko-ii",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         }
@@ -388,12 +605,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The base library to build applications on the Internet Computer.",
+                "homepage": "https://js.icp.build/core",
                 "id": 290373310,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T21:56:46Z",
+                "open_issues": 6,
                 "owner": "dfinity",
                 "repo": "icp-js-core",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "icp",
+                  "internet-computer",
+                  "javascript",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -404,12 +631,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Libraries and utilities for interacting with canisters on the Internet Computer.",
+                "homepage": "https://js.icp.build/canisters",
                 "id": 432102254,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T03:45:48Z",
+                "open_issues": 8,
                 "owner": "dfinity",
                 "repo": "icp-js-canisters",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "dfinity",
+                  "internet-computer",
+                  "javascript",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -420,12 +657,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SIWE, Sign in with Ethereum for ICP, the Internet Computer. Build cross chain Ethereum apps on ICP!",
+                "homepage": "https://shtr2-2iaaa-aaaal-qckva-cai.icp0.io",
                 "id": 706711976,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-09-12T12:07:07Z",
+                "open_issues": 2,
                 "owner": "kristoferlund",
                 "repo": "ic-siwe",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "canister",
+                  "dfinity",
+                  "ethereum",
+                  "rust",
+                  "siwe"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -436,12 +684,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy-to-use JavaScript API for the Internet Computer.",
+                "homepage": null,
                 "id": 587449226,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-09T12:41:23Z",
+                "open_issues": 5,
                 "owner": "dfinity",
                 "repo": "node-ic0",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "blockchain",
+                  "browser",
+                  "canister",
+                  "internet-computer",
+                  "motoko",
+                  "nodejs",
+                  "npm",
+                  "smart-contracts",
+                  "typescript",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -452,12 +716,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 464900945,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T00:09:05Z",
+                "open_issues": 0,
                 "owner": "infu",
                 "repo": "icblast",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -468,12 +737,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hook that makes it easy to integrate IC Internet Identity into your React application",
+                "homepage": "https://www.npmjs.com/package/ic-use-internet-identity",
                 "id": 744727951,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-12-26T15:31:11Z",
+                "open_issues": 1,
                 "owner": "kristoferlund",
                 "repo": "ic-use-internet-identity",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "dfinity",
+                  "hook",
+                  "internetcomputer",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -484,12 +763,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IC Websocket for clients written in Typescript",
+                "homepage": null,
                 "id": 671589243,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-13T22:02:25Z",
+                "open_issues": 9,
                 "owner": "omnia-network",
                 "repo": "ic-websocket-sdk-js",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -500,12 +784,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Hook that makes interacting with Internet Computer canisters more fun!",
+                "homepage": "https://www.npmjs.com/package/ic-use-actor/v/0.2.0-beta.1",
                 "id": 739417775,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-12-26T15:32:21Z",
+                "open_issues": 0,
                 "owner": "kristoferlund",
                 "repo": "ic-use-actor",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "dfinity",
+                  "hook",
+                  "internet-computer",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -523,12 +817,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IC SDK: a Software Development Kit for creating and managing canister smart contracts on the ICP blockchain.",
+                "homepage": "https://internetcomputer.org/docs/current/home",
                 "id": 198344153,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-28T08:01:46Z",
+                "open_issues": 70,
                 "owner": "dfinity",
                 "repo": "sdk",
-                "stars": 204
+                "stars": 204,
+                "topics": [
+                  "blockchain",
+                  "canister",
+                  "dfx",
+                  "icp",
+                  "internet-computer",
+                  "rust",
+                  "sdk",
+                  "smart-contract"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -539,12 +847,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of libraries and tools for building software around the Internet Computer, in Rust.",
+                "homepage": "https://sdk.dfinity.org/",
                 "id": 282042743,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T15:07:46Z",
+                "open_issues": 4,
                 "owner": "dfinity",
                 "repo": "agent-rs",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "agent",
+                  "blockchain",
+                  "dfinity",
+                  "icp",
+                  "internet-computer",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -562,12 +882,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Agent Library for the DFINITY Internet Computer",
+                "homepage": "https://pypi.org/project/icp-py-core",
                 "id": 1058532541,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-02T15:10:53Z",
+                "open_issues": 1,
                 "owner": "eliezhao",
                 "repo": "icp-py-core",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "dfinity",
+                  "ic-py",
+                  "ic-py-core",
+                  "icp",
+                  "internetcomputer",
+                  "internetcomputerprotocol",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -585,12 +918,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The library for Internet Computer, written in Dart & Rust.",
+                "homepage": "https://pub.dev/packages/agent_dart",
                 "id": 372405055,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2025-09-02T14:25:14Z",
+                "open_issues": 53,
                 "owner": "AstroxNetwork",
                 "repo": "agent_dart",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "dart",
+                  "dfinity",
+                  "ffi",
+                  "flutter",
+                  "internet-computer",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -608,12 +953,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Golang Agent for the Internet Computer",
+                "homepage": null,
                 "id": 375372066,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T12:23:29Z",
+                "open_issues": 0,
                 "owner": "aviate-labs",
                 "repo": "agent-go",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "agent",
+                  "blockchain",
+                  "dfinity",
+                  "golang",
+                  "icp",
+                  "internet-computer"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -624,12 +981,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 445551119,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-26T10:27:18Z",
+                "open_issues": 4,
                 "owner": "openos-labs",
                 "repo": "IC-Go",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -647,12 +1009,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for .NET/C#/Unity to natively communicate with the Internet Computer (ICP)",
+                "homepage": null,
                 "id": 476344137,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-04-21T16:51:51Z",
+                "open_issues": 7,
                 "owner": "edjCase",
                 "repo": "ICP.NET",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "csharp",
+                  "dfinity",
+                  "internet-computer",
+                  "unity"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -663,12 +1035,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The project brings the IC ecosystem to Unity, allowing Unity developers to call the functions of canisters on IC",
+                "homepage": null,
                 "id": 504046851,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-02-04T00:40:06Z",
+                "open_issues": 3,
                 "owner": "ShikuLabs",
                 "repo": "agent-unity",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "agent",
+                  "dfinity",
+                  "internet-computer",
+                  "unity3d",
+                  "upm"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -686,12 +1069,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Internet Computer - Client C/C++",
+                "homepage": null,
                 "id": 610371997,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-18T15:46:11Z",
+                "open_issues": 0,
                 "owner": "Zondax",
                 "repo": "icp-client-cpp",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -709,12 +1097,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IC4J Agent for the Internet Computer",
+                "homepage": null,
                 "id": 448150950,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-13T17:14:31Z",
+                "open_issues": 5,
                 "owner": "ic4j",
                 "repo": "ic4j-agent",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "android",
+                  "dfinity",
+                  "icp",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -725,12 +1123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 824624205,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2025-12-25T13:43:39Z",
+                "open_issues": 0,
                 "owner": "0xTommy",
                 "repo": "ICP-Kotlin-Kit",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -741,12 +1144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 681150611,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-03T11:32:14Z",
+                "open_issues": 0,
                 "owner": "ic4j",
                 "repo": "ic4j-websocket",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -764,12 +1172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provide IC development tools for all developers of the Ruby programming language.",
+                "homepage": null,
                 "id": 626259666,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-09-07T01:42:45Z",
+                "open_issues": 0,
                 "owner": "tuminfei",
                 "repo": "ic_agent",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -787,12 +1200,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elixir ICP agent for interacting with the internet computer",
+                "homepage": null,
                 "id": 917260789,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T10:01:54Z",
+                "open_issues": 1,
                 "owner": "diodechain",
                 "repo": "icp_agent",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -810,12 +1228,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IcpKit.swift",
+                "homepage": null,
                 "id": 721561569,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-26T13:54:22Z",
+                "open_issues": 2,
                 "owner": "kgaitanis",
                 "repo": "IcpKit",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "blockchain-tool",
+                  "candid",
+                  "icp",
+                  "internet-computer",
+                  "ios",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -837,12 +1267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 560558376,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-04-10T17:59:08Z",
+            "open_issues": 15,
             "owner": "demergent-labs",
             "repo": "cdk_framework",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -855,12 +1290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛠 SDK for writing and testing canisters for the Internet Computer in Rust",
+                "homepage": null,
                 "id": 436962608,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-06-10T08:04:23Z",
+                "open_issues": 0,
                 "owner": "bitfinity-network",
                 "repo": "canister-sdk",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -871,12 +1311,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework for developing canisters on the Internet Computer.",
+                "homepage": "https://crates.io/crates/rustic",
                 "id": 671894114,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-03-08T03:27:59Z",
+                "open_issues": 1,
                 "owner": "internet-computer-protocol",
                 "repo": "rustic",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -894,12 +1339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WebAssembly runtime for TypeScript and JavaScript on ICP",
+                "homepage": null,
                 "id": 460125865,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:25:23Z",
+                "open_issues": 376,
                 "owner": "demergent-labs",
                 "repo": "azle",
-                "stars": 230
+                "stars": 230,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -917,12 +1367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python CDK for the Internet Computer",
+                "homepage": null,
                 "id": 434075293,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-05-31T00:33:35Z",
+                "open_issues": 52,
                 "owner": "demergent-labs",
                 "repo": "kybra",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -940,12 +1395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C/C++ CDK for the Internet Computer",
+                "homepage": null,
                 "id": 483447535,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-11-16T07:38:22Z",
+                "open_issues": 0,
                 "owner": "ICPorts-labs",
                 "repo": "chico",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -956,12 +1416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lucid : Internet Computer C Canister  Development Kit  , focused on clarity, simplicity, and ease of use.",
+                "homepage": null,
                 "id": 1028102383,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-10T12:57:14Z",
+                "open_issues": 0,
                 "owner": "q2333gh",
                 "repo": "Lucid",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -979,12 +1444,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial Experimental AssemblyScript CDK for DFINITY",
+                "homepage": null,
                 "id": 317051203,
                 "language": "WebAssembly",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-21T18:27:07Z",
+                "open_issues": 1,
                 "owner": "rckprtr",
                 "repo": "cdk-as",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "assemblyscript",
+                  "cdk",
+                  "dfinity"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -1002,12 +1476,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight, WebAssembly-native Canister Development Kit (CDK) for building smart contracts on the Internet Computer (ICP) with the MoonBit language.",
+                "homepage": null,
                 "id": 939255390,
                 "language": "MoonBit",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-09T13:59:44Z",
+                "open_issues": 0,
                 "owner": "eliezhao",
                 "repo": "moonbit-ic-cdk",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "blockchain",
+                  "canister",
+                  "cdk",
+                  "icp",
+                  "internet-computer",
+                  "moonbit",
+                  "smart-contract"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -1029,12 +1516,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build Internet Computer projects with Nix",
+            "homepage": null,
             "id": 492939280,
             "language": "Nix",
+            "license": "MIT",
             "last_commit": "2026-08-24T04:42:19Z",
+            "open_issues": 6,
             "owner": "ninegua",
             "repo": "ic-nix",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1045,12 +1537,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WASI dependency replacer for the *.wasm files ",
+            "homepage": null,
             "id": 597744597,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-11-28T18:25:40Z",
+            "open_issues": 1,
             "owner": "wasm-forge",
             "repo": "wasi2ic",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "infrastructure",
+              "internet-computer",
+              "polyfill",
+              "tools",
+              "wasi"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1061,12 +1564,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "HTTP framework designed for the needs of the internet computer network. When entering editing and updating data",
+            "homepage": "https://zygiv-iaaaa-aaaag-qdkoq-cai.raw.icp0.io/",
             "id": 633451715,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-08-28T11:42:32Z",
+            "open_issues": 2,
             "owner": "Forge-3",
             "repo": "pluto",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1077,12 +1585,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of http Motoko libraries. Routing, parsing, middleware, etc...",
+            "homepage": null,
             "id": 928688277,
             "language": "Motoko",
+            "license": "MIT",
             "last_commit": "2025-10-31T20:28:34Z",
+            "open_issues": 10,
             "owner": "edjCase",
             "repo": "liminal",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1093,12 +1606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dfx version manager",
+            "homepage": null,
             "id": 707767885,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-28T02:16:41Z",
+            "open_issues": 5,
             "owner": "dfinity",
             "repo": "dfxvm",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1109,12 +1627,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Action to set up dfx",
+            "homepage": null,
             "id": 662973217,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-04-09T13:56:30Z",
+            "open_issues": 5,
             "owner": "dfinity",
             "repo": "setup-dfx",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1125,12 +1648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 703619388,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-10T18:47:22Z",
+            "open_issues": 57,
             "owner": "MioQuispe",
             "repo": "Ice.ts",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1143,12 +1671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Internet Computer blockchain source: the client/replica software run by nodes",
+                "homepage": "https://internetcomputer.org",
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-28T19:54:43Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:25:31Z",
+                "open_issues": 286,
                 "owner": "dfinity",
                 "repo": "ic",
-                "stars": 1787
+                "stars": 1787,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -1159,12 +1692,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 361269559,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-15T23:11:17Z",
+                "open_issues": 3,
                 "owner": "dfinity",
                 "repo": "ic-repl",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -1175,12 +1713,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of canister performance benchmarks",
+                "homepage": null,
                 "id": 533539851,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-08T15:33:12Z",
+                "open_issues": 20,
                 "owner": "dfinity",
                 "repo": "canister-profiling",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -1191,12 +1734,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PocketIC Python: A Canister Testing Library for the Internet Computer",
+                "homepage": "https://internetcomputer.org/",
                 "id": 681071607,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-12T09:33:34Z",
+                "open_issues": 9,
                 "owner": "dfinity",
                 "repo": "pocketic-py",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "canister",
+                  "canisters",
+                  "dfinity",
+                  "icp",
+                  "internet-computer",
+                  "internet-computer-protocol",
+                  "python",
+                  "smart-contract",
+                  "smart-contracts",
+                  "testing",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -1207,12 +1767,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 617902914,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-08-15T20:26:55Z",
+                "open_issues": 2,
                 "owner": "icopen",
                 "repo": "lightic",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "internet-computer"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -1223,12 +1790,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Internet Computer Protocol canister testing library for TypeScript and JavaScript.",
+                "homepage": "https://js.icp.build/pic-js/",
                 "id": 713096968,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-03T14:38:00Z",
+                "open_issues": 18,
                 "owner": "dfinity",
                 "repo": "pic-js",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "canister",
+                  "canisters",
+                  "icp",
+                  "integration-testing",
+                  "internet-computer",
+                  "internet-computer-protocol",
+                  "smart-contract",
+                  "smart-contracts",
+                  "testing",
+                  "testing-library",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -1239,12 +1823,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Testing framework for the Internet Computer",
+                "homepage": null,
                 "id": 949935421,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-11-28T13:49:27Z",
+                "open_issues": 3,
                 "owner": "wasm-forge",
                 "repo": "ic-test",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -1255,12 +1844,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 999570910,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-20T10:09:19Z",
+                "open_issues": 0,
                 "owner": "ic-mockery",
                 "repo": "ic-mockery",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -1278,12 +1872,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A benchmarking framework for canisters on the Internet Computer.",
+                "homepage": null,
                 "id": 746651802,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T12:20:22Z",
+                "open_issues": 14,
                 "owner": "dfinity",
                 "repo": "canbench",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -1301,12 +1900,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and Secure Release Management for Internet Computer Projects",
+                "homepage": null,
                 "id": 483351828,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-20T17:24:10Z",
+                "open_issues": 2,
                 "owner": "spinner-cash",
                 "repo": "launchtrail",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -1324,12 +1928,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Once a canister sets its only controller to a black hole, it becomes immutable and more!",
+                "homepage": null,
                 "id": 383687083,
                 "language": "Nix",
+                "license": "MIT",
                 "last_commit": "2025-01-05T11:48:16Z",
+                "open_issues": 3,
                 "owner": "ninegua",
                 "repo": "ic-blackhole",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -1340,12 +1949,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for managing cycles across hundreds of canisters.",
+                "homepage": null,
                 "id": 657673747,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-24T17:41:16Z",
+                "open_issues": 2,
                 "owner": "CycleOperators",
                 "repo": "cycles-manager",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -1356,12 +1970,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example of monitoring a canister with Prometheus",
+                "homepage": null,
                 "id": 496990258,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2022-06-02T17:40:00Z",
+                "open_issues": 2,
                 "owner": "domwoe",
                 "repo": "canister-monitoring",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "dfinity",
+                  "internet-computer",
+                  "monitoring",
+                  "motoko",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -1379,12 +2004,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 979974002,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:54:34Z",
+                "open_issues": 6,
                 "owner": "dragginzgame",
                 "repo": "canic",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -1406,12 +2036,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple high-level language for writing Internet Computer canisters",
+            "homepage": null,
             "id": 133029963,
             "language": "OCaml",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:05:01Z",
+            "open_issues": 263,
             "owner": "caffeinelabs",
             "repo": "motoko",
-            "stars": 589
+            "stars": 589,
+            "topics": [
+              "internet-computer",
+              "motoko",
+              "motoko-language",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1422,12 +2062,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blocks. An online drag-and-drop smart contract builder.",
+            "homepage": "https://blocks-editor.github.io/blocks",
             "id": 425048398,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-13T19:22:07Z",
+            "open_issues": 28,
             "owner": "Blocks-Editor",
             "repo": "blocks",
-            "stars": 164
+            "stars": 164,
+            "topics": [
+              "blockchain",
+              "cryptocurrency",
+              "dapps-development",
+              "dataflow",
+              "decentralized-applications",
+              "defi",
+              "dfinity",
+              "editor",
+              "graph",
+              "icp",
+              "internet-computer",
+              "javascript",
+              "low-code",
+              "motoko",
+              "motoko-language",
+              "no-code",
+              "online",
+              "react",
+              "smart-contracts"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1438,12 +2103,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Motoko code and resources.",
+            "homepage": null,
             "id": 417071701,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-11-25T09:46:48Z",
+            "open_issues": 0,
             "owner": "ic123-xyz",
             "repo": "awesome-motoko",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "dfinity",
+              "ic",
+              "internetcomputer",
+              "motoko",
+              "motoko-language"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1454,12 +2132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A code formatter for the Motoko smart contract language.",
+            "homepage": null,
             "id": 523524925,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T06:23:58Z",
+            "open_issues": 10,
             "owner": "caffeinelabs",
             "repo": "prettier-plugin-motoko",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1470,12 +2153,36 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A live reload development server for Motoko smart contracts.",
+            "homepage": null,
             "id": 551784825,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-15T19:09:25Z",
+            "open_issues": 13,
             "owner": "caffeinelabs",
             "repo": "motoko-dev-server",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "cli",
+              "command-line",
+              "create-react-app",
+              "dapp",
+              "dfx",
+              "hot-module-reloading",
+              "hot-module-replacement",
+              "icp",
+              "internet-computer",
+              "live-reload",
+              "motoko",
+              "nextjs",
+              "productivity",
+              "prototyping",
+              "smart-contract",
+              "tools",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1488,12 +2195,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The original package manager for Motoko",
+                "homepage": null,
                 "id": 248089583,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-26T12:06:45Z",
+                "open_issues": 10,
                 "owner": "caffeinelabs",
                 "repo": "vessel",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "motoko",
+                  "package-manager"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -1511,12 +2226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Motoko Http Server (wip)",
+                "homepage": "https://qg33c-4aaaa-aaaab-qaica-cai.ic0.app/",
                 "id": 628365844,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-06T23:20:25Z",
+                "open_issues": 2,
                 "owner": "krpeacock",
                 "repo": "server",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -1527,12 +2247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Motoko library for all things related to certification",
+                "homepage": "https://nomeata.github.io/ic-certification/",
                 "id": 355925926,
                 "language": "Nix",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-18T18:30:20Z",
+                "open_issues": 4,
                 "owner": "nomeata",
                 "repo": "ic-certification",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -1543,12 +2268,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔐 Make Trusted Execution Environments (TEEs) work with the Internet Computer.",
+                "homepage": null,
                 "id": 881412655,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T12:30:33Z",
+                "open_issues": 0,
                 "owner": "ldclabs",
                 "repo": "ic-tee",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "canister",
+                  "decentralized",
+                  "icp",
+                  "tee"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -1559,12 +2294,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Regex Engine built in Motoko Programming Language",
+                "homepage": "https://demali-876.github.io/motoko_regex_engine/",
                 "id": 851810762,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2025-05-07T15:30:37Z",
+                "open_issues": 1,
                 "owner": "Demali-876",
                 "repo": "motoko_regex_engine",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "engine",
+                  "internet-computer",
+                  "motoko-language",
+                  "regular-expression"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -1586,12 +2331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Candid Library for the Internet Computer",
+            "homepage": null,
             "id": 261247499,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T20:52:18Z",
+            "open_issues": 65,
             "owner": "dfinity",
             "repo": "candid",
-            "stars": 301
+            "stars": 301,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1602,12 +2352,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Candid Library for the Internet Computer",
+            "homepage": null,
             "id": 261247499,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T20:52:18Z",
+            "open_issues": 65,
             "owner": "dfinity",
             "repo": "candid",
-            "stars": 301
+            "stars": 301,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1618,12 +2373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Candid Library for the Internet Computer",
+            "homepage": null,
             "id": 261247499,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T20:52:18Z",
+            "open_issues": 65,
             "owner": "dfinity",
             "repo": "candid",
-            "stars": 301
+            "stars": 301,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1634,12 +2394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 347088156,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-08T14:55:24Z",
+            "open_issues": 6,
             "owner": "dfinity",
             "repo": "idl2json",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1650,12 +2415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Candid language plugin that provide a complete support to efficiently edit .did files.",
+            "homepage": "https://plugins.jetbrains.com/plugin/19148-candid",
             "id": 466536953,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2023-09-15T17:52:04Z",
+            "open_issues": 9,
             "owner": "Alaanor",
             "repo": "candid-intellij-plugin",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1666,12 +2436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 449867109,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-08T15:22:40Z",
+            "open_issues": 6,
             "owner": "dfinity",
             "repo": "dfn-components",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1686,12 +2461,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unofficial Experimental AssemblyScript CDK for DFINITY",
+                    "homepage": null,
                     "id": 317051203,
                     "language": "WebAssembly",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-01-21T18:27:07Z",
+                    "open_issues": 1,
                     "owner": "rckprtr",
                     "repo": "cdk-as",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": [
+                      "assemblyscript",
+                      "cdk",
+                      "dfinity"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -1709,12 +2493,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A library for .NET/C#/Unity to natively communicate with the Internet Computer (ICP)",
+                    "homepage": null,
                     "id": 476344137,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2025-04-21T16:51:51Z",
+                    "open_issues": 7,
                     "owner": "edjCase",
                     "repo": "ICP.NET",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": [
+                      "csharp",
+                      "dfinity",
+                      "internet-computer",
+                      "unity"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -1732,12 +2526,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "C++ Candid Library",
+                    "homepage": null,
                     "id": 663754908,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-08-05T19:40:36Z",
+                    "open_issues": 0,
                     "owner": "icppWorld",
                     "repo": "icpp-candid",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -1755,12 +2554,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Provide a set of tools to convert `Candid` files into Dart code.",
+                    "homepage": "https://pub.dev/packages/candid_dart",
                     "id": 485694246,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2025-07-15T09:38:10Z",
+                    "open_issues": 0,
                     "owner": "AstroxNetwork",
                     "repo": "candid_dart",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "candid",
+                      "candid-dart",
+                      "dart",
+                      "dfinity",
+                      "ic"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -1778,12 +2588,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 281456761,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-01-07T20:20:02Z",
+                    "open_issues": 10,
                     "owner": "chenyan2002",
                     "repo": "ic-elm",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -1801,12 +2616,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Elixir library for encoding and decoding candid. The binary encoding format for the Internet Computer (ICP).",
+                    "homepage": null,
                     "id": 873788472,
                     "language": "Elixir",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-07T12:58:00Z",
+                    "open_issues": 0,
                     "owner": "diodechain",
                     "repo": "candid",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -1824,12 +2644,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A candid library for Haskell",
+                    "homepage": "https://nomeata.github.io/haskell-candid/Codec-Candid.html",
                     "id": 258153258,
                     "language": "Haskell",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-04-13T15:01:56Z",
+                    "open_issues": 1,
                     "owner": "nomeata",
                     "repo": "haskell-candid",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -1847,12 +2672,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java Candid for The Internet Computer (IC4J) is a set of native Java libraries to manage the Internet Computer Candid types",
+                    "homepage": null,
                     "id": 448140724,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-13T11:13:37Z",
+                    "open_issues": 2,
                     "owner": "ic4j",
                     "repo": "ic4j-candid",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "android",
+                      "dfinity",
+                      "icp",
+                      "jackson",
+                      "java",
+                      "jaxb",
+                      "jdbc",
+                      "json",
+                      "xml"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -1870,12 +2710,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The base library to build applications on the Internet Computer.",
+                    "homepage": "https://js.icp.build/core",
                     "id": 290373310,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T21:56:46Z",
+                    "open_issues": 6,
                     "owner": "dfinity",
                     "repo": "icp-js-core",
-                    "stars": 171
+                    "stars": 171,
+                    "topics": [
+                      "icp",
+                      "internet-computer",
+                      "javascript",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 },
@@ -1886,12 +2736,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JavaScript/TypeScript bindings for \"candid_parser\", compiled to WebAssembly",
+                    "homepage": "https://www.npmjs.com/package/candid-parser-wasm",
                     "id": 755943049,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2024-02-13T17:25:31Z",
+                    "open_issues": 0,
                     "owner": "justblender",
                     "repo": "candid-parser-wasm",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "candid",
+                      "candid-parser",
+                      "icp",
+                      "internet-computer",
+                      "wasm",
+                      "webassembly"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -1909,12 +2771,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lets you write Kotlin apps which interact with the Internet Computer",
+                    "homepage": null,
                     "id": 266164614,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2022-01-09T00:56:49Z",
+                    "open_issues": 12,
                     "owner": "seniorjoinu",
                     "repo": "candid-kt",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "android",
+                      "candid",
+                      "dfinity",
+                      "ic",
+                      "kotlin"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -1932,12 +2805,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 524309518,
                     "language": "Motoko",
+                    "license": null,
                     "last_commit": "2025-12-09T00:13:03Z",
+                    "open_issues": 0,
                     "owner": "edjCase",
                     "repo": "motoko_candid",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -1964,12 +2842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GraphQL database for the Internet Computer",
+            "homepage": null,
             "id": 341401395,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-12-07T12:19:46Z",
+            "open_issues": 49,
             "owner": "sudograph",
             "repo": "sudograph",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1980,12 +2863,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of data structures for fearless canister upgrades.",
+            "homepage": null,
             "id": 389440236,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-12T11:49:21Z",
+            "open_issues": 34,
             "owner": "dfinity",
             "repo": "stable-structures",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -1996,12 +2884,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lets you store canister data directly in stable memory",
+            "homepage": null,
             "id": 432847356,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-05-10T15:18:22Z",
+            "open_issues": 4,
             "owner": "seniorjoinu",
             "repo": "ic-stable-memory",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "dfinity",
+              "ic",
+              "internet-computer",
+              "memory",
+              "rust",
+              "stable-memory"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2012,12 +2912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using sqlite on an internet computer(ICP)",
+            "homepage": null,
             "id": 522441037,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-14T12:23:09Z",
+            "open_issues": 0,
             "owner": "froghub-io",
             "repo": "ic-sqlite",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2028,12 +2933,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CanDB - CanDB is a flexible, performant, and horizontally scalable non-relational multi-canister data storage framework built for the Internet Computer.",
+            "homepage": null,
             "id": 468038183,
             "language": "Motoko",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-20T08:12:46Z",
+            "open_issues": 20,
             "owner": "ORIGYN-SA",
             "repo": "CanDB",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2044,12 +2954,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗂 A decentralized Object Storage Service on the Internet Computer",
+            "homepage": null,
             "id": 798857572,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T01:07:20Z",
+            "open_issues": 0,
             "owner": "ldclabs",
             "repo": "ic-oss",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "canister",
+              "ic",
+              "icp",
+              "oss",
+              "s3"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2060,12 +2981,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ic database",
+            "homepage": null,
             "id": 1104724435,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:54:41Z",
+            "open_issues": 6,
             "owner": "dragginzgame",
             "repo": "icydb",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2076,12 +3002,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An embeddable relational database engine written in Rust, designed to run inside WASM runtimes, with first-class support for Internet Computer canisters.",
+            "homepage": "https://wasm-dbms.cc",
             "id": 1095275459,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-29T20:43:57Z",
+            "open_issues": 3,
             "owner": "veeso",
             "repo": "wasm-dbms",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "canister",
+              "dfinity",
+              "icp",
+              "internet-computer",
+              "wasm",
+              "wasm-database",
+              "wasmer"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2092,12 +3031,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An embedded document database with native candid support for Motoko developers",
+            "homepage": null,
             "id": 901978071,
             "language": "Motoko",
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-21T22:24:22Z",
+            "open_issues": 19,
             "owner": "NatLabs",
             "repo": "ZenDB",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2108,12 +3052,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An attempt to run oxigraph on the Internet Computer",
+            "homepage": null,
             "id": 638218943,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-05-14T16:02:58Z",
+            "open_issues": 0,
             "owner": "omnia-network",
             "repo": "ic-oxigraph",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "dfinity",
+              "internet-computer",
+              "oxigraph",
+              "rdf"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2124,12 +3078,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚙️ A decentralized COnfiguration service with Signing and Encryption on the Internet Computer.",
+            "homepage": null,
             "id": 831362869,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T11:14:53Z",
+            "open_issues": 0,
             "owner": "ldclabs",
             "repo": "ic-cose",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "cbor",
+              "config",
+              "cose",
+              "icp"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2140,12 +3104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples of running WASI applications on the Internet Computer",
+            "homepage": null,
             "id": 877560970,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-04-25T10:00:27Z",
+            "open_issues": 0,
             "owner": "wasm-forge",
             "repo": "examples",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2156,12 +3125,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of persistent data structures in motoko",
+            "homepage": null,
             "id": 843994623,
             "language": "Motoko",
+            "license": "MIT",
             "last_commit": "2026-04-04T21:19:56Z",
+            "open_issues": 3,
             "owner": "NatLabs",
             "repo": "memory-collection",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2172,12 +3146,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A certified blockchain in a canister smart contract on the IC.",
+            "homepage": "https://factland.org",
             "id": 577805505,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-04-18T00:21:43Z",
+            "open_issues": 0,
             "owner": "Factland",
             "repo": "ic-certified-blockchain",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "blockchain",
+              "internet-computer"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         }
@@ -2194,12 +3176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebSocket gateway for the IC",
+            "homepage": "https://status.icws.io",
             "id": 673259759,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-06-17T20:38:13Z",
+            "open_issues": 4,
             "owner": "omnia-network",
             "repo": "ic-websocket-gateway",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2210,12 +3197,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💈 Reverse proxy server with built-in idempotency support, written in Rust & Cloudflare Worker.",
+            "homepage": null,
             "id": 783228915,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-21T02:58:50Z",
+            "open_issues": 1,
             "owner": "ldclabs",
             "repo": "idempotent-proxy",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "canister",
+              "cloudflare-workers",
+              "idempotency",
+              "reverse-proxy",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2226,12 +3224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This will contain a proxy that intentionally delivers outdated data",
+            "homepage": null,
             "id": 799474003,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-10-22T09:33:10Z",
+            "open_issues": 0,
             "owner": "vporton",
             "repo": "join-proxy",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         }
@@ -2252,12 +3255,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A fungible token standard developed by the Ledger & Tokenization working group for the IC.",
+                    "homepage": null,
                     "id": 496339250,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-11T08:50:03Z",
+                    "open_issues": 32,
                     "owner": "dfinity",
                     "repo": "ICRC-1",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 },
@@ -2268,12 +3276,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A fungible token standard developed by the Ledger & Tokenization working group for the IC.",
+                    "homepage": null,
                     "id": 496339250,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-11T08:50:03Z",
+                    "open_issues": 32,
                     "owner": "dfinity",
                     "repo": "ICRC-1",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 },
@@ -2284,12 +3297,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository to ICRC proposals ",
+                    "homepage": null,
                     "id": 566391058,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-06T09:03:08Z",
+                    "open_issues": 109,
                     "owner": "dfinity",
                     "repo": "ICRC",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -2307,12 +3325,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 375907875,
                     "language": "Motoko",
+                    "license": "MIT",
                     "last_commit": "2023-03-23T14:37:15Z",
+                    "open_issues": 15,
                     "owner": "Toniq-Labs",
                     "repo": "extendable-token",
-                    "stars": 82
+                    "stars": 82,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 },
@@ -2323,12 +3346,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DIP20: A fungible token standard for the DFINITY Internet Computer.",
+                    "homepage": null,
                     "id": 415962742,
                     "language": "Motoko",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-07-24T02:54:54Z",
+                    "open_issues": 8,
                     "owner": "Psychedelic",
                     "repo": "DIP20",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 },
@@ -2339,12 +3367,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DIP721 - An Internet Computer Non-fungible Token Standard",
+                    "homepage": null,
                     "id": 434382550,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-09-23T14:55:03Z",
+                    "open_issues": 12,
                     "owner": "Psychedelic",
                     "repo": "DIP721",
-                    "stars": 62
+                    "stars": 62,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 },
@@ -2355,12 +3388,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Public Facing Origyn NFT Reference Implementation",
+                    "homepage": null,
                     "id": 536338692,
                     "language": "Motoko",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-01-27T10:05:52Z",
+                    "open_issues": 3,
                     "owner": "ORIGYN-SA",
                     "repo": "origyn_nft",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:23:28.785Z"
                 }
@@ -2383,12 +3421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Internet Computer blockchain source: the client/replica software run by nodes",
+                "homepage": "https://internetcomputer.org",
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-28T19:54:43Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:25:31Z",
+                "open_issues": 286,
                 "owner": "dfinity",
                 "repo": "ic",
-                "stars": 1787
+                "stars": 1787,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -2399,12 +3442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 979443344,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-08-04T09:03:48Z",
+                "open_issues": 3,
                 "owner": "ORIGYN-SA",
                 "repo": "nft",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -2415,12 +3463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example implementation of ICRC7 containing ICRC37 and ICRC3 standards.",
+                "homepage": null,
                 "id": 788422026,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-01-11T03:07:06Z",
+                "open_issues": 1,
                 "owner": "tuminfei",
                 "repo": "icrc7_launchpad",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -2431,12 +3484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust Implementation of Icrc7",
+                "homepage": null,
                 "id": 744288157,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-04-30T10:04:06Z",
+                "open_issues": 8,
                 "owner": "pramitgaha21",
                 "repo": "icrc7",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -2447,12 +3505,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 596975506,
                 "language": "Motoko",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-09-01T08:56:12Z",
+                "open_issues": 26,
                 "owner": "flowerpowerdao",
                 "repo": "power-equalizer",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -2463,12 +3526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 756778665,
                 "language": "Motoko",
+                "license": null,
                 "last_commit": "2024-09-25T15:11:54Z",
+                "open_issues": 4,
                 "owner": "letmejustputthishere",
                 "repo": "icrc7_launchpad",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -2479,12 +3547,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICRC7 (Compatible with EXT standard)",
+                "homepage": null,
                 "id": 772354169,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-07-03T01:08:18Z",
+                "open_issues": 1,
                 "owner": "tuminfei",
                 "repo": "yuku_icrc7",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -2495,12 +3568,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 797833513,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-06-25T17:01:24Z",
+                "open_issues": 0,
                 "owner": "AlexandriaDAO",
                 "repo": "NFT",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -2518,12 +3596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A token faucet to facilitate testing and development.",
+                "homepage": "https://faucet.internetcomputer.org",
                 "id": 1021715892,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T13:14:30Z",
+                "open_issues": 10,
                 "owner": "dfinity",
                 "repo": "ledger-faucet",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -2541,12 +3624,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 695165971,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-11-01T08:10:14Z",
+                "open_issues": 0,
                 "owner": "OutRankNFT",
                 "repo": "OutRank-Rarity",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -2568,12 +3656,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the main repository for the OpenChat application which runs on the Internet Computer",
+            "homepage": "https://oc.app",
             "id": 322613245,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T19:06:10Z",
+            "open_issues": 301,
             "owner": "open-chat-labs",
             "repo": "open-chat",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "chat-application",
+              "internet-computer"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2584,12 +3680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A telegram bot on the Internet Computer",
+            "homepage": null,
             "id": 320386581,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-03-29T18:08:13Z",
+            "open_issues": 1,
             "owner": "nomeata",
             "repo": "ic-telegram-bot",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2600,12 +3701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 649634871,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-08-10T00:12:34Z",
+            "open_issues": 0,
             "owner": "miguelToscano",
             "repo": "w3ns",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         }
@@ -2624,12 +3730,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Safeguard your financial privacy with zero-knowledge proofs.",
+                "homepage": "https://spinner.cash",
                 "id": 506145576,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-22T07:39:42Z",
+                "open_issues": 0,
                 "owner": "spinner-cash",
                 "repo": "spinner",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "btc",
+                  "canister",
+                  "icp",
+                  "internetcomputer",
+                  "privacy"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -2640,12 +3757,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICPEx adapters doc",
+                "homepage": null,
                 "id": 818481160,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-10-09T07:07:28Z",
+                "open_issues": 1,
                 "owner": "ICPExchange",
                 "repo": "adapters-doc",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -2656,12 +3778,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeSwap Order Book Module in Motoko.",
+                "homepage": null,
                 "id": 495315647,
                 "language": "Motoko",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-24T07:41:49Z",
+                "open_issues": 0,
                 "owner": "iclighthouse",
                 "repo": "DeSwap-Orderbook",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -2672,12 +3799,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "innovative AMM with high Capital Efficiency and simple UX",
+                "homepage": "https://browndex.io/",
                 "id": 768423913,
                 "language": "Motoko",
+                "license": "MIT",
                 "last_commit": "2026-06-04T19:45:29Z",
+                "open_issues": 2,
                 "owner": "BrownFi",
                 "repo": "BrownFi-AMM-ICP",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "defi",
+                  "icp"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -2695,12 +3830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IC Transaction Coordinator (ICTC) is a distributed transaction framework for Defi applications on IC network.",
+                "homepage": null,
                 "id": 447094195,
                 "language": "Motoko",
+                "license": null,
                 "last_commit": "2024-08-04T13:29:13Z",
+                "open_issues": 0,
                 "owner": "iclighthouse",
                 "repo": "ICTC",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -2711,12 +3851,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ICSI (ICP Sub-Account Indexer) is a robust solution designed to streamline the management and indexing of sub-accounts within the ICP (Internet Computer Protocol) ecosystem.",
+                "homepage": "https://jagad.to/",
                 "id": 774286374,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-05-16T11:58:57Z",
+                "open_issues": 0,
                 "owner": "garudaidr",
                 "repo": "icp-subaccount-indexer",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "cryptocurrency",
+                  "defi",
+                  "icp",
+                  "internet-computer",
+                  "rust",
+                  "smart-contracts",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -2727,12 +3880,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Payment solution for automated purchases in IC ecosystem",
+                "homepage": null,
                 "id": 848976894,
                 "language": "Motoko",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-24T15:43:43Z",
+                "open_issues": 0,
                 "owner": "ICSpore",
                 "repo": "dca-v1",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "aggregator",
+                  "ckbtc",
+                  "dca",
+                  "defi",
+                  "icp",
+                  "internet-computer"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -2750,12 +3915,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The exchange rate canister (XRC) makes use of the HTTP requests feature to provide exchange rates as a service to the IC.",
+                "homepage": null,
                 "id": 525525941,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T13:18:03Z",
+                "open_issues": 18,
                 "owner": "dfinity",
                 "repo": "exchange-rate-canister",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "br-protected-2"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -2777,12 +3949,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Social DApp base on Actor model ",
+            "homepage": "https://mjlwf-iqaaa-aaaan-qmtna-cai.icp0.io/",
             "id": 631530426,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-17T13:50:56Z",
+            "open_issues": 0,
             "owner": "NeutronStarDAO",
             "repo": "Proton",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "dapp",
+              "ic",
+              "icp",
+              "socialfi",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2793,12 +3976,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully on-chain decentralized Q&A Application",
+            "homepage": "https://formyfi.io/",
             "id": 730322252,
             "language": "Vue",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-24T12:51:07Z",
+            "open_issues": 0,
             "owner": "Talentum-id",
             "repo": "formyfi",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "internet-computer",
+              "motoko",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2809,12 +4001,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PDS canister for AT Protocol written in Motoko for the Internet Computer",
+            "homepage": null,
             "id": 1096069334,
             "language": "Motoko",
+            "license": "MIT",
             "last_commit": "2026-01-09T18:06:42Z",
+            "open_issues": 0,
             "owner": "edjCase",
             "repo": "motoko_atproto_pds",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         }
@@ -2831,12 +4028,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DAO in a box",
+            "homepage": "https://icdevs.org/",
             "id": 423894619,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-06-15T14:19:51Z",
+            "open_issues": 8,
             "owner": "icdevsorg",
             "repo": "axon",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "dao",
+              "internet-computer",
+              "motoko"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2847,12 +4053,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Threshold voting and execution for the IC",
+            "homepage": null,
             "id": 528047509,
             "language": "Motoko",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-09T12:33:00Z",
+            "open_issues": 6,
             "owner": "dfinity",
             "repo": "threshold",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2863,12 +4074,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://dfinity-icp-contracts.vercel.app",
             "id": 699390364,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-14T11:39:50Z",
+            "open_issues": 0,
             "owner": "redsteep",
             "repo": "dfinity-icp-governor",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         }
@@ -2885,12 +4101,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 526827589,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-08-09T14:49:18Z",
+            "open_issues": 2,
             "owner": "dfinity",
             "repo": "ic-gamekit",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2901,12 +4122,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IC Code Sample - Unity Play to Earn Game",
+            "homepage": null,
             "id": 621777270,
             "language": "Motoko",
+            "license": "MIT",
             "last_commit": "2023-04-18T00:59:07Z",
+            "open_issues": 0,
             "owner": "therealbryanho",
             "repo": "IC-Code-Sample-Unity-Play-to-Earn-Game",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2917,12 +4143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GameKit for the Internet Computer",
+            "homepage": null,
             "id": 824642939,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-10T17:07:48Z",
+            "open_issues": 1,
             "owner": "morganpage",
             "repo": "ic-gamekit",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2933,12 +4164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple wheel of fortune game with Internet Identity authentication integration and ICP coin transferring functionality via Ledger canister",
+            "homepage": null,
             "id": 760954693,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-02-23T01:03:30Z",
+            "open_issues": 0,
             "owner": "temokoki",
             "repo": "IC_Wheel_of_Fortune",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         }
@@ -2955,12 +4191,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Internet Identity, the most prominent authentication system for modern web apps",
+            "homepage": "https://id.ai",
             "id": 356347737,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:08:20Z",
+            "open_issues": 90,
             "owner": "dfinity",
             "repo": "internet-identity",
-            "stars": 533
+            "stars": 533,
+            "topics": [
+              "authentication",
+              "blockchain",
+              "identity"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2971,12 +4216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 693324085,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-19T08:42:02Z",
+            "open_issues": 2,
             "owner": "research-ag",
             "repo": "wallet",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -2989,12 +4239,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SIWE, Sign in with Ethereum for ICP, the Internet Computer. Build cross chain Ethereum apps on ICP!",
+                "homepage": "https://shtr2-2iaaa-aaaal-qckva-cai.icp0.io",
                 "id": 706711976,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-09-12T12:07:07Z",
+                "open_issues": 2,
                 "owner": "kristoferlund",
                 "repo": "ic-siwe",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "canister",
+                  "dfinity",
+                  "ethereum",
+                  "rust",
+                  "siwe"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3005,12 +4266,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SIWB, Sign in with Bitcoin for ICP, the Internet Computer. Build cross chain Bitcoin apps on ICP!",
+                "homepage": null,
                 "id": 823155206,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-04-02T05:47:51Z",
+                "open_issues": 0,
                 "owner": "AstroxNetwork",
                 "repo": "ic-siwb",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3021,12 +4287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dfinity wallet adapter for connecting different wallets in IC",
+                "homepage": null,
                 "id": 589665800,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-03-26T05:09:51Z",
+                "open_issues": 0,
                 "owner": "sonicdex",
                 "repo": "artemis",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3037,12 +4308,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SIWS, Sign in with Solana for ICP, the Internet Computer. Build cross chain Solana apps on ICP!",
+                "homepage": "https://guidq-3qaaa-aaaal-qiteq-cai.icp0.io/",
                 "id": 777919615,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-10-13T16:58:14Z",
+                "open_issues": 4,
                 "owner": "kristoferlund",
                 "repo": "ic-siws",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "dfinity",
+                  "icp",
+                  "internet-computer",
+                  "react",
+                  "rust",
+                  "siws",
+                  "solana"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3053,12 +4337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A wallet wrapper/adapter for the Internet Computer",
+                "homepage": null,
                 "id": 848140663,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-01T19:40:15Z",
+                "open_issues": 11,
                 "owner": "microdao-corporation",
                 "repo": "plug-n-play",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3069,12 +4358,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SIS, Sign in with SUI for ICP, the Internet Computer. Build cross chain Sui apps on ICP!",
+                "homepage": null,
                 "id": 928167630,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-06-20T00:02:22Z",
+                "open_issues": 0,
                 "owner": "Talentum-id",
                 "repo": "ic_sis",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -3098,12 +4392,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "B3Wallet: A decentralized, multi-chain wallet with unique support for Bitcoin, Ethereum, using Internet Computer's threshold ECDSA. Manage multiple accounts and owners securely and efficiently with this open-source solution.",
+                "homepage": "https://mnrs5-4qaaa-aaaap-abc5a-cai.icp0.io/",
                 "id": 631325466,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-03-30T14:24:01Z",
+                "open_issues": 0,
                 "owner": "B3Pay",
                 "repo": "B3Wallet",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3114,12 +4413,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "starter template leveraging chain fusion technology to build EVM coprocessors on the Internet Computer Protocol",
+                "homepage": null,
                 "id": 788637433,
                 "language": "Solidity",
+                "license": "MIT",
                 "last_commit": "2025-06-11T07:44:11Z",
+                "open_issues": 8,
                 "owner": "letmejustputthishere",
                 "repo": "icp-evm-coprocessor-starter",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3130,12 +4434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A canister that does nothing but sign transactions for use on other blockchains.",
+                "homepage": null,
                 "id": 827360447,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T00:04:49Z",
+                "open_issues": 14,
                 "owner": "dfinity",
                 "repo": "chain-fusion-signer",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3146,12 +4455,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example code for using Alloy with the Internet Computer.",
+                "homepage": "https://u4yi6-xiaaa-aaaap-aib2q-cai.icp0.io",
                 "id": 856257227,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-10-13T17:02:44Z",
+                "open_issues": 0,
                 "owner": "ic-alloy",
                 "repo": "ic-alloy-toolkit",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "alloy",
+                  "ethereum",
+                  "internet-computer",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3162,12 +4481,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React/Vite/Rust demo of the ic-siwe library, allowing ethereum apps to extend to the Internet Computer using Sign In with Ethereum (SIWE)",
+                "homepage": "https://shtr2-2iaaa-aaaal-qckva-cai.icp0.io",
                 "id": 724538116,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-10-13T17:10:26Z",
+                "open_issues": 0,
                 "owner": "kristoferlund",
                 "repo": "ic-siwe-react-demo-rust",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "canister",
+                  "dfinity",
+                  "internet-computer",
+                  "react",
+                  "rust",
+                  "typescript",
+                  "vite"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3178,12 +4510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Key derivation implemented in typescript.",
+                "homepage": null,
                 "id": 991928044,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-21T09:19:00Z",
+                "open_issues": 6,
                 "owner": "dfinity",
                 "repo": "ic-pub-key",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -3201,12 +4538,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Internet Computer blockchain source: the client/replica software run by nodes",
+                "homepage": "https://internetcomputer.org",
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-28T19:54:43Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:25:31Z",
+                "open_issues": 286,
                 "owner": "dfinity",
                 "repo": "ic",
-                "stars": 1787
+                "stars": 1787,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3217,12 +4559,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ordinal Inscription Testbed on ICP",
+                "homepage": null,
                 "id": 746597121,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-08-19T08:26:31Z",
+                "open_issues": 0,
                 "owner": "domwoe",
                 "repo": "inscription_canister",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "bitcoin",
+                  "inscriptions",
+                  "internet-computer-protocol",
+                  "ordinals"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3233,12 +4585,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An on-chain runes indexer on the Internet Computer",
+                "homepage": null,
                 "id": 811241466,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-07-11T07:00:03Z",
+                "open_issues": 1,
                 "owner": "octopus-network",
                 "repo": "runes-indexer",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "canister",
+                  "icp",
+                  "ord",
+                  "runes"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3249,12 +4611,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 731331917,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-02-07T15:38:34Z",
+                "open_issues": 0,
                 "owner": "sardariuss",
                 "repo": "ordinals_canister",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3265,12 +4632,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICP canister for Bitcoin metaprotocols",
+                "homepage": null,
                 "id": 988635494,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-30T15:55:27Z",
+                "open_issues": 3,
                 "owner": "maestro-org",
                 "repo": "maestro-bitcoin-metaprotocols-canister",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3281,12 +4653,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 550737084,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-10-17T14:03:12Z",
+                "open_issues": 16,
                 "owner": "Benjamin-Loison",
                 "repo": "Internet-Computer-Bitcoin-Library",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3297,12 +4674,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 717098058,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-12-04T15:21:01Z",
+                "open_issues": 0,
                 "owner": "sardariuss",
                 "repo": "ic_btc_multisig",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3313,12 +4695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An on-chain ordinals indexer for querying sats and inscriptions.",
+                "homepage": null,
                 "id": 998407129,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-01-10T10:32:10Z",
+                "open_issues": 0,
                 "owner": "octopus-network",
                 "repo": "ordinals-indexer",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3329,12 +4716,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 719538283,
                 "language": "Motoko",
+                "license": null,
                 "last_commit": "2023-12-05T12:59:54Z",
+                "open_issues": 0,
                 "owner": "lokaverse",
                 "repo": "loka_canister",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -3352,12 +4744,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Internet Computer blockchain source: the client/replica software run by nodes",
+                "homepage": "https://internetcomputer.org",
                 "id": 365701873,
                 "language": "Rust",
-                "last_commit": "2026-08-28T19:54:43Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:25:31Z",
+                "open_issues": 286,
                 "owner": "dfinity",
                 "repo": "ic",
-                "stars": 1787
+                "stars": 1787,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3368,12 +4765,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A browser-based, multi-chain wallet hosted on the Internet Computer",
+                "homepage": "https://oisy.com",
                 "id": 675647111,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:14:57Z",
+                "open_issues": 157,
                 "owner": "dfinity",
                 "repo": "oisy-wallet",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "bitcoin",
+                  "blockchain",
+                  "erc20",
+                  "ethereum",
+                  "icp",
+                  "internet-computer",
+                  "solana",
+                  "wallet",
+                  "walletconnect"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3384,12 +4796,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interact with EVM blockchains from the Internet Computer.",
+                "homepage": "https://internetcomputer.org/docs/current/developer-docs/multi-chain/ethereum/evm-rpc/overview",
                 "id": 623380778,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T09:23:26Z",
+                "open_issues": 15,
                 "owner": "dfinity",
                 "repo": "evm-rpc-canister",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "alchemy",
+                  "arbitrum",
+                  "avalanche",
+                  "cloudflare",
+                  "cross-chain",
+                  "dfinity",
+                  "ethereum",
+                  "evm",
+                  "fantom",
+                  "icp",
+                  "integration",
+                  "optimism",
+                  "polygon",
+                  "solana",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3400,12 +4833,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An advanced starter project for interacting with Ethereum on the Internet Computer (Beta)",
+                "homepage": "https://xm3ir-rqaaa-aaaap-abhqq-cai.icp0.io/",
                 "id": 672304861,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-09T15:03:58Z",
+                "open_issues": 6,
                 "owner": "dfinity",
                 "repo": "icp-eth-starter",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "cross-chain",
+                  "dfinity",
+                  "ethereum",
+                  "example",
+                  "internet-computer",
+                  "motoko",
+                  "nft",
+                  "react",
+                  "rust",
+                  "starter-project",
+                  "tailwind",
+                  "template",
+                  "twin-macro",
+                  "vite"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3416,12 +4869,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 669077948,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-12T07:03:36Z",
+                "open_issues": 2,
                 "owner": "equilibriumco",
                 "repo": "ethereum-canister",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3432,12 +4890,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Omnic protocol repo",
+                "homepage": null,
                 "id": 520454747,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2023-05-26T09:01:39Z",
+                "open_issues": 1,
                 "owner": "rklb7",
                 "repo": "omnic",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3448,12 +4911,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contracts and canisters enabling ERC20 ICP on Ethereum",
+                "homepage": null,
                 "id": 696201809,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-22T08:12:43Z",
+                "open_issues": 3,
                 "owner": "dfinity",
                 "repo": "erc20-icp",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3464,12 +4932,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 591311153,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-05-12T13:01:43Z",
+                "open_issues": 1,
                 "owner": "icopen",
                 "repo": "evm_utils_ic",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3480,12 +4953,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 640825794,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-01-04T16:30:45Z",
+                "open_issues": 0,
                 "owner": "horizonx-tech",
                 "repo": "ic-web3-rs",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3496,12 +4974,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example code for using Alloy with the Internet Computer.",
+                "homepage": "https://u4yi6-xiaaa-aaaap-aib2q-cai.icp0.io",
                 "id": 856257227,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-10-13T17:02:44Z",
+                "open_issues": 0,
                 "owner": "ic-alloy",
                 "repo": "ic-alloy-toolkit",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "alloy",
+                  "ethereum",
+                  "internet-computer",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3512,12 +5000,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Usher Labs' Verity zkTLS Data Processor Framework",
+                "homepage": "https://usherlabs.github.io/verity-dp/",
                 "id": 654654062,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-03-31T04:06:44Z",
+                "open_issues": 1,
                 "owner": "usherlabs",
                 "repo": "verity-dp",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "cryptography",
+                  "data",
+                  "datasecurity",
+                  "internet-computer",
+                  "mpc",
+                  "risczero",
+                  "rust",
+                  "rust-lang",
+                  "smart-contracts",
+                  "tls",
+                  "zero-knowledge"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3528,12 +5033,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multiuser Ethereum wallet built on ICP, using Alloy for RPC interactions.",
+                "homepage": "https://7vics-6yaaa-aaaai-ap7lq-cai.icp0.io",
                 "id": 872474382,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-10-13T17:01:43Z",
+                "open_issues": 0,
                 "owner": "ic-alloy",
                 "repo": "ic-alloy-basic-wallet",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "ethereum",
+                  "internet-computer",
+                  "react",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3544,12 +5059,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A seamless Rust-based starter template for integrating ICP canisters with EVM-based smart contracts.",
+                "homepage": "https://inuxd-qiaaa-aaaal-qjigq-cai.icp0.io/",
                 "id": 819748242,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-01-21T12:36:21Z",
+                "open_issues": 1,
                 "owner": "Stephen-Kimoi",
                 "repo": "icp-evm-rust-bridge",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "chainfusion",
+                  "icp",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3560,12 +5084,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autonomous interest rate management for Liquity v2, powered by the Internet Computer.",
+                "homepage": null,
                 "id": 810681125,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-05-30T07:38:50Z",
+                "open_issues": 0,
                 "owner": "liquity",
                 "repo": "bold-ir-management",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3576,12 +5105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 719020753,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-08-28T12:04:48Z",
+                "open_issues": 1,
                 "owner": "b3hr4d",
                 "repo": "cknft",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3592,12 +5126,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "On-chain oracle. ",
+                "homepage": null,
                 "id": 577367242,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-01-14T13:51:49Z",
+                "open_issues": 1,
                 "owner": "orally-network",
                 "repo": "oracle",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "blockchain",
+                  "dfinity",
+                  "eth",
+                  "ethereum",
+                  "icp",
+                  "internet-computer",
+                  "onchain",
+                  "oracle"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3608,12 +5156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Testing framework for the Internet Computer",
+                "homepage": null,
                 "id": 949935421,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-11-28T13:49:27Z",
+                "open_issues": 3,
                 "owner": "wasm-forge",
                 "repo": "ic-test",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3624,12 +5177,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 640815341,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-27T14:01:10Z",
+                "open_issues": 0,
                 "owner": "horizonx-tech",
                 "repo": "ic-solidity-bindgen",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3640,12 +5198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 932144694,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-31T10:13:20Z",
+                "open_issues": 0,
                 "owner": "octopus-network",
                 "repo": "ethereum-lightclient-canister",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3656,12 +5219,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An advanced starter project for interacting with Ethereum on the Internet Computer (Beta)",
+                "homepage": "https://xm3ir-rqaaa-aaaap-abhqq-cai.icp0.io/",
                 "id": 743278610,
                 "language": "Motoko",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-24T10:58:34Z",
+                "open_issues": 8,
                 "owner": "vporton",
                 "repo": "passport-client-dfinity",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -3679,12 +5247,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interact with Solana from the Internet Computer",
+                "homepage": null,
                 "id": 721610873,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-10T12:06:56Z",
+                "open_issues": 11,
                 "owner": "pointgroup-labs",
                 "repo": "ic-solana",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "cross-chain",
+                  "dfinity",
+                  "icp",
+                  "integration",
+                  "internet-computer",
+                  "rpc",
+                  "solana",
+                  "wallet",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             },
@@ -3695,12 +5278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 758064690,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-28T11:13:54Z",
+                "open_issues": 3,
                 "owner": "weichain",
                 "repo": "galactic-bridge-icp",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -3718,12 +5306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(WIP) Interact with Cosmos from the Internet Computer.",
+                "homepage": null,
                 "id": 899109481,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-25T14:07:47Z",
+                "open_issues": 5,
                 "owner": "poroburu",
                 "repo": "ic-cosmos",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -3741,12 +5334,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 912617715,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-09-11T07:41:16Z",
+                "open_issues": 0,
                 "owner": "4iDPS",
                 "repo": "peymate_ii",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:23:28.785Z"
             }
@@ -3768,12 +5366,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 An AI agent framework built with Rust.",
+            "homepage": "https://anda.ai",
             "id": 911466387,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T09:16:59Z",
+            "open_issues": 0,
             "owner": "ldclabs",
             "repo": "anda",
-            "stars": 439
+            "stars": 439,
+            "topics": [
+              "agent",
+              "agi",
+              "autonomous",
+              "decentralize"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -3784,12 +5392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "llama.cpp for the Internet Computer",
+            "homepage": null,
             "id": 770576576,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-07T17:01:03Z",
+            "open_issues": 2,
             "owner": "onicai",
             "repo": "llama_cpp_canister",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -3800,12 +5413,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeVinci is the browser-based AI chatbot app served from the Internet Computer. You can chat with the AI model loaded into your browser so your chats remain fully on your device. If you choose to log in, you can also store your chats on the Internet Computer and reload them later.",
+            "homepage": "https://devinci.onicai.com/",
             "id": 666577592,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-08T12:27:45Z",
+            "open_issues": 0,
             "owner": "patnorris",
             "repo": "DecentralizedAIonIC",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "ai",
+              "decentralized",
+              "internetcomputer",
+              "llm",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -3816,12 +5440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All things DeAI on the Internet Computer. The DeAI Working Group collects relevant resources in this repo.",
+            "homepage": null,
             "id": 761865427,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-04T20:10:57Z",
+            "open_issues": 1,
             "owner": "DeAIWorkingGroupInternetComputer",
             "repo": "DeAIWorkingGroupInternetComputer",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -3832,12 +5461,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arcmind Autonomous AI Agent powered by Dfinity's Internet Computer",
+            "homepage": "https://github.com/arcmindai/arcmindai",
             "id": 672105955,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-09-03T22:59:27Z",
+            "open_issues": 1,
             "owner": "arcmindai",
             "repo": "arcmindai",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ai",
+              "autonomous-agents",
+              "chainofthought",
+              "internetcomputer",
+              "rust-lang",
+              "smartcontract"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -3848,12 +5489,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "on-chain LLMs for the Internet Computer",
+            "homepage": "https://icgpt.icpp.world",
             "id": 690481887,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-07T22:01:52Z",
+            "open_issues": 1,
             "owner": "icppWorld",
             "repo": "icgpt",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "internet-computer",
+              "llama2",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -3864,12 +5514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 776112095,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-14T02:14:58Z",
+            "open_issues": 1,
             "owner": "ICME-Lab",
             "repo": "Vectune",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -3880,12 +5535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 705622247,
             "language": "Motoko",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-14T14:44:49Z",
+            "open_issues": 0,
             "owner": "ildefons",
             "repo": "motokolearn",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -3896,12 +5556,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ArcMind Vector DB",
+            "homepage": "https://arcmindai.app",
             "id": 717296488,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-05-05T06:30:14Z",
+            "open_issues": 0,
             "owner": "arcmindai",
             "repo": "arcmindvector",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "ai",
+              "approximate-nearest-neighbor-search",
+              "internetcomputer",
+              "nearest-neighbor-search",
+              "retrieval-augmented-generation",
+              "rust-lang",
+              "similarity-search",
+              "smart-contracts",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -3912,12 +5587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A streamlined open-source tool for deploying Python AI models on the Internet Computer (IC). Enables easy uploading and inference.",
+            "homepage": null,
             "id": 746120786,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-08T20:13:59Z",
+            "open_issues": 0,
             "owner": "decide-ai",
             "repo": "rust-connect-py-ai-to-ic",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -3928,12 +5608,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cipher AI Vault is an Azle-based proof of concept designed with a strong emphasis on abstraction, seamlessly integrating in-memory VectorDB, in-memory LLM, secure asset storage, stable memory data storage, cycles-distro top-up, and ic-auth for authentication.",
+            "homepage": "https://qehbq-rqaaa-aaaan-ql2iq-cai.icp0.io/",
             "id": 765113834,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-15T00:33:12Z",
+            "open_issues": 8,
             "owner": "supaIC",
             "repo": "Cipher-AI-Vault",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "internet-computer",
+              "llm",
+              "vector-database",
+              "webgpu"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -3944,12 +5634,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "# decentAI (decentralizedAI)",
+            "homepage": null,
             "id": 752036912,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-02-04T13:56:07Z",
+            "open_issues": 1,
             "owner": "SoyCarlosIA",
             "repo": "decentAI",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -3960,12 +5655,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning's \"hello world\" on ICP ",
+            "homepage": null,
             "id": 645334750,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-05-25T15:40:11Z",
+            "open_issues": 0,
             "owner": "smallstepman",
             "repo": "ic-mnist",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -3976,12 +5676,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully On-chain Inference for LLMs",
+            "homepage": null,
             "id": 817452036,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-07-11T22:10:02Z",
+            "open_issues": 1,
             "owner": "gip",
             "repo": "yllama.oc",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -3992,12 +5697,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://icp-agent.com",
             "id": 1026233904,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-07-25T15:01:08Z",
+            "open_issues": 0,
             "owner": "justmert",
             "repo": "icp-agent-kit",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -4008,12 +5718,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 836859988,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-06-12T14:19:20Z",
+            "open_issues": 0,
             "owner": "acgodson",
             "repo": "blueband-db",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -4024,12 +5739,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository showcases illustrative diagrams and sample codes demonstrating the implementation",
+            "homepage": null,
             "id": 744403687,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-01-14T08:24:02Z",
+            "open_issues": 0,
             "owner": "ReCheck-io",
             "repo": "icp-datapond-integration",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -4040,12 +5760,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 796927021,
             "language": "Assembly",
+            "license": null,
             "last_commit": "2025-01-10T19:13:17Z",
+            "open_issues": 1,
             "owner": "ktimam",
             "repo": "SoccerTrainer",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         }
@@ -4062,12 +5787,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust SDK for building Model Context Protocol servers on Internet Computer canisters.",
+            "homepage": null,
             "id": 969859598,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-10-31T15:57:04Z",
+            "open_issues": 0,
             "owner": "ByteSmithLabs",
             "repo": "ic-rmcp",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -4078,12 +5808,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The trust layer for the open agentic web—giving AI agents a passport, a bank account, and a trusted marketplace to securely interact with the world.",
+            "homepage": "https://prometheusprotocol.org",
             "id": 1017460394,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-14T23:12:01Z",
+            "open_issues": 2,
             "owner": "prometheus-protocol",
             "repo": "prometheus-protocol",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "blockchain",
+              "dfinity",
+              "ic",
+              "mcp",
+              "model-context-protocol",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -4094,12 +5836,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create and deploy MCP servers on the blockchain using the Motoko programming language and the Internet Computer.",
+            "homepage": null,
             "id": 1020410615,
             "language": "Motoko",
+            "license": "MIT",
             "last_commit": "2025-09-18T22:00:55Z",
+            "open_issues": 0,
             "owner": "prometheus-protocol",
             "repo": "motoko-sdk",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         }
@@ -4116,12 +5863,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 785554276,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-19T23:45:47Z",
+            "open_issues": 0,
             "owner": "flyq",
             "repo": "jolt_verifier_canister",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -4132,12 +5884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Canister for zk-maze",
+            "homepage": null,
             "id": 783999922,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-04-09T06:34:37Z",
+            "open_issues": 1,
             "owner": "zCloak-Network",
             "repo": "icp-zk-maze",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -4148,12 +5905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 838123772,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-20T14:04:59Z",
+            "open_issues": 0,
             "owner": "lightec-xyz",
             "repo": "plonk_verifier_on_icp",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         },
@@ -4164,12 +5926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enable PADO (extension) on Internet Computer",
+            "homepage": null,
             "id": 712711878,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-03T11:24:59Z",
+            "open_issues": 0,
             "owner": "primus-labs",
             "repo": "pado-icp",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:23:28.785Z"
         }
@@ -4178,15 +5945,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:50:29.952Z",
+    "last_updated": "2026-08-29T04:36:12.863Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome projects and resources relating to the Internet Computer Protocol",
+      "homepage": "https://internetcomputer.org",
       "id": 275056494,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-09T08:34:25Z",
+      "open_issues": 2,
       "owner": "dfinity",
       "repo": "awesome-internet-computer",
-      "stars": 895
+      "stars": 895,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "blockchain",
+        "internet-computer"
+      ]
     },
     "original_repository_sha": "0d5e5b2e280711813fe197d54362251ce9332b20",
     "enhanced_repository": "enhansome/enhansome-internet-computer",
