@@ -111,7 +111,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 * [agent-js](https://github.com/dfinity/agent-js) ⭐ 171 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-12 - Collection of libraries to interact with the IC using JavaScript.
 * [ic-js](https://github.com/dfinity/ic-js) ⭐ 81 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-19 - Collection of libraries for interfacing with the Internet Computer.
-* [ic-use-siwe-identity](https://github.com/kristoferlund/ic-siwe/tree/main/packages/ic-use-siwe-identity) ⭐ 32 | 🐛 2 | 🌐 Rust | 📅 2025-09-12 - React hook for easy frontend integration with SIWE (Sign in with Ethereum) enabled canisters.
+* [ic-use-siwe-identity](https://github.com/kristoferlund/ic-siwe/tree/main/packages/ic-use-siwe-identity) ⭐ 33 | 🐛 2 | 🌐 Rust | 📅 2025-09-12 - React hook for easy frontend integration with SIWE (Sign in with Ethereum) enabled canisters.
 * [node-ic0](https://github.com/dfinity/node-ic0) ⭐ 19 | 🐛 5 | 🌐 TypeScript | 📅 2026-04-09 - The ic0 package is a simple, straightforward way to interact with canisters running on the IC.
 * [icblast](https://github.com/infu/icblast) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28 - Communicate with IC directly using NodeJS. Automatic service discovery.
 * [ic-use-internet-identity](https://github.com/kristoferlund/ic-use-internet-identity) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2025-12-26 - React hook that makes it easy to integrate IC Internet Identity into React applications.
@@ -123,7 +123,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 ### Rust
 
 * [dfx](https://github.com/dfinity/sdk) ⭐ 204 | 🐛 73 | 🌐 Rust | 📅 2026-10-19 - Commandline tool to interact with the IC written in Rust.
-* [agent-rs](https://github.com/dfinity/agent-rs) ⭐ 144 | 🐛 5 | 🌐 Rust | 📅 2026-09-16 - Collection of libraries and tools for interfacing with the IC using Rust.
+* [agent-rs](https://github.com/dfinity/agent-rs) ⭐ 144 | 🐛 6 | 🌐 Rust | 📅 2026-10-22 - Collection of libraries and tools for interfacing with the IC using Rust.
 
 ### Python
 
@@ -182,7 +182,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 ### JavaScript/TypeScript
 
-* [Azle](https://github.com/demergent-labs/azle) ⭐ 228 | 🐛 427 | 🌐 TypeScript | 📅 2026-10-21 - TypeScript CDK.
+* [Azle](https://github.com/demergent-labs/azle) ⭐ 228 | 🐛 428 | 🌐 TypeScript | 📅 2026-10-22 - TypeScript CDK.
 
 ### Python
 
@@ -233,12 +233,12 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 ### Testing
 
-* [pocket-ic](https://github.com/dfinity/ic/tree/master/packages/pocket-ic) ⭐ 1,800 | 🐛 286 | 🌐 Rust | 📅 2026-10-21 - A canister testing library that supports deterministic, programmatic canister testing in Rust.
+* [pocket-ic](https://github.com/dfinity/ic/tree/master/packages/pocket-ic) ⭐ 1,801 | 🐛 287 | 🌐 Rust | 📅 2026-10-22 - A canister testing library that supports deterministic, programmatic canister testing in Rust.
 * [ic-repl](https://github.com/chenyan2002/ic-repl) ⭐ 72 | 🐛 3 | 🌐 Rust | 📅 2026-07-15 - A REPL environment to communicate with canisters. Allows to write E2E integration tests.
 * [canister-profiling](https://github.com/dfinity/canister-profiling) ⭐ 21 | 🐛 20 | 🌐 Rust | 📅 2026-04-08 - Code & scripts for collecting performance data for canisters.
 * [pocketic-py](https://github.com/dfinity/pocketic-py) ⭐ 14 | 🐛 9 | 🌐 Python | 📅 2026-05-12 - A canister testing library that supports deterministic, programmatic canister testing in Python.
 * [lightic](https://github.com/icopen/lightic) ⭐ 14 | 🐛 2 | 🌐 Rust | 📅 2023-08-15 - Write & Run tests for any canister in JS/TS. Canisters will be run inside nodejs environment, no DFX.
-* [pic-js](https://github.com/dfinity/pic-js) ⭐ 10 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-02 - A TypeScript/JavaScript library for testing canisters with support for PocketIC.
+* [pic-js](https://github.com/dfinity/pic-js) ⭐ 10 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-22 - A TypeScript/JavaScript library for testing canisters with support for PocketIC.
 * [ic-test](https://github.com/wasm-forge/ic-test) ⭐ 5 | 🐛 3 | 🌐 Rust | 📅 2025-11-28 - Command-line tool that makes it easier to create a test project and includes the basic files and setup needed for both IC canisters and optionally EVM (Ethereum Virtual Machine) smart contracts.
 * [ic-mockery](https://github.com/ic-mockery/ic-mockery) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2026-10-05 - IC-Mockery is a procedural macro framework that transforms async Result methods into HTTP outcalls, enabling seamless Internet Computer canister testing with PocketIC without changing production code.
 
@@ -264,13 +264,13 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 
 ### Orchestrating
 
-* [Canic](https://github.com/dragginzgame/canic) ⭐ 10 | 🐛 429 | 🌐 Rust | 📅 2026-10-21 - A Rust toolkit for orchestrating Internet Computer (IC) canisters at scale.
+* [Canic](https://github.com/dragginzgame/canic) ⭐ 10 | 🐛 410 | 🌐 Rust | 📅 2026-10-22 - A Rust toolkit for orchestrating Internet Computer (IC) canisters at scale.
 
 ## Motoko
 
 Motoko is a safe, simple, actor-based programming language for authoring Internet Computer (IC) canister smart contracts.
 
-* [Motoko GitHub Repository](https://github.com/dfinity/motoko) ⭐ 592 | 🐛 254 | 🌐 OCaml | 📅 2026-10-21 - The home of the Motoko language.
+* [Motoko GitHub Repository](https://github.com/dfinity/motoko) ⭐ 592 | 🐛 256 | 🌐 OCaml | 📅 2026-10-22 - The home of the Motoko language.
 * [Blocks](https://github.com/Blocks-Editor/blocks) ⭐ 163 | 🐛 28 | 🌐 JavaScript | 📅 2023-09-13 - Online low-code editor for Motoko.
 * [Awesome Motoko](https://github.com/ic123-xyz/awesome-motoko) ⭐ 118 | 🐛 0 | 📅 2025-11-25 - Awesome list focused on Motoko.
 * [Motoko Formatter](https://github.com/dfinity/prettier-plugin-motoko) ⭐ 28 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-20 - A configurable Prettier plugin for Motoko.
@@ -297,9 +297,9 @@ Motoko is a safe, simple, actor-based programming language for authoring Interne
 
 Candid is an interface description language (IDL) for interacting with canisters (also known as services or actors) running on the Internet Computer. It provides a language-independent description of canister interfaces and the data they exchange, with type safety and extensibility.
 
-* [Candid GitHub Repo](https://github.com/dfinity/candid) ⭐ 301 | 🐛 64 | 🌐 Rust | 📅 2026-10-21 - The home of Candid.
-* [Candid UI](https://github.com/dfinity/candid/blob/master/tools/ui) ⭐ 301 | 🐛 64 | 🌐 Rust | 📅 2026-10-21 - Generates a front-end UI for any canister.
-* [didc](https://github.com/dfinity/candid/tree/master/tools/didc) ⭐ 301 | 🐛 64 | 🌐 Rust | 📅 2026-10-21 - A multi-purpose tool for Candid.
+* [Candid GitHub Repo](https://github.com/dfinity/candid) ⭐ 301 | 🐛 64 | 🌐 Rust | 📅 2026-10-22 - The home of Candid.
+* [Candid UI](https://github.com/dfinity/candid/blob/master/tools/ui) ⭐ 301 | 🐛 64 | 🌐 Rust | 📅 2026-10-22 - Generates a front-end UI for any canister.
+* [didc](https://github.com/dfinity/candid/tree/master/tools/didc) ⭐ 301 | 🐛 64 | 🌐 Rust | 📅 2026-10-22 - A multi-purpose tool for Candid.
 * [idl2json](https://github.com/dfinity/idl2json) ⭐ 9 | 🐛 6 | 🌐 Rust | 📅 2026-04-08 - Command line tool for converting Candid to JSON.
 * [Intellij Candid Plugin](https://github.com/Alaanor/candid-intellij-plugin) ⭐ 7 | 🐛 9 | 🌐 Kotlin | 📅 2023-09-15 - A Candid language plugin for editing .did files.
 * [Candid UI Web Component](https://github.com/dfinity/dfn-components/tree/main/packages/candid-ui) ⭐ 5 | 🐛 6 | 🌐 TypeScript | 📅 2026-04-08 - Web component to easily embed Candid UI.
@@ -317,7 +317,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 #### C++
 
-* [icpp-candid](https://github.com/icppWorld/icpp-candid) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-10-21 - C++ Candid Library.
+* [icpp-candid](https://github.com/icppWorld/icpp-candid) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2026-10-22 - C++ Candid Library.
 
 #### Dart
 
@@ -360,7 +360,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 * [ic-sqlite](https://github.com/froghub-io/ic-sqlite) ⭐ 34 | 🐛 0 | 🌐 Rust | 📅 2023-03-14 - SQLite on the IC.
 * [CanDB](https://github.com/ORIGYN-SA/CanDB) ⭐ 31 | 🐛 20 | 🌐 Motoko | 📅 2024-03-20 - Flexible, performant, and horizontally scalable non-relational multi-canister database built in Motoko.
 * [ic-oss](https://github.com/ldclabs/ic-oss) ⭐ 31 | 🐛 0 | 🌐 Rust | 📅 2026-09-24 - A decentralized Object Storage Service on the IC.
-* [IcyDB](https://github.com/dragginzgame/icydb) ⭐ 18 | 🐛 159 | 🌐 Rust | 📅 2026-10-21 - Scalable DB/ORM written in Rust, battle tested and constantly updated.
+* [IcyDB](https://github.com/dragginzgame/icydb) ⭐ 18 | 🐛 141 | 🌐 Rust | 📅 2026-10-22 - Scalable DB/ORM written in Rust, battle tested and constantly updated.
 * [ZenDB](https://github.com/NatLabs/ZenDB) ⚠️ Archived - Embedded Document DB with MongoDB style queries for large datasets for Motoko.
 * [ic-oxigraph](https://github.com/omnia-network/ic-oxigraph) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2023-05-14 - An RDF database for the IC, that enables on-chain knowledge graphs.
 * [ic-cose](https://github.com/ldclabs/ic-cose) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2026-09-24 - A decentralized COnfiguration service with Signing and Encryption on the IC.
@@ -394,7 +394,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 ### Implementations
 
-* [ICRC-1/2/3 Rust](https://github.com/dfinity/ic/tree/master/rs/ledger_suite/icrc1) ⭐ 1,800 | 🐛 286 | 🌐 Rust | 📅 2026-10-21 - Fungible token reference implementation by DFINITY.
+* [ICRC-1/2/3 Rust](https://github.com/dfinity/ic/tree/master/rs/ledger_suite/icrc1) ⭐ 1,801 | 🐛 287 | 🌐 Rust | 📅 2026-10-22 - Fungible token reference implementation by DFINITY.
 * [ICRC-7 Rust](https://github.com/ORIGYN-SA/nft) ⭐ 18 | 🐛 3 | 🌐 Rust | 📅 2026-10-16 - NFT reference implementation by ORIGYN.
 * ⚠️ UNMAINTAINED ⚠️ [ICRC-7 Rust Launchpad](https://github.com/tuminfei/icrc7_launchpad) ⭐ 11 | 🐛 1 | 🌐 Rust | 📅 2025-01-11 - NFT launchpad example implementation by `tuminfei`.
 * ⚠️ UNMAINTAINED ⚠️ [ICRC-7 Rust](https://github.com/pramitgaha21/icrc7) ⭐ 10 | 🐛 8 | 🌐 Rust | 📅 2024-04-30 - NFT launchpad example implementation by `pramitgaha21`.
@@ -407,7 +407,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 ### Faucets
 
-* [ledger-faucet](https://github.com/dfinity/ledger-faucet) ⭐ 3 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-17 - Minter implementation of the [official faucet](https://faucet.internetcomputer.org) for testing purposes on ICP mainnet. It enables devs and users to claim tokens on the [TESTICP](https://dashboard.internetcomputer.org/canister/xafvr-biaaa-aaaai-aql5q-cai) and [TESTICRC1](https://dashboard.internetcomputer.org/canister/3jkp5-oyaaa-aaaaj-azwqa-cai) ledgers.
+* [ledger-faucet](https://github.com/dfinity/ledger-faucet) ⭐ 3 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-22 - Minter implementation of the [official faucet](https://faucet.internetcomputer.org) for testing purposes on ICP mainnet. It enables devs and users to claim tokens on the [TESTICP](https://dashboard.internetcomputer.org/canister/xafvr-biaaa-aaaai-aql5q-cai) and [TESTICRC1](https://dashboard.internetcomputer.org/canister/3jkp5-oyaaa-aaaaj-azwqa-cai) ledgers.
 
 ### Analytical Methodologies
 
@@ -415,7 +415,7 @@ Candid is an interface description language (IDL) for interacting with canisters
 
 ## Messaging
 
-* [OpenChat](https://github.com/open-ic/open-chat) ⭐ 209 | 🐛 310 | 🌐 Rust | 📅 2026-10-21 - An open chat app.
+* [OpenChat](https://github.com/open-ic/open-chat) ⭐ 209 | 🐛 346 | 🌐 Rust | 📅 2026-10-22 - An open chat app.
 * [ic-telegram-bot](https://github.com/nomeata/ic-telegram-bot) ⭐ 28 | 🐛 1 | 🌐 Rust | 📅 2022-03-29 - A telegram bot on the Internet Computer
 * [W3NS](https://github.com/miguelToscano/w3ns) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2023-08-10 - An Internet Computer service for notifications.
 * [Messity](https://www.messity.com/) - An open and nonproprietary decentralized messaging protocol.
@@ -483,7 +483,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ## Wallets and Authentication
 
-* [Internet Identity](https://github.com/dfinity/internet-identity) ⭐ 537 | 🐛 73 | 🌐 Rust | 📅 2026-10-21 - Pseudoymous authentication system for the Internet Computer.
+* [Internet Identity](https://github.com/dfinity/internet-identity) ⭐ 538 | 🐛 74 | 🌐 Rust | 📅 2026-10-22 - Pseudoymous authentication system for the Internet Computer.
 * [ICRC-1 Wallet](https://github.com/research-ag/wallet) ⭐ 14 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-19 - Canister-based wallet for ICRC-1 compliant tokens.
 * [AstroX Me](https://astrox.me/#/) - Canister-based mobile/web multi-chain wallet.
 * [Bitfinity](https://wallet.infinityswap.one/) - Chrome extension.
@@ -495,7 +495,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ### Libraries
 
-* [ic-siwe](https://github.com/kristoferlund/ic-siwe) ⭐ 32 | 🐛 2 | 🌐 Rust | 📅 2025-09-12 - Authentication library to enable SIWE (Sign in with Ethereum) functionality for ICP applications.
+* [ic-siwe](https://github.com/kristoferlund/ic-siwe) ⭐ 33 | 🐛 2 | 🌐 Rust | 📅 2025-09-12 - Authentication library to enable SIWE (Sign in with Ethereum) functionality for ICP applications.
 * [artemis](https://github.com/sonicdex/artemis) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-26 – Wallet adapter for connecting different wallets on the Internet Computer.
 * [ic-siwb](https://github.com/AstroxNetwork/ic-siwb) ⭐ 19 | 🐛 0 | 🌐 Rust | 📅 2026-04-02 – Authentication library to enable SIWB (Sign in with Bitcoin) functionality for ICP applications.
 * [ic-siws](https://github.com/kristoferlund/ic-siws) ⭐ 16 | 🐛 4 | 🌐 Rust | 📅 2025-10-13 – Authentication library to enable SIWS (Sign in with Solana) functionality for ICP applications.
@@ -521,7 +521,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 * [B3Wallet](https://github.com/B3Pay/b3-wallet) ⭐ 32 | 🐛 0 | 🌐 Rust | 📅 2024-03-30 - A decentralized wallet supporting multiple blockchains, including Ethereum, Bitcoin, and ICP.
 * [Chain Fusion Starter](https://github.com/letmejustputthishere/chain-fusion-starter) ⭐ 28 | 🐛 8 | 🌐 Solidity | 📅 2025-06-11 – starter template leveraging chain fusion technology to build EVM coprocessors on the Internet Computer Protocol
-* [Chain Fusion Signer](https://github.com/dfinity/chain-fusion-signer) ⭐ 14 | 🐛 23 | 🌐 Rust | 📅 2026-10-20 - A canister that does nothing but sign transactions for use on other blockchains.
+* [Chain Fusion Signer](https://github.com/dfinity/chain-fusion-signer) ⭐ 14 | 🐛 24 | 🌐 Rust | 📅 2026-10-22 - A canister that does nothing but sign transactions for use on other blockchains.
 * [Alloy Toolkit](https://github.com/kristoferlund/ic-alloy-toolkit) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-13 - Examples of interacting with Ethereum from a Rust canister using the Alloy EVM support libraries
 * [SIWE starter](https://github.com/kristoferlund/ic-siwe-react-demo-rust) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-13 - Login in to ICP using Metamask and other Ethereum wallets.
 * [ic-pub-key](https://github.com/dfinity/ic-pub-key) ⭐ 3 | 🐛 6 | 🌐 TypeScript | 📅 2026-05-21 - A TypeScript library for client-side key derivation on ICP.
@@ -533,7 +533,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ### Bitcoin
 
-* [ckBTC](https://github.com/dfinity/ic/tree/master/rs/bitcoin/ckbtc) ⭐ 1,800 | 🐛 286 | 🌐 Rust | 📅 2026-10-21 - Canister-controlled BTC twin on ICP with 1:1 backing.
+* [ckBTC](https://github.com/dfinity/ic/tree/master/rs/bitcoin/ckbtc) ⭐ 1,801 | 🐛 287 | 🌐 Rust | 📅 2026-10-22 - Canister-controlled BTC twin on ICP with 1:1 backing.
 * [Inscription Canister](https://github.com/domwoe/inscription_canister) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2024-08-19 - A canister to create Ordinal inscriptions.
 * [runes-indexer](https://github.com/octopus-network/runes-indexer) ⭐ 15 | 🐛 1 | 🌐 Rust | 📅 2025-07-11 – An onchain runes indexer on the Internet Computer.
 * [Ordinals Canister](https://github.com/sardariuss/ordinals_canister) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2024-02-07 - A canister that enables the retrieval of BTC ordinals and their corresponding inscriptions.
@@ -546,9 +546,9 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ### Ethereum
 
-* [ckETH](https://github.com/dfinity/ic/tree/master/rs/ethereum/cketh) ⭐ 1,800 | 🐛 286 | 🌐 Rust | 📅 2026-10-21 - Canister-controlled ETH twin on ICP with 1:1 backing.
-* [Oisy](https://github.com/dfinity/oisy-wallet) ⭐ 179 | 🐛 201 | 🌐 TypeScript | 📅 2026-10-21 - A novel Ethereum wallet that is hosted on the Internet Computer, is browser-based, fully on-chain, and secured by Chain-key cryptography and Internet Identity.
-* [EVM RPC Canister](https://github.com/internet-computer-protocol/evm-rpc-canister) ⭐ 85 | 🐛 25 | 🌐 Rust | 📅 2026-10-08 - Interact with EVM blockchains from the Internet Computer.
+* [ckETH](https://github.com/dfinity/ic/tree/master/rs/ethereum/cketh) ⭐ 1,801 | 🐛 287 | 🌐 Rust | 📅 2026-10-22 - Canister-controlled ETH twin on ICP with 1:1 backing.
+* [Oisy](https://github.com/dfinity/oisy-wallet) ⭐ 180 | 🐛 173 | 🌐 TypeScript | 📅 2026-10-22 - A novel Ethereum wallet that is hosted on the Internet Computer, is browser-based, fully on-chain, and secured by Chain-key cryptography and Internet Identity.
+* [EVM RPC Canister](https://github.com/internet-computer-protocol/evm-rpc-canister) ⭐ 85 | 🐛 27 | 🌐 Rust | 📅 2026-10-22 - Interact with EVM blockchains from the Internet Computer.
 * [ic-eth-starter](https://github.com/dfinity/ic-eth-starter) ⭐ 41 | 🐛 6 | 🌐 TypeScript | 📅 2026-04-09 - An advanced starter project for interacting with Ethereum on the Internet Computer (Beta).
 * [Ethereum Canister](https://github.com/eigerco/ethereum-canister) ⭐ 25 | 🐛 2 | 🌐 Rust | 📅 2024-08-12 - Ethereum Light Client (Helios) running inside a canister.
 * [Omnic](https://github.com/rocklabs-io/omnic) ⭐ 25 | 🐛 1 | 🌐 Rust | 📅 2023-05-26 - Cross-chain messaging protocol to connect EVM-compatible chains via the Internet Computer.
@@ -590,7 +590,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 ## Decentralized AI
 
 * [anda](https://github.com/ldclabs/anda) ⭐ 444 | 🐛 0 | 🌐 Rust | 📅 2026-10-20 – An AI agent framework built with Rust, powered by ICP and TEEs.
-* [llama\_cpp\_canister](https://github.com/onicai/llama_cpp_canister) ⭐ 89 | 🐛 3 | 🌐 C++ | 📅 2026-10-21 - llama.cpp for the Internet Computer. (Note: used as a backend for [ICGPT](https://icgpt.icpp.world/))
+* [llama\_cpp\_canister](https://github.com/onicai/llama_cpp_canister) ⭐ 89 | 🐛 2 | 🌐 C++ | 📅 2026-10-22 - llama.cpp for the Internet Computer. (Note: used as a backend for [ICGPT](https://icgpt.icpp.world/))
 * [DeVinci](https://github.com/patnorris/DecentralizedAIonIC) ⭐ 30 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-08 - AI chatbot running in user's browser based on open-source LLM and served from the Internet Computer. [Try it here](https://x6occ-biaaa-aaaai-acqzq-cai.icp0.io/).
 * [DeAI Technical Working Group](https://github.com/DeAIWorkingGroupInternetComputer/DeAIWorkingGroupInternetComputer) ⭐ 26 | 🐛 1 | 📅 2025-12-04 - Repo of the ICP DeAI WG with weekly call summaries and additional resources.
 * [ArcMind AI](https://github.com/arcmindai/arcmindai) ⭐ 18 | 🐛 1 | 🌐 Rust | 📅 2026-09-15 - LLM-powered autonomous agent that uses Chain of thoughts for reasoning, taking actions, and completing goals. [Try the app here](https://arcmindai.app)
@@ -601,7 +601,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 * [Rust-Connect-Py-AI-to-IC](https://github.com/modclub-app/rust-connect-py-ai-to-ic) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2024-11-08 - A streamlined open-source tool for deploying Python AI models on ICP.
 * [Cipher AI Vault](https://github.com/supaIC/Cipher-AI-Vault) ⭐ 9 | 🐛 8 | 🌐 TypeScript | 📅 2025-03-15 - Azle-based PoC with in-memory VectorDB & LLM, secure asset & data storage, cycles topup, and multi-wallet authentication, showcasing fully-sandboxed AI on the Internet Computer. [Try it here](https://qehbq-rqaaa-aaaan-ql2iq-cai.icp0.io/)
 * [Tensorflow on ICP](https://github.com/carlosarturoceron/decentAI) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2024-02-04 - An example that loads and uses a pre-trained model for predictions within a canister running on ICP using Azle.
-* [ic-mnist](https://github.com/smallstepman/ic-mnist) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2023-05-25 - MNIST (considered to be `hello world` of machine learning) running on IC using [burn](https://github.com/tracel-ai/burn) ⭐ 16,146 | 🐛 173 | 🌐 Rust | 📅 2026-10-21 crate. [Try it here](https://jsi2g-jyaaa-aaaam-abnia-cai.icp0.io/).
+* [ic-mnist](https://github.com/smallstepman/ic-mnist) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2023-05-25 - MNIST (considered to be `hello world` of machine learning) running on IC using [burn](https://github.com/tracel-ai/burn) ⭐ 16,150 | 🐛 168 | 🌐 Rust | 📅 2026-10-22 crate. [Try it here](https://jsi2g-jyaaa-aaaam-abnia-cai.icp0.io/).
 * [yllama](https://github.com/gip/yllama.oc) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2024-07-11 - An on-chain Llama 3 inference engine optimized for real-world workloads using non-quantized 8b parameters Llama models.
 * [ICP Agent Kit](https://github.com/justmert/icp-agent-kit) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2025-07-25 - ICP Agent Kit is a comprehensive TypeScript SDK that brings natural language processing (via LangChain) to Internet Computer blockchain operations.
 * [Blueband](https://github.com/acgodson/blueband-db) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2025-06-12- An on-chain vector DB for semantic search and document retrieval, optimized for static datasets.
@@ -618,7 +618,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ## ZK
 
-* [Jolt Verifier Canister](https://github.com/flyq/jolt_verifier_canister) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2024-04-19 - A Canister which can verify the proof generated by [Jolt](https://github.com/a16z/jolt) ⭐ 1,056 | 🐛 63 | 🌐 Rust | 📅 2026-10-21 zkVM.
+* [Jolt Verifier Canister](https://github.com/flyq/jolt_verifier_canister) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2024-04-19 - A Canister which can verify the proof generated by [Jolt](https://github.com/a16z/jolt) ⭐ 1,056 | 🐛 69 | 🌐 Rust | 📅 2026-10-22 zkVM.
 * [icp-zk-maze](https://github.com/zCloak-Network/icp-zk-maze) ⭐ 3 | 🐛 1 | 🌐 Rust | 📅 2024-04-09 - ZK Maze is a ZK coprocessor developed by zCloak. ZK coprocessor offloads intensive Zero-Knowledge (ZK) computations from traditional blockchains, enabling the creation and verification of Zero-Knowledge Proofs (ZKPs) without revealing private information.
 * [Gnark Plonk Verifer](https://github.com/lightec-xyz/plonk_verifier_on_icp) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2025-03-20 - A Canister that can verify proofs generated by [gnark](https://github.com/Consensys/gnark) ⭐ 1,742 | 🐛 90 | 🌐 Go | 📅 2026-10-21 on the BN254 curve.
 * [Pado zkAttestations](https://github.com/pado-labs/pado-icp) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2024-03-03 - A The main functionalities provided by zkAttestations are creating attestations from the PADO extension, and recording attestations on the IC network. In addition, the basic attestation framework created in this project supports developers in creating their attestation-based dApps.
@@ -654,4 +654,4 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
